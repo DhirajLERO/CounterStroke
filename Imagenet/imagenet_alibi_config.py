@@ -1,0 +1,73 @@
+"""Hyperparameters and checkpoint names for ImageNet explainers (align with plan)."""
+
+from __future__ import annotations
+
+from pathlib import Path
+
+_IMNET_DIR = Path(__file__).resolve().parent
+
+# Counterfactual PT (gradient CF)
+CF_LR = 0.05
+CF_MAX_ITER = 1000
+CF_MAX_LAM_STEPS = 10
+CF_TOL = 0.01
+
+# CFProto
+CFPROTO_GAMMA = 100.0
+CFPROTO_THETA = 100.0
+CFPROTO_LR = 0.01
+CFPROTO_C_INIT = 1.0
+CFPROTO_C_STEPS = 2
+CFPROTO_FEATURE_RANGE = (-0.5, 0.5)
+CFPROTO_LATENT_DIM = 96
+CFPROTO_CHECKPOINT_VERSION = 4
+AE_EPOCHS_CFPROTO = 50
+AE_BATCH_CFPROTO = 1024
+CKPT_CFPROTO = "cfproto_ae_latent_kdtree_rgb_v4.pt"
+
+# CFRL
+CFRL_LATENT_DIM = 128
+CFRL_TRAIN_STEPS_NOTEBOOK = 50000
+CFRL_FIT_MAX_SAMPLES = 32768
+CFRL_BATCH_SIZE = 16
+CFRL_BUFFER_SIZE = 1024
+CFRL_COEFF_SPARSITY = 1e-2
+CFRL_COEFF_CONSISTENCY = 1e-2
+CFRL_AE_EPOCHS = 50
+CFRL_AE_BATCH = 32
+CKPT_CFRL_DIR = "cfrl_explainer"
+CKPT_CFRL_MANIFEST = "cfrl_manifest.json"
+
+# LeapFactual (WAE_MMD vendored from caicairay/LeapFactual; 6-stage encoder for 299→4×4 bottleneck)
+LEAP_LATENT_DIM = 64
+LEAP_VAE_EPOCHS = 300
+LEAP_VAE_BATCH = 8
+LEAP_WAE_AMP = True
+LEAP_CFM_EPOCHS = 100
+LEAP_CFM_LAYERS = 5
+LEAP_CFM_BATCH = 32
+LEAP_CFM_LR = 1e-4
+LEAP_CFM_SIGMA = 0.2
+LEAP_CFM_COND_MODE = "mixed"
+LEAP_MLP_HIDDEN = 512
+CKPT_LEAP_VAE = "leap_wae_mmd_rgb.pt"
+CKPT_LEAP_CFM = "leap_cfm_rgb.pt"
+LEAP_GAMMA_BLEND = 0.1
+LEAP_GAMMA_ROBUST = 0.1
+LEAP_MAX_ITR_BLEND = 15
+LEAP_MAX_ITR_ROBUST = 5
+LEAP_N_ODE_STEPS = 5
+LEAP_T_LOWER = 0.0
+LEAP_T_UPPER = 1.0
+LEAP_ODE_SOLVER = "dopri5"
+LEAP_ODE_SENSITIVITY = "adjoint"
+LEAP_ODE_ATOL = 1e-4
+LEAP_ODE_RTOL = 1e-4
+
+NUM_CLASSES = 100
+
+# Task classifier (fine-tuned InceptionV3 on ImageNet-100)
+CKPT_IMAGENET100_INCEPTION = "imagenet100_inception.pt"
+CLASSIFIER_TRAIN_EPOCHS = 30
+CLASSIFIER_TRAIN_BATCH = 32
+CLASSIFIER_TRAIN_LR = 1e-3

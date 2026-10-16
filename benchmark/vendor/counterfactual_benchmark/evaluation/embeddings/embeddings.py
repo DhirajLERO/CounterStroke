@@ -1,0 +1,137 @@
+from .vgg import vgg, vgg_normalize
+from .classifier_embeddings import ClassifierEmbeddings
+from torchmetrics.image.lpip import LearnedPerceptualImagePatchSimilarity as LPIPS
+import numpy as np
+import os
+import sys
+import torch
+from functools import partial
+from pathlib import Path
+sys.path.append("../../")
+from models.utils import rgbify
+from models.vaes import MmnistCondVAE, CelebaCondVAE, ADNICondVAE
+from torchvision.transforms import InterpolationMode
+BICUBIC = InterpolationMode.BICUBIC
+from torchvision.transforms import Compose, Resize, CenterCrop, ToTensor, Normalize
+import clip
+
+# Set by GracoImage benchmark pipeline via BENCHMARK_UNCOND_VAE_CKPT / BENCHMARK_CELEBA_GRAPH
+_ENV_UNCOND_VAE_CKPT = "BENCHMARK_UNCOND_VAE_CKPT"
+_ENV_CELEBA_GRAPH = "BENCHMARK_CELEBA_GRAPH"
+
+
+def _load_vae_state_dict(model, default_rel_path: str):
+    """Load unconditional VAE weights from env override or default relative path."""
+    ckpt = os.environ.get(_ENV_UNCOND_VAE_CKPT)
+    if ckpt:
+        path = Path(ckpt)
+    else:
+        # default_rel_path is relative to methods/deepscm/
+        deepscm = Path(__file__).resolve().parents[2] / "methods" / "deepscm"
+        path = (deepscm / default_rel_path).resolve()
+    if not path.is_file():
+        raise FileNotFoundError(
+            f"Unconditional VAE checkpoint not found: {path}. "
+            f"Set {_ENV_UNCOND_VAE_CKPT} or place weights under checkpoints/.../trained_uncond_vae/"
+        )
+    model.load_state_dict(torch.load(str(path), map_location=torch.device("cuda"))["state_dict"])
+
+
+def get_embedding_model(embedding, pretrained_vgg, classifier_config=None):
+    if embedding == "vgg":
+        return vgg(pretrained_vgg)
+    elif embedding == "clfs":
+        return ClassifierEmbeddings(classifier_config)
+    elif embedding == "vae":
+        if 'morphomnist' in classifier_config:
+            params = {'latent_dim': 16, 'hidden_dim': 128, 'n_chan': [1, 32, 32, 32], 'beta': 1, 'lr': 1e-3, 'weight_decay': 0.01, 'fixed_logvar': "False"}
+            attribute_size = {
+                "thickness": 1,
+                "intensity": 1,
+                "digit": 10
+            }
+            model = MmnistCondVAE(params, attribute_size, unconditional=True).eval().to('cuda')
+            _load_vae_state_dict(
+                model,
+                "checkpoints/morphomnist/trained_uncond_vae/uncond_image_vae-epoch=269.ckpt",
+            )
+        elif 'celeba' in classifier_config:
+            params = {'latent_dim': 16, 'hidden_dim': 256, 'n_chan': [3, 32, 64, 128, 256, 256], 'beta': 5, 'lr': 0.0005, 'weight_decay': 0, 'fixed_logvar': "False"}
+            attribute_size = {
+                "Smiling": 1,
+                "Eyeglasses": 1
+            }
+            model = CelebaCondVAE(params, attribute_size, unconditional=True).eval().to('cuda')
+            graph = os.environ.get(_ENV_CELEBA_GRAPH, "simple")
+            default_celeba = (
+                f"checkpoints/celeba/{graph}/trained_uncond_vae/image_vae-epoch=44.ckpt"
+            )
+            _load_vae_state_dict(model, default_celeba)
+        else:
+            params = {'context_dim': 0, 'latent_dim': 100, 'hidden_dim': 512, 'n_chan': [1, 16, 24, 32, 64, 128, 256], 'beta': 3, 'lr': 1e-3, 'weight_decay': 0.01, 'fixed_logvar': "False"}
+            attribute_size = {
+            "apoE": 2,
+            "age": 1,
+            "sex": 1,
+            "brain_vol": 1,
+            "vent_vol": 1,
+            "slice": 10
+            }
+            model = ADNICondVAE(params, attribute_size, unconditional=True).eval().to('cuda')
+            _load_vae_state_dict(
+                model,
+                "checkpoints/adni/trained_uncond_vae/image_vae-epoch=07.ckpt",
+            )
+        return model
+    elif embedding == "lpips":
+        return LPIPS(net_type='vgg', normalize=True).to('cuda')
+    elif embedding == "clip":
+        model = clip.load("ViT-B/32", device='cuda')[0]
+        def _transform(n_px):
+            return Compose([
+                Resize(n_px, interpolation=BICUBIC),
+                CenterCrop(n_px),
+                Normalize((0.48145466, 0.4578275, 0.40821073), (0.26862954, 0.26130258, 0.27577711)),
+            ])
+        return model, _transform(model.visual.input_resolution)
+    else:
+        return None
+
+def get_embedding_fn(embedding, unnormalize_fn, embedding_model):
+    if embedding is None:
+        return partial(unnormalize_embedding_fn, unnormalize_fn)
+    elif embedding == "vgg":
+        return partial(vgg_embedding_fn, embedding_model)
+    elif embedding == "clfs":
+        return partial(clfs_embedding_fn, embedding_model)
+    elif embedding == "vae":
+        return partial(vae_embedding_fn, embedding_model)
+    elif embedding == "lpips":
+        return partial(lpips_embedding_fn, embedding_model)
+    elif embedding == "clip":
+        return partial(clip_embedding_fn,  embedding_model)
+    else:
+        exit(f"Invalid embedding: {embedding}")
+
+def unnormalize_embedding_fn(unnormalize_fn, x, _):
+    return unnormalize_fn(x, "image").cpu().numpy()
+
+def vgg_embedding_fn(embedding_model, x, _):
+    return embedding_model(vgg_normalize(rgbify(x, normalized=True), to_0_1=False)).detach().cpu().numpy()
+
+def clfs_embedding_fn(embedding_model, x, cond, skip_attribute=None):
+    return embedding_model(x, cond, only_intensity=True, skip_attribute=skip_attribute).detach().cpu().numpy()
+
+def vae_embedding_fn(embedding_model, x, cond):
+    mu, logvar = embedding_model.encoder(x, cond)
+    return np.transpose([mu.detach().cpu(), logvar.detach().cpu()], (1, 0, 2))
+
+def lpips_embedding_fn(embedding_model, x, y):
+    return embedding_model(rgbify(x, normalized=True), rgbify(y, normalized=True)).detach().cpu().numpy()
+
+def clip_embedding_fn(embedding_model, x, _):
+    model, preprocess = embedding_model
+    image = preprocess(rgbify(x, normalized=False))
+    with torch.no_grad():
+        image_features = model.encode_image(image)
+        return image_features.detach().cpu().numpy()

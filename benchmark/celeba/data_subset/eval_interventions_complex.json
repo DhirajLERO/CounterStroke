@@ -1,0 +1,6405 @@
+{
+  "seed": 42,
+  "entries": [
+    {
+      "sample_idx": 381,
+      "do_parent": "Young",
+      "seed": 1138541193,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 381,
+      "do_parent": "Male",
+      "seed": 1522043579,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 381,
+      "do_parent": "No_Beard",
+      "seed": 2011067813,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 381,
+      "do_parent": "Bald",
+      "seed": 1051350910,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 458,
+      "do_parent": "Young",
+      "seed": 44127628,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 458,
+      "do_parent": "Male",
+      "seed": 2475774775,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 458,
+      "do_parent": "No_Beard",
+      "seed": 916654248,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 458,
+      "do_parent": "Bald",
+      "seed": 2005082106,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 823,
+      "do_parent": "Young",
+      "seed": 3527881231,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 823,
+      "do_parent": "Male",
+      "seed": 3911383617,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 823,
+      "do_parent": "No_Beard",
+      "seed": 204779442,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 823,
+      "do_parent": "Bald",
+      "seed": 1293207300,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 881,
+      "do_parent": "Young",
+      "seed": 830585962,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 881,
+      "do_parent": "Male",
+      "seed": 3361571996,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 881,
+      "do_parent": "No_Beard",
+      "seed": 3949935117,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 881,
+      "do_parent": "Bald",
+      "seed": 743395679,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 1283,
+      "do_parent": "Young",
+      "seed": 1954656419,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 1283,
+      "do_parent": "Male",
+      "seed": 190675157,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 1283,
+      "do_parent": "No_Beard",
+      "seed": 2827183039,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 1283,
+      "do_parent": "Bald",
+      "seed": 1867466136,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 1295,
+      "do_parent": "Young",
+      "seed": 1978702822,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 1295,
+      "do_parent": "Male",
+      "seed": 115382673,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 1295,
+      "do_parent": "No_Beard",
+      "seed": 703745794,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 1295,
+      "do_parent": "Bald",
+      "seed": 4038996187,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 1409,
+      "do_parent": "Young",
+      "seed": 1815574783,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 1409,
+      "do_parent": "Male",
+      "seed": 2199077169,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 1409,
+      "do_parent": "No_Beard",
+      "seed": 2787440290,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 1409,
+      "do_parent": "Bald",
+      "seed": 3875868148,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 1552,
+      "do_parent": "Young",
+      "seed": 1903349252,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 1552,
+      "do_parent": "Male",
+      "seed": 2286851638,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 1552,
+      "do_parent": "No_Beard",
+      "seed": 2775875872,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 1552,
+      "do_parent": "Bald",
+      "seed": 1816158969,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 1600,
+      "do_parent": "Young",
+      "seed": 4047679625,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 1600,
+      "do_parent": "Male",
+      "seed": 136214715,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 1600,
+      "do_parent": "No_Beard",
+      "seed": 724577836,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 1600,
+      "do_parent": "Bald",
+      "seed": 1813005694,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 1618,
+      "do_parent": "Young",
+      "seed": 838714751,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 1618,
+      "do_parent": "Male",
+      "seed": 3369700785,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 1618,
+      "do_parent": "No_Beard",
+      "seed": 3958063906,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 1618,
+      "do_parent": "Bald",
+      "seed": 751524468,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 1649,
+      "do_parent": "Young",
+      "seed": 807383145,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 1649,
+      "do_parent": "Male",
+      "seed": 3338369179,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 1649,
+      "do_parent": "No_Beard",
+      "seed": 3926732300,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 1649,
+      "do_parent": "Bald",
+      "seed": 720192862,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 1760,
+      "do_parent": "Young",
+      "seed": 1262548801,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 1760,
+      "do_parent": "Male",
+      "seed": 1646051187,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 1760,
+      "do_parent": "No_Beard",
+      "seed": 86930660,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 1760,
+      "do_parent": "Bald",
+      "seed": 1175358518,
+      "intervention": {
+        "Bald": 0.0
+      }
+    },
+    {
+      "sample_idx": 1806,
+      "do_parent": "Young",
+      "seed": 3689113288,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 1806,
+      "do_parent": "Male",
+      "seed": 4072615674,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 1806,
+      "do_parent": "No_Beard",
+      "seed": 2414156260,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 1806,
+      "do_parent": "Bald",
+      "seed": 3601923005,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 1865,
+      "do_parent": "Young",
+      "seed": 2803242086,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 1865,
+      "do_parent": "Male",
+      "seed": 939921937,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 1865,
+      "do_parent": "No_Beard",
+      "seed": 3675768706,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 1865,
+      "do_parent": "Bald",
+      "seed": 2716051803,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 1868,
+      "do_parent": "Young",
+      "seed": 3578832063,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 1868,
+      "do_parent": "Male",
+      "seed": 3962334449,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 1868,
+      "do_parent": "No_Beard",
+      "seed": 2303875035,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 1868,
+      "do_parent": "Bald",
+      "seed": 1344158132,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 1897,
+      "do_parent": "Young",
+      "seed": 1582912036,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 1897,
+      "do_parent": "Male",
+      "seed": 4014559183,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 1897,
+      "do_parent": "No_Beard",
+      "seed": 307955008,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 1897,
+      "do_parent": "Bald",
+      "seed": 1396382866,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 1903,
+      "do_parent": "Young",
+      "seed": 2593147181,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 1903,
+      "do_parent": "Male",
+      "seed": 2976649567,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 1903,
+      "do_parent": "No_Beard",
+      "seed": 1417529040,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 1903,
+      "do_parent": "Bald",
+      "seed": 2505956898,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 1990,
+      "do_parent": "Young",
+      "seed": 852736383,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 1990,
+      "do_parent": "Male",
+      "seed": 3383722417,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 1990,
+      "do_parent": "No_Beard",
+      "seed": 3972085538,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 1990,
+      "do_parent": "Bald",
+      "seed": 765546100,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 2042,
+      "do_parent": "Young",
+      "seed": 1388452391,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 2042,
+      "do_parent": "Male",
+      "seed": 1771954777,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 2042,
+      "do_parent": "No_Beard",
+      "seed": 2360317898,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 2042,
+      "do_parent": "Bald",
+      "seed": 1301262108,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 2523,
+      "do_parent": "Young",
+      "seed": 1135875169,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 2523,
+      "do_parent": "Male",
+      "seed": 1519377555,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 2523,
+      "do_parent": "No_Beard",
+      "seed": 2107740676,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 2523,
+      "do_parent": "Bald",
+      "seed": 3196168534,
+      "intervention": {
+        "Bald": 0.0
+      }
+    },
+    {
+      "sample_idx": 2535,
+      "do_parent": "Young",
+      "seed": 3307405220,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 2535,
+      "do_parent": "Male",
+      "seed": 3690907606,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 2535,
+      "do_parent": "No_Beard",
+      "seed": 2131787079,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 2535,
+      "do_parent": "Bald",
+      "seed": 3220214937,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 2564,
+      "do_parent": "Young",
+      "seed": 1311485193,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 2564,
+      "do_parent": "Male",
+      "seed": 3842471227,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 2564,
+      "do_parent": "No_Beard",
+      "seed": 135867052,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 2564,
+      "do_parent": "Bald",
+      "seed": 1224294910,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 2778,
+      "do_parent": "Young",
+      "seed": 3880124409,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 2778,
+      "do_parent": "Male",
+      "seed": 2116143147,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 2778,
+      "do_parent": "No_Beard",
+      "seed": 2704506268,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 2778,
+      "do_parent": "Bald",
+      "seed": 3792934126,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 2794,
+      "do_parent": "Young",
+      "seed": 48733912,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 2794,
+      "do_parent": "Male",
+      "seed": 432236298,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 2794,
+      "do_parent": "No_Beard",
+      "seed": 1020599419,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 2794,
+      "do_parent": "Bald",
+      "seed": 2109027277,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 2879,
+      "do_parent": "Young",
+      "seed": 686320002,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 2879,
+      "do_parent": "Male",
+      "seed": 3217306036,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 2879,
+      "do_parent": "No_Beard",
+      "seed": 3805669157,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 2879,
+      "do_parent": "Bald",
+      "seed": 599129719,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 3025,
+      "do_parent": "Young",
+      "seed": 1549684448,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 3025,
+      "do_parent": "Male",
+      "seed": 3981331595,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 3025,
+      "do_parent": "No_Beard",
+      "seed": 2422211068,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 3025,
+      "do_parent": "Bald",
+      "seed": 3510638926,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 3042,
+      "do_parent": "Young",
+      "seed": 3725346427,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 3042,
+      "do_parent": "Male",
+      "seed": 4108848813,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 3042,
+      "do_parent": "No_Beard",
+      "seed": 402244638,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 3042,
+      "do_parent": "Bald",
+      "seed": 3638156144,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 3152,
+      "do_parent": "Young",
+      "seed": 1563767166,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 3152,
+      "do_parent": "Male",
+      "seed": 1947269552,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 3152,
+      "do_parent": "No_Beard",
+      "seed": 388149025,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 3152,
+      "do_parent": "Bald",
+      "seed": 1476576883,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 3195,
+      "do_parent": "Young",
+      "seed": 2361802813,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 3195,
+      "do_parent": "Male",
+      "seed": 2745305199,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 3195,
+      "do_parent": "No_Beard",
+      "seed": 3333668320,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 3195,
+      "do_parent": "Bald",
+      "seed": 2274612530,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 3229,
+      "do_parent": "Young",
+      "seed": 469353601,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 3229,
+      "do_parent": "Male",
+      "seed": 3000339635,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 3229,
+      "do_parent": "No_Beard",
+      "seed": 1341880221,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 3229,
+      "do_parent": "Bald",
+      "seed": 382163318,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 3433,
+      "do_parent": "Young",
+      "seed": 3683990050,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 3433,
+      "do_parent": "Male",
+      "seed": 1920008788,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 3433,
+      "do_parent": "No_Beard",
+      "seed": 2508371909,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 3433,
+      "do_parent": "Bald",
+      "seed": 3596799767,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 3470,
+      "do_parent": "Young",
+      "seed": 2567130815,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 3470,
+      "do_parent": "Male",
+      "seed": 803149553,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 3470,
+      "do_parent": "No_Beard",
+      "seed": 1391512674,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 3470,
+      "do_parent": "Bald",
+      "seed": 2479940532,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 3522,
+      "do_parent": "Young",
+      "seed": 3908167673,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 3522,
+      "do_parent": "Male",
+      "seed": 2144186411,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 3522,
+      "do_parent": "No_Beard",
+      "seed": 485726997,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 3522,
+      "do_parent": "Bald",
+      "seed": 3820977390,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 3546,
+      "do_parent": "Young",
+      "seed": 1808776831,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 3546,
+      "do_parent": "Male",
+      "seed": 2192279217,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 3546,
+      "do_parent": "No_Beard",
+      "seed": 2681303451,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 3546,
+      "do_parent": "Bald",
+      "seed": 1721586548,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 3603,
+      "do_parent": "Young",
+      "seed": 201141119,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 3603,
+      "do_parent": "Male",
+      "seed": 584643505,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 3603,
+      "do_parent": "No_Beard",
+      "seed": 3320490274,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 3603,
+      "do_parent": "Bald",
+      "seed": 113950836,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 3659,
+      "do_parent": "Young",
+      "seed": 1981708373,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 3659,
+      "do_parent": "Male",
+      "seed": 2365210759,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 3659,
+      "do_parent": "No_Beard",
+      "seed": 2953573880,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 3659,
+      "do_parent": "Bald",
+      "seed": 1894518090,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 3740,
+      "do_parent": "Young",
+      "seed": 1326825204,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 3740,
+      "do_parent": "Male",
+      "seed": 1710327590,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 3740,
+      "do_parent": "No_Beard",
+      "seed": 2298690711,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 3740,
+      "do_parent": "Bald",
+      "seed": 1239634921,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 3783,
+      "do_parent": "Young",
+      "seed": 3467023649,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 3783,
+      "do_parent": "Male",
+      "seed": 1703042387,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 3783,
+      "do_parent": "No_Beard",
+      "seed": 44582973,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 3783,
+      "do_parent": "Bald",
+      "seed": 3379833366,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 3850,
+      "do_parent": "Young",
+      "seed": 4213813215,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 3850,
+      "do_parent": "Male",
+      "seed": 302348305,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 3850,
+      "do_parent": "No_Beard",
+      "seed": 890711426,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 3850,
+      "do_parent": "Bald",
+      "seed": 4126622932,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 4053,
+      "do_parent": "Young",
+      "seed": 2226718038,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 4053,
+      "do_parent": "Male",
+      "seed": 2610220424,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 4053,
+      "do_parent": "No_Beard",
+      "seed": 3198583545,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 4053,
+      "do_parent": "Bald",
+      "seed": 2139527755,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 4342,
+      "do_parent": "Young",
+      "seed": 125713568,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 4342,
+      "do_parent": "Male",
+      "seed": 509215954,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 4342,
+      "do_parent": "No_Beard",
+      "seed": 3145723836,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 4342,
+      "do_parent": "Bald",
+      "seed": 2186006933,
+      "intervention": {
+        "Bald": 0.0
+      }
+    },
+    {
+      "sample_idx": 4368,
+      "do_parent": "Young",
+      "seed": 796231997,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 4368,
+      "do_parent": "Male",
+      "seed": 1179734383,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 4368,
+      "do_parent": "No_Beard",
+      "seed": 3816242265,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 4368,
+      "do_parent": "Bald",
+      "seed": 2856525362,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 4615,
+      "do_parent": "Young",
+      "seed": 513936797,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 4615,
+      "do_parent": "Male",
+      "seed": 897439183,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 4615,
+      "do_parent": "No_Beard",
+      "seed": 3533947065,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 4615,
+      "do_parent": "Bald",
+      "seed": 2574230162,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 5198,
+      "do_parent": "Young",
+      "seed": 1515686818,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 5198,
+      "do_parent": "Male",
+      "seed": 1899189204,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 5198,
+      "do_parent": "No_Beard",
+      "seed": 240729790,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 5198,
+      "do_parent": "Bald",
+      "seed": 3575980183,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 5246,
+      "do_parent": "Young",
+      "seed": 3711738065,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 5246,
+      "do_parent": "Male",
+      "seed": 4095240451,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 5246,
+      "do_parent": "No_Beard",
+      "seed": 289297389,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 5246,
+      "do_parent": "Bald",
+      "seed": 3624547782,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 5286,
+      "do_parent": "Young",
+      "seed": 4223407670,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 5286,
+      "do_parent": "Male",
+      "seed": 212603873,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 5286,
+      "do_parent": "No_Beard",
+      "seed": 800966994,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 5286,
+      "do_parent": "Bald",
+      "seed": 1889394852,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 5333,
+      "do_parent": "Young",
+      "seed": 1919606393,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 5333,
+      "do_parent": "Male",
+      "seed": 2303108779,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 5333,
+      "do_parent": "No_Beard",
+      "seed": 2891471900,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 5333,
+      "do_parent": "Bald",
+      "seed": 3979899758,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 5412,
+      "do_parent": "Young",
+      "seed": 4084326034,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 5412,
+      "do_parent": "Male",
+      "seed": 172861124,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 5412,
+      "do_parent": "No_Beard",
+      "seed": 761224245,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 5412,
+      "do_parent": "Bald",
+      "seed": 3997135751,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 5436,
+      "do_parent": "Young",
+      "seed": 1984935192,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 5436,
+      "do_parent": "Male",
+      "seed": 2368437578,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 5436,
+      "do_parent": "No_Beard",
+      "seed": 2956800699,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 5436,
+      "do_parent": "Bald",
+      "seed": 4045228557,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 5497,
+      "do_parent": "Young",
+      "seed": 3868973261,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 5497,
+      "do_parent": "Male",
+      "seed": 4252475647,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 5497,
+      "do_parent": "No_Beard",
+      "seed": 545871472,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 5497,
+      "do_parent": "Bald",
+      "seed": 3781782978,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 5677,
+      "do_parent": "Young",
+      "seed": 593065960,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 5677,
+      "do_parent": "Male",
+      "seed": 976568346,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 5677,
+      "do_parent": "No_Beard",
+      "seed": 3712415115,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 5677,
+      "do_parent": "Bald",
+      "seed": 505875677,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 5760,
+      "do_parent": "Young",
+      "seed": 1902771212,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 5760,
+      "do_parent": "Male",
+      "seed": 2286273598,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 5760,
+      "do_parent": "No_Beard",
+      "seed": 2874636719,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 5760,
+      "do_parent": "Bald",
+      "seed": 1815580929,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 5865,
+      "do_parent": "Young",
+      "seed": 3443464497,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 5865,
+      "do_parent": "Male",
+      "seed": 1580144348,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 5865,
+      "do_parent": "No_Beard",
+      "seed": 2168507469,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 5865,
+      "do_parent": "Bald",
+      "seed": 1109451679,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 5967,
+      "do_parent": "Young",
+      "seed": 2450969205,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 5967,
+      "do_parent": "Male",
+      "seed": 686987943,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 5967,
+      "do_parent": "No_Beard",
+      "seed": 1275351064,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 5967,
+      "do_parent": "Bald",
+      "seed": 2363778922,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 6073,
+      "do_parent": "Young",
+      "seed": 2802664046,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 6073,
+      "do_parent": "Male",
+      "seed": 3186166432,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 6073,
+      "do_parent": "No_Beard",
+      "seed": 3774529553,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 6073,
+      "do_parent": "Bald",
+      "seed": 2715473763,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 6135,
+      "do_parent": "Young",
+      "seed": 3545321684,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 6135,
+      "do_parent": "Male",
+      "seed": 1682001535,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 6135,
+      "do_parent": "No_Beard",
+      "seed": 122881008,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 6135,
+      "do_parent": "Bald",
+      "seed": 1211308866,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 6225,
+      "do_parent": "Young",
+      "seed": 1186617191,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 6225,
+      "do_parent": "Male",
+      "seed": 3717603225,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 6225,
+      "do_parent": "No_Beard",
+      "seed": 10999050,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 6225,
+      "do_parent": "Bald",
+      "seed": 1099426908,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 6465,
+      "do_parent": "Young",
+      "seed": 2325909201,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 6465,
+      "do_parent": "Male",
+      "seed": 2709411587,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 6465,
+      "do_parent": "No_Beard",
+      "seed": 3297774708,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 6465,
+      "do_parent": "Bald",
+      "seed": 2238718918,
+      "intervention": {
+        "Bald": 0.0
+      }
+    },
+    {
+      "sample_idx": 6557,
+      "do_parent": "Young",
+      "seed": 4178615664,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 6557,
+      "do_parent": "Male",
+      "seed": 267150754,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 6557,
+      "do_parent": "No_Beard",
+      "seed": 855513875,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 6557,
+      "do_parent": "Bald",
+      "seed": 4091425381,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 6568,
+      "do_parent": "Young",
+      "seed": 2391238000,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 6568,
+      "do_parent": "Male",
+      "seed": 2774740386,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 6568,
+      "do_parent": "No_Beard",
+      "seed": 1215619859,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 6568,
+      "do_parent": "Bald",
+      "seed": 2304047717,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 6635,
+      "do_parent": "Young",
+      "seed": 1089882805,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 6635,
+      "do_parent": "Male",
+      "seed": 1473385191,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 6635,
+      "do_parent": "No_Beard",
+      "seed": 4109893073,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 6635,
+      "do_parent": "Bald",
+      "seed": 3150176170,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 6872,
+      "do_parent": "Young",
+      "seed": 3553450473,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 6872,
+      "do_parent": "Male",
+      "seed": 3936952859,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 6872,
+      "do_parent": "No_Beard",
+      "seed": 230348684,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 6872,
+      "do_parent": "Bald",
+      "seed": 3466260190,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 6949,
+      "do_parent": "Young",
+      "seed": 2948260843,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 6949,
+      "do_parent": "Male",
+      "seed": 1184279581,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 6949,
+      "do_parent": "No_Beard",
+      "seed": 3820787463,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 6949,
+      "do_parent": "Bald",
+      "seed": 2861070560,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 7057,
+      "do_parent": "Young",
+      "seed": 3870660433,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 7057,
+      "do_parent": "Male",
+      "seed": 2106679171,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 7057,
+      "do_parent": "No_Beard",
+      "seed": 2695042292,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 7057,
+      "do_parent": "Bald",
+      "seed": 3783470150,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 7124,
+      "do_parent": "Young",
+      "seed": 3863850023,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 7124,
+      "do_parent": "Male",
+      "seed": 2099868761,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 7124,
+      "do_parent": "No_Beard",
+      "seed": 2688231882,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 7124,
+      "do_parent": "Bald",
+      "seed": 3776659740,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 7138,
+      "do_parent": "Young",
+      "seed": 2362838401,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 7138,
+      "do_parent": "Male",
+      "seed": 2746340787,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 7138,
+      "do_parent": "No_Beard",
+      "seed": 3334703908,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 7138,
+      "do_parent": "Bald",
+      "seed": 128164470,
+      "intervention": {
+        "Bald": 0.0
+      }
+    },
+    {
+      "sample_idx": 7226,
+      "do_parent": "Young",
+      "seed": 3776014468,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 7226,
+      "do_parent": "Male",
+      "seed": 4159516854,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 7226,
+      "do_parent": "No_Beard",
+      "seed": 452912679,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 7226,
+      "do_parent": "Bald",
+      "seed": 3688824185,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 7309,
+      "do_parent": "Young",
+      "seed": 790752424,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 7309,
+      "do_parent": "Male",
+      "seed": 3222399571,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 7309,
+      "do_parent": "No_Beard",
+      "seed": 3810762692,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 7309,
+      "do_parent": "Bald",
+      "seed": 604223254,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 7625,
+      "do_parent": "Young",
+      "seed": 1072351563,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 7625,
+      "do_parent": "Male",
+      "seed": 1455853949,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 7625,
+      "do_parent": "No_Beard",
+      "seed": 2044217070,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 7625,
+      "do_parent": "Bald",
+      "seed": 985161280,
+      "intervention": {
+        "Bald": 0.0
+      }
+    },
+    {
+      "sample_idx": 7845,
+      "do_parent": "Young",
+      "seed": 3507740900,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 7845,
+      "do_parent": "Male",
+      "seed": 3891243286,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 7845,
+      "do_parent": "No_Beard",
+      "seed": 2232783872,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 7845,
+      "do_parent": "Bald",
+      "seed": 1273066969,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 8079,
+      "do_parent": "Young",
+      "seed": 3537458878,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 8079,
+      "do_parent": "Male",
+      "seed": 3920961264,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 8079,
+      "do_parent": "No_Beard",
+      "seed": 214357089,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 8079,
+      "do_parent": "Bald",
+      "seed": 1302784947,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 8300,
+      "do_parent": "Young",
+      "seed": 2584645249,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 8300,
+      "do_parent": "Male",
+      "seed": 2968147635,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 8300,
+      "do_parent": "No_Beard",
+      "seed": 3556510756,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 8300,
+      "do_parent": "Bald",
+      "seed": 349971318,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 8354,
+      "do_parent": "Young",
+      "seed": 3742786880,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 8354,
+      "do_parent": "Male",
+      "seed": 1978805618,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 8354,
+      "do_parent": "No_Beard",
+      "seed": 2567168739,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 8354,
+      "do_parent": "Bald",
+      "seed": 3655596597,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 8418,
+      "do_parent": "Young",
+      "seed": 4203210404,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 8418,
+      "do_parent": "Male",
+      "seed": 2439229142,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 8418,
+      "do_parent": "No_Beard",
+      "seed": 3027592263,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 8418,
+      "do_parent": "Bald",
+      "seed": 4116020121,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 8504,
+      "do_parent": "Young",
+      "seed": 1504314402,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 8504,
+      "do_parent": "Male",
+      "seed": 1887816788,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 8504,
+      "do_parent": "No_Beard",
+      "seed": 2476179909,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 8504,
+      "do_parent": "Bald",
+      "seed": 3564607767,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 8581,
+      "do_parent": "Young",
+      "seed": 899124772,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 8581,
+      "do_parent": "Male",
+      "seed": 1282627158,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 8581,
+      "do_parent": "No_Beard",
+      "seed": 1870990279,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 8581,
+      "do_parent": "Bald",
+      "seed": 811934489,
+      "intervention": {
+        "Bald": 0.0
+      }
+    },
+    {
+      "sample_idx": 8600,
+      "do_parent": "Young",
+      "seed": 3796551261,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 8600,
+      "do_parent": "Male",
+      "seed": 4180053647,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 8600,
+      "do_parent": "No_Beard",
+      "seed": 473449472,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 8600,
+      "do_parent": "Bald",
+      "seed": 1561877330,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 8620,
+      "do_parent": "Young",
+      "seed": 1257630023,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 8620,
+      "do_parent": "Male",
+      "seed": 1641132409,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 8620,
+      "do_parent": "No_Beard",
+      "seed": 4277640291,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 8620,
+      "do_parent": "Bald",
+      "seed": 3317923388,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 8623,
+      "do_parent": "Young",
+      "seed": 4180703648,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 8623,
+      "do_parent": "Male",
+      "seed": 2416722386,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 8623,
+      "do_parent": "No_Beard",
+      "seed": 3005085507,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 8623,
+      "do_parent": "Bald",
+      "seed": 4093513365,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 8697,
+      "do_parent": "Young",
+      "seed": 1457761243,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 8697,
+      "do_parent": "Male",
+      "seed": 1841263629,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 8697,
+      "do_parent": "No_Beard",
+      "seed": 2330287863,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 8697,
+      "do_parent": "Bald",
+      "seed": 1370570960,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 8751,
+      "do_parent": "Young",
+      "seed": 468419226,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 8751,
+      "do_parent": "Male",
+      "seed": 2900066373,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 8751,
+      "do_parent": "No_Beard",
+      "seed": 3488429494,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 8751,
+      "do_parent": "Bald",
+      "seed": 381228943,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 8766,
+      "do_parent": "Young",
+      "seed": 4169139230,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 8766,
+      "do_parent": "Male",
+      "seed": 257674320,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 8766,
+      "do_parent": "No_Beard",
+      "seed": 846037441,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 8766,
+      "do_parent": "Bald",
+      "seed": 1934465299,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 8795,
+      "do_parent": "Young",
+      "seed": 2173219203,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 8795,
+      "do_parent": "Male",
+      "seed": 2556721589,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 8795,
+      "do_parent": "No_Beard",
+      "seed": 3145084710,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 8795,
+      "do_parent": "Bald",
+      "seed": 4233512568,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 8827,
+      "do_parent": "Young",
+      "seed": 3100372801,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 8827,
+      "do_parent": "Male",
+      "seed": 1336391539,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 8827,
+      "do_parent": "No_Beard",
+      "seed": 1924754660,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 8827,
+      "do_parent": "Bald",
+      "seed": 3013182518,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 8904,
+      "do_parent": "Young",
+      "seed": 2005959236,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 8904,
+      "do_parent": "Male",
+      "seed": 241977974,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 8904,
+      "do_parent": "No_Beard",
+      "seed": 2878485856,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 8904,
+      "do_parent": "Bald",
+      "seed": 1918768953,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 8935,
+      "do_parent": "Young",
+      "seed": 632464832,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 8935,
+      "do_parent": "Male",
+      "seed": 1015967218,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 8935,
+      "do_parent": "No_Beard",
+      "seed": 3652475100,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 8935,
+      "do_parent": "Bald",
+      "seed": 2692758197,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 8951,
+      "do_parent": "Young",
+      "seed": 3243525279,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 8951,
+      "do_parent": "Male",
+      "seed": 3627027665,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 8951,
+      "do_parent": "No_Beard",
+      "seed": 4116051899,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 8951,
+      "do_parent": "Bald",
+      "seed": 3156334996,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 9084,
+      "do_parent": "Young",
+      "seed": 877535583,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 9084,
+      "do_parent": "Male",
+      "seed": 1261037969,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 9084,
+      "do_parent": "No_Beard",
+      "seed": 1849401090,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 9084,
+      "do_parent": "Bald",
+      "seed": 2937828948,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 9085,
+      "do_parent": "Young",
+      "seed": 1836020787,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 9085,
+      "do_parent": "Male",
+      "seed": 72039525,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 9085,
+      "do_parent": "No_Beard",
+      "seed": 660402646,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 9085,
+      "do_parent": "Bald",
+      "seed": 1748830504,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 9111,
+      "do_parent": "Young",
+      "seed": 1701218366,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 9111,
+      "do_parent": "Male",
+      "seed": 2084720752,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 9111,
+      "do_parent": "No_Beard",
+      "seed": 525600225,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 9111,
+      "do_parent": "Bald",
+      "seed": 1614028083,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 9112,
+      "do_parent": "Young",
+      "seed": 3512642433,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 9112,
+      "do_parent": "Male",
+      "seed": 3896144819,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 9112,
+      "do_parent": "No_Beard",
+      "seed": 189540644,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 9112,
+      "do_parent": "Bald",
+      "seed": 1277968502,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 9193,
+      "do_parent": "Young",
+      "seed": 2857759264,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 9193,
+      "do_parent": "Male",
+      "seed": 3241261650,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 9193,
+      "do_parent": "No_Beard",
+      "seed": 3829624771,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 9193,
+      "do_parent": "Bald",
+      "seed": 623085333,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 9241,
+      "do_parent": "Young",
+      "seed": 806461228,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 9241,
+      "do_parent": "Male",
+      "seed": 1090624727,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 9241,
+      "do_parent": "No_Beard",
+      "seed": 1678987848,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 9241,
+      "do_parent": "Bald",
+      "seed": 2767415706,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 9323,
+      "do_parent": "Young",
+      "seed": 1010724376,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 9323,
+      "do_parent": "Male",
+      "seed": 1394226762,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 9323,
+      "do_parent": "No_Beard",
+      "seed": 4130073531,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 9323,
+      "do_parent": "Bald",
+      "seed": 923534093,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 9345,
+      "do_parent": "Young",
+      "seed": 436391559,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 9345,
+      "do_parent": "Male",
+      "seed": 819893945,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 9345,
+      "do_parent": "No_Beard",
+      "seed": 1408257066,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 9345,
+      "do_parent": "Bald",
+      "seed": 2496684924,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 9481,
+      "do_parent": "Young",
+      "seed": 4045618873,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 9481,
+      "do_parent": "Male",
+      "seed": 2281637611,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 9481,
+      "do_parent": "No_Beard",
+      "seed": 2870000732,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 9481,
+      "do_parent": "Bald",
+      "seed": 3958428590,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 9639,
+      "do_parent": "Young",
+      "seed": 3539146050,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 9639,
+      "do_parent": "Male",
+      "seed": 1775164788,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 9639,
+      "do_parent": "No_Beard",
+      "seed": 2363527909,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 9639,
+      "do_parent": "Bald",
+      "seed": 3451955767,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 9728,
+      "do_parent": "Young",
+      "seed": 3763323673,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 9728,
+      "do_parent": "Male",
+      "seed": 4146826059,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 9728,
+      "do_parent": "No_Beard",
+      "seed": 2587705532,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 9728,
+      "do_parent": "Bald",
+      "seed": 3676133390,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 9744,
+      "do_parent": "Young",
+      "seed": 2079416824,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 9744,
+      "do_parent": "Male",
+      "seed": 315435562,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 9744,
+      "do_parent": "No_Beard",
+      "seed": 903798683,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 9744,
+      "do_parent": "Bald",
+      "seed": 1992226541,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 9760,
+      "do_parent": "Young",
+      "seed": 2542993623,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 9760,
+      "do_parent": "Male",
+      "seed": 2926496009,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 9760,
+      "do_parent": "No_Beard",
+      "seed": 3514859130,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 9760,
+      "do_parent": "Bald",
+      "seed": 2455803340,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 9817,
+      "do_parent": "Young",
+      "seed": 3182180446,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 9817,
+      "do_parent": "Male",
+      "seed": 3565682832,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 9817,
+      "do_parent": "No_Beard",
+      "seed": 1907223418,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 9817,
+      "do_parent": "Bald",
+      "seed": 947506515,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 9827,
+      "do_parent": "Young",
+      "seed": 3389122076,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 9827,
+      "do_parent": "Male",
+      "seed": 1625140814,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 9827,
+      "do_parent": "No_Beard",
+      "seed": 4261648696,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 9827,
+      "do_parent": "Bald",
+      "seed": 3301931793,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 9849,
+      "do_parent": "Young",
+      "seed": 3620110109,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 9849,
+      "do_parent": "Male",
+      "seed": 3904273608,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 9849,
+      "do_parent": "No_Beard",
+      "seed": 197669433,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 9849,
+      "do_parent": "Bald",
+      "seed": 3532919826,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 9860,
+      "do_parent": "Young",
+      "seed": 1832732445,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 9860,
+      "do_parent": "Male",
+      "seed": 2116895944,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 9860,
+      "do_parent": "No_Beard",
+      "seed": 2705259065,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 9860,
+      "do_parent": "Bald",
+      "seed": 3793686923,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 10014,
+      "do_parent": "Young",
+      "seed": 33790363,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 10014,
+      "do_parent": "Male",
+      "seed": 417292749,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 10014,
+      "do_parent": "No_Beard",
+      "seed": 1005655870,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 10014,
+      "do_parent": "Bald",
+      "seed": 2094083728,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 10277,
+      "do_parent": "Young",
+      "seed": 2362555610,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 10277,
+      "do_parent": "Male",
+      "seed": 2746057996,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 10277,
+      "do_parent": "No_Beard",
+      "seed": 3334421117,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 10277,
+      "do_parent": "Bald",
+      "seed": 2275365327,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 10406,
+      "do_parent": "Young",
+      "seed": 3852002814,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 10406,
+      "do_parent": "Male",
+      "seed": 4235505200,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 10406,
+      "do_parent": "No_Beard",
+      "seed": 528901025,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 10406,
+      "do_parent": "Bald",
+      "seed": 1617328883,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 10685,
+      "do_parent": "Young",
+      "seed": 3254037301,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 10685,
+      "do_parent": "Male",
+      "seed": 1490056039,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 10685,
+      "do_parent": "No_Beard",
+      "seed": 4126563921,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 10685,
+      "do_parent": "Bald",
+      "seed": 3166847018,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 10776,
+      "do_parent": "Young",
+      "seed": 3195980810,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 10776,
+      "do_parent": "Male",
+      "seed": 3579483196,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 10776,
+      "do_parent": "No_Beard",
+      "seed": 2020362669,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 10776,
+      "do_parent": "Bald",
+      "seed": 3108790527,
+      "intervention": {
+        "Bald": 0.0
+      }
+    },
+    {
+      "sample_idx": 10827,
+      "do_parent": "Young",
+      "seed": 1431048816,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 10827,
+      "do_parent": "Male",
+      "seed": 3962034850,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 10827,
+      "do_parent": "No_Beard",
+      "seed": 255430675,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 10827,
+      "do_parent": "Bald",
+      "seed": 1343858533,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 10878,
+      "do_parent": "Young",
+      "seed": 2302824405,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 10878,
+      "do_parent": "Male",
+      "seed": 2686326791,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 10878,
+      "do_parent": "No_Beard",
+      "seed": 3274689912,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 10878,
+      "do_parent": "Bald",
+      "seed": 68150474,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 10881,
+      "do_parent": "Young",
+      "seed": 441706799,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 10881,
+      "do_parent": "Male",
+      "seed": 825209185,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 10881,
+      "do_parent": "No_Beard",
+      "seed": 3561055954,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 10881,
+      "do_parent": "Bald",
+      "seed": 354516516,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 10893,
+      "do_parent": "Young",
+      "seed": 465753202,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 10893,
+      "do_parent": "Male",
+      "seed": 849255588,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 10893,
+      "do_parent": "No_Beard",
+      "seed": 1437618709,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 10893,
+      "do_parent": "Bald",
+      "seed": 2526046567,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 11167,
+      "do_parent": "Young",
+      "seed": 1007140785,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 11167,
+      "do_parent": "Male",
+      "seed": 1390643171,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 11167,
+      "do_parent": "No_Beard",
+      "seed": 1979006292,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 11167,
+      "do_parent": "Bald",
+      "seed": 3067434150,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 11420,
+      "do_parent": "Young",
+      "seed": 492256819,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 11420,
+      "do_parent": "Male",
+      "seed": 875759205,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 11420,
+      "do_parent": "No_Beard",
+      "seed": 3611605974,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 11420,
+      "do_parent": "Bald",
+      "seed": 405066536,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 11528,
+      "do_parent": "Young",
+      "seed": 2808540081,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 11528,
+      "do_parent": "Male",
+      "seed": 3192042467,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 11528,
+      "do_parent": "No_Beard",
+      "seed": 1533583053,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 11528,
+      "do_parent": "Bald",
+      "seed": 573866150,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 11591,
+      "do_parent": "Young",
+      "seed": 2362199275,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 11591,
+      "do_parent": "Male",
+      "seed": 2745701661,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 11591,
+      "do_parent": "No_Beard",
+      "seed": 1087242247,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 11591,
+      "do_parent": "Bald",
+      "seed": 127525344,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 11634,
+      "do_parent": "Young",
+      "seed": 2255575185,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 11634,
+      "do_parent": "Male",
+      "seed": 2639077571,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 11634,
+      "do_parent": "No_Beard",
+      "seed": 3227440692,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 11634,
+      "do_parent": "Bald",
+      "seed": 2168384902,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 11717,
+      "do_parent": "Young",
+      "seed": 3565280437,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 11717,
+      "do_parent": "Male",
+      "seed": 3948782823,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 11717,
+      "do_parent": "No_Beard",
+      "seed": 242178648,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 11717,
+      "do_parent": "Bald",
+      "seed": 3478090154,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 11788,
+      "do_parent": "Young",
+      "seed": 555971990,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 11788,
+      "do_parent": "Male",
+      "seed": 3086958024,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 11788,
+      "do_parent": "No_Beard",
+      "seed": 1428498610,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 11788,
+      "do_parent": "Bald",
+      "seed": 468781707,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 12233,
+      "do_parent": "Young",
+      "seed": 231255559,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 12233,
+      "do_parent": "Male",
+      "seed": 614757945,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 12233,
+      "do_parent": "No_Beard",
+      "seed": 1203121066,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 12233,
+      "do_parent": "Bald",
+      "seed": 144065276,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 12339,
+      "do_parent": "Young",
+      "seed": 630568413,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 12339,
+      "do_parent": "Male",
+      "seed": 3062215560,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 12339,
+      "do_parent": "No_Beard",
+      "seed": 3650578681,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 12339,
+      "do_parent": "Bald",
+      "seed": 543378130,
+      "intervention": {
+        "Bald": 0.0
+      }
+    },
+    {
+      "sample_idx": 12411,
+      "do_parent": "Young",
+      "seed": 727228818,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 12411,
+      "do_parent": "Male",
+      "seed": 3158875965,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 12411,
+      "do_parent": "No_Beard",
+      "seed": 1599755438,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 12411,
+      "do_parent": "Bald",
+      "seed": 2688183296,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 12512,
+      "do_parent": "Young",
+      "seed": 3876536468,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 12512,
+      "do_parent": "Male",
+      "seed": 4260038854,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 12512,
+      "do_parent": "No_Beard",
+      "seed": 553434679,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 12512,
+      "do_parent": "Bald",
+      "seed": 3789346185,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 12539,
+      "do_parent": "Young",
+      "seed": 3358056453,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 12539,
+      "do_parent": "Male",
+      "seed": 3741558839,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 12539,
+      "do_parent": "No_Beard",
+      "seed": 34954664,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 12539,
+      "do_parent": "Bald",
+      "seed": 1123382522,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 12552,
+      "do_parent": "Young",
+      "seed": 93238777,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 12552,
+      "do_parent": "Male",
+      "seed": 2624224811,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 12552,
+      "do_parent": "No_Beard",
+      "seed": 3212587932,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 12552,
+      "do_parent": "Bald",
+      "seed": 6048494,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 12590,
+      "do_parent": "Young",
+      "seed": 787803609,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 12590,
+      "do_parent": "Male",
+      "seed": 1171305995,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 12590,
+      "do_parent": "No_Beard",
+      "seed": 3807813877,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 12590,
+      "do_parent": "Bald",
+      "seed": 2848096974,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 12680,
+      "do_parent": "Young",
+      "seed": 675921651,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 12680,
+      "do_parent": "Male",
+      "seed": 3107568798,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 12680,
+      "do_parent": "No_Beard",
+      "seed": 3695931919,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 12680,
+      "do_parent": "Bald",
+      "seed": 588731368,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 12971,
+      "do_parent": "Young",
+      "seed": 1344826452,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 12971,
+      "do_parent": "Male",
+      "seed": 3776473599,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 12971,
+      "do_parent": "No_Beard",
+      "seed": 69869424,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 12971,
+      "do_parent": "Bald",
+      "seed": 1158297282,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 13186,
+      "do_parent": "Young",
+      "seed": 3577406087,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 13186,
+      "do_parent": "Male",
+      "seed": 1813424825,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 13186,
+      "do_parent": "No_Beard",
+      "seed": 2401787946,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 13186,
+      "do_parent": "Bald",
+      "seed": 3490215804,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 13199,
+      "do_parent": "Young",
+      "seed": 264970398,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 13199,
+      "do_parent": "Male",
+      "seed": 2795956432,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 13199,
+      "do_parent": "No_Beard",
+      "seed": 3384319553,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 13199,
+      "do_parent": "Bald",
+      "seed": 177780115,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 13223,
+      "do_parent": "Young",
+      "seed": 2460546852,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 13223,
+      "do_parent": "Male",
+      "seed": 696565590,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 13223,
+      "do_parent": "No_Beard",
+      "seed": 1284928711,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 13223,
+      "do_parent": "Bald",
+      "seed": 2373356569,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 13290,
+      "do_parent": "Young",
+      "seed": 1159191657,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 13290,
+      "do_parent": "Male",
+      "seed": 3590838804,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 13290,
+      "do_parent": "No_Beard",
+      "seed": 4179201925,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 13290,
+      "do_parent": "Bald",
+      "seed": 3219485022,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 13408,
+      "do_parent": "Young",
+      "seed": 630273164,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 13408,
+      "do_parent": "Male",
+      "seed": 1013775550,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 13408,
+      "do_parent": "No_Beard",
+      "seed": 1602138671,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 13408,
+      "do_parent": "Bald",
+      "seed": 2690566529,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 13446,
+      "do_parent": "Young",
+      "seed": 3472321644,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 13446,
+      "do_parent": "Male",
+      "seed": 3855824030,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 13446,
+      "do_parent": "No_Beard",
+      "seed": 149219855,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 13446,
+      "do_parent": "Bald",
+      "seed": 3385131361,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 13508,
+      "do_parent": "Young",
+      "seed": 725332836,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 13508,
+      "do_parent": "Male",
+      "seed": 3256318870,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 13508,
+      "do_parent": "No_Beard",
+      "seed": 3844681991,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 13508,
+      "do_parent": "Bald",
+      "seed": 638142553,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 13545,
+      "do_parent": "Young",
+      "seed": 3903440897,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 13545,
+      "do_parent": "Male",
+      "seed": 2139459635,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 13545,
+      "do_parent": "No_Beard",
+      "seed": 481000221,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 13545,
+      "do_parent": "Bald",
+      "seed": 3816250614,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 13562,
+      "do_parent": "Young",
+      "seed": 4030958115,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 13562,
+      "do_parent": "Male",
+      "seed": 119493205,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 13562,
+      "do_parent": "No_Beard",
+      "seed": 608517439,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 13562,
+      "do_parent": "Bald",
+      "seed": 3943767832,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 13597,
+      "do_parent": "Young",
+      "seed": 2192334370,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 13597,
+      "do_parent": "Male",
+      "seed": 2575836756,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 13597,
+      "do_parent": "No_Beard",
+      "seed": 1016716229,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 13597,
+      "do_parent": "Bald",
+      "seed": 2105144087,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 13788,
+      "do_parent": "Young",
+      "seed": 2376294451,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 13788,
+      "do_parent": "Male",
+      "seed": 512974302,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 13788,
+      "do_parent": "No_Beard",
+      "seed": 3248821071,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 13788,
+      "do_parent": "Bald",
+      "seed": 2289104168,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 13890,
+      "do_parent": "Young",
+      "seed": 41636361,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 13890,
+      "do_parent": "Male",
+      "seed": 425138747,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 13890,
+      "do_parent": "No_Beard",
+      "seed": 1013501868,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 13890,
+      "do_parent": "Bald",
+      "seed": 2101929726,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 13903,
+      "do_parent": "Young",
+      "seed": 1024167968,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 13903,
+      "do_parent": "Male",
+      "seed": 1407670354,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 13903,
+      "do_parent": "No_Beard",
+      "seed": 1996033475,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 13903,
+      "do_parent": "Bald",
+      "seed": 936977685,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 14000,
+      "do_parent": "Young",
+      "seed": 2980345246,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 14000,
+      "do_parent": "Male",
+      "seed": 1216363984,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 14000,
+      "do_parent": "No_Beard",
+      "seed": 1804727105,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 14000,
+      "do_parent": "Bald",
+      "seed": 2893154963,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 14014,
+      "do_parent": "Young",
+      "seed": 674012774,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 14014,
+      "do_parent": "Male",
+      "seed": 1057515160,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 14014,
+      "do_parent": "No_Beard",
+      "seed": 1645878281,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 14014,
+      "do_parent": "Bald",
+      "seed": 2734306139,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 14250,
+      "do_parent": "Young",
+      "seed": 31611590,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 14250,
+      "do_parent": "Male",
+      "seed": 2562597624,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 14250,
+      "do_parent": "No_Beard",
+      "seed": 3150960745,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 14250,
+      "do_parent": "Bald",
+      "seed": 4239388603,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 14324,
+      "do_parent": "Young",
+      "seed": 2092860416,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 14324,
+      "do_parent": "Male",
+      "seed": 328879154,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 14324,
+      "do_parent": "No_Beard",
+      "seed": 917242275,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 14324,
+      "do_parent": "Bald",
+      "seed": 2005670133,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 14355,
+      "do_parent": "Young",
+      "seed": 719366012,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 14355,
+      "do_parent": "Male",
+      "seed": 1102868398,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 14355,
+      "do_parent": "No_Beard",
+      "seed": 1691231519,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 14355,
+      "do_parent": "Bald",
+      "seed": 2779659377,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 14356,
+      "do_parent": "Young",
+      "seed": 3872952877,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 14356,
+      "do_parent": "Male",
+      "seed": 4256455263,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 14356,
+      "do_parent": "No_Beard",
+      "seed": 2597995849,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 14356,
+      "do_parent": "Bald",
+      "seed": 1638278946,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 14616,
+      "do_parent": "Young",
+      "seed": 278221988,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 14616,
+      "do_parent": "Male",
+      "seed": 661724374,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 14616,
+      "do_parent": "No_Beard",
+      "seed": 1250087495,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 14616,
+      "do_parent": "Bald",
+      "seed": 2338515353,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 14653,
+      "do_parent": "Young",
+      "seed": 14301616,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 14653,
+      "do_parent": "Male",
+      "seed": 298465115,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 14653,
+      "do_parent": "No_Beard",
+      "seed": 886828236,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 14653,
+      "do_parent": "Bald",
+      "seed": 1975256094,
+      "intervention": {
+        "Bald": 0.0
+      }
+    },
+    {
+      "sample_idx": 14658,
+      "do_parent": "Young",
+      "seed": 3559800864,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 14658,
+      "do_parent": "Male",
+      "seed": 3943303250,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 14658,
+      "do_parent": "No_Beard",
+      "seed": 2284843836,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 14658,
+      "do_parent": "Bald",
+      "seed": 3472610581,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 14827,
+      "do_parent": "Young",
+      "seed": 2071271227,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 14827,
+      "do_parent": "Male",
+      "seed": 2454773613,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 14827,
+      "do_parent": "No_Beard",
+      "seed": 895653086,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 14827,
+      "do_parent": "Bald",
+      "seed": 1984080944,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 14855,
+      "do_parent": "Young",
+      "seed": 411410781,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 14855,
+      "do_parent": "Male",
+      "seed": 794913167,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 14855,
+      "do_parent": "No_Beard",
+      "seed": 1383276288,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 14855,
+      "do_parent": "Bald",
+      "seed": 324220498,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 14914,
+      "do_parent": "Young",
+      "seed": 3820506875,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 14914,
+      "do_parent": "Male",
+      "seed": 4204009261,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 14914,
+      "do_parent": "No_Beard",
+      "seed": 497405086,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 14914,
+      "do_parent": "Bald",
+      "seed": 3733316592,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 15038,
+      "do_parent": "Young",
+      "seed": 3058999616,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 15038,
+      "do_parent": "Male",
+      "seed": 1295018354,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 15038,
+      "do_parent": "No_Beard",
+      "seed": 1883381475,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 15038,
+      "do_parent": "Bald",
+      "seed": 2971809333,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 15098,
+      "do_parent": "Young",
+      "seed": 3984552481,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 15098,
+      "do_parent": "Male",
+      "seed": 73087571,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 15098,
+      "do_parent": "No_Beard",
+      "seed": 661450692,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 15098,
+      "do_parent": "Bald",
+      "seed": 1749878550,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 15106,
+      "do_parent": "Young",
+      "seed": 568645977,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 15106,
+      "do_parent": "Male",
+      "seed": 952148363,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 15106,
+      "do_parent": "No_Beard",
+      "seed": 1540511484,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 15106,
+      "do_parent": "Bald",
+      "seed": 2628939342,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 15193,
+      "do_parent": "Young",
+      "seed": 3170820488,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 15193,
+      "do_parent": "Male",
+      "seed": 3554322874,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 15193,
+      "do_parent": "No_Beard",
+      "seed": 4043347108,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 15193,
+      "do_parent": "Bald",
+      "seed": 3083630205,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 15197,
+      "do_parent": "Young",
+      "seed": 3610350884,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 15197,
+      "do_parent": "Male",
+      "seed": 3993853270,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 15197,
+      "do_parent": "No_Beard",
+      "seed": 187910208,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 15197,
+      "do_parent": "Bald",
+      "seed": 3523160601,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 15266,
+      "do_parent": "Young",
+      "seed": 783937664,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 15266,
+      "do_parent": "Male",
+      "seed": 3215584811,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 15266,
+      "do_parent": "No_Beard",
+      "seed": 3803947932,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 15266,
+      "do_parent": "Bald",
+      "seed": 2844231029,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 15278,
+      "do_parent": "Young",
+      "seed": 2955467715,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 15278,
+      "do_parent": "Male",
+      "seed": 1092147566,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 15278,
+      "do_parent": "No_Beard",
+      "seed": 3827994335,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 15278,
+      "do_parent": "Bald",
+      "seed": 621454897,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 15317,
+      "do_parent": "Young",
+      "seed": 1556374366,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 15317,
+      "do_parent": "Male",
+      "seed": 1939876752,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 15317,
+      "do_parent": "No_Beard",
+      "seed": 2528239873,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 15317,
+      "do_parent": "Bald",
+      "seed": 1469184083,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 15480,
+      "do_parent": "Young",
+      "seed": 2547256030,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 15480,
+      "do_parent": "Male",
+      "seed": 2930758416,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 15480,
+      "do_parent": "No_Beard",
+      "seed": 3519121537,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 15480,
+      "do_parent": "Bald",
+      "seed": 312582099,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 15627,
+      "do_parent": "Young",
+      "seed": 827738360,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 15627,
+      "do_parent": "Male",
+      "seed": 1211240746,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 15627,
+      "do_parent": "No_Beard",
+      "seed": 1799603867,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 15627,
+      "do_parent": "Bald",
+      "seed": 2888031725,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 15679,
+      "do_parent": "Young",
+      "seed": 2168775218,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 15679,
+      "do_parent": "Male",
+      "seed": 2552277604,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 15679,
+      "do_parent": "No_Beard",
+      "seed": 3140640725,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 15679,
+      "do_parent": "Bald",
+      "seed": 4229068583,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 15683,
+      "do_parent": "Young",
+      "seed": 3461244477,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 15683,
+      "do_parent": "Male",
+      "seed": 3844746863,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 15683,
+      "do_parent": "No_Beard",
+      "seed": 2285626336,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 15683,
+      "do_parent": "Bald",
+      "seed": 3374054194,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 15717,
+      "do_parent": "Young",
+      "seed": 715856402,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 15717,
+      "do_parent": "Male",
+      "seed": 1099358788,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 15717,
+      "do_parent": "No_Beard",
+      "seed": 1687721909,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 15717,
+      "do_parent": "Bald",
+      "seed": 628666119,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 15828,
+      "do_parent": "Young",
+      "seed": 365701208,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 15828,
+      "do_parent": "Male",
+      "seed": 749203594,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 15828,
+      "do_parent": "No_Beard",
+      "seed": 3385711476,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 15828,
+      "do_parent": "Bald",
+      "seed": 2425994573,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 15939,
+      "do_parent": "Young",
+      "seed": 2916629638,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 15939,
+      "do_parent": "Male",
+      "seed": 3300132024,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 15939,
+      "do_parent": "No_Beard",
+      "seed": 3888495145,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 15939,
+      "do_parent": "Bald",
+      "seed": 2829439355,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 16081,
+      "do_parent": "Young",
+      "seed": 3340463688,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 16081,
+      "do_parent": "Male",
+      "seed": 1477143539,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 16081,
+      "do_parent": "No_Beard",
+      "seed": 2065506660,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 16081,
+      "do_parent": "Bald",
+      "seed": 1006450870,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 16097,
+      "do_parent": "Young",
+      "seed": 2461877689,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 16097,
+      "do_parent": "Male",
+      "seed": 697896427,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 16097,
+      "do_parent": "No_Beard",
+      "seed": 3334404309,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 16097,
+      "do_parent": "Bald",
+      "seed": 2374687406,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 16148,
+      "do_parent": "Young",
+      "seed": 1086830743,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 16148,
+      "do_parent": "Male",
+      "seed": 1470333129,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 16148,
+      "do_parent": "No_Beard",
+      "seed": 2058696250,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 16148,
+      "do_parent": "Bald",
+      "seed": 3147124108,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 16187,
+      "do_parent": "Young",
+      "seed": 3592819642,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 16187,
+      "do_parent": "Male",
+      "seed": 1828838380,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 16187,
+      "do_parent": "No_Beard",
+      "seed": 2417201501,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 16187,
+      "do_parent": "Bald",
+      "seed": 3505629359,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 16351,
+      "do_parent": "Young",
+      "seed": 4247641725,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 16351,
+      "do_parent": "Male",
+      "seed": 2483660463,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 16351,
+      "do_parent": "No_Beard",
+      "seed": 825201049,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 16351,
+      "do_parent": "Bald",
+      "seed": 4160451442,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 16417,
+      "do_parent": "Young",
+      "seed": 3282346111,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 16417,
+      "do_parent": "Male",
+      "seed": 1419025962,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 16417,
+      "do_parent": "No_Beard",
+      "seed": 2007389083,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 16417,
+      "do_parent": "Bald",
+      "seed": 3095816941,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 16431,
+      "do_parent": "Young",
+      "seed": 3928818137,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 16431,
+      "do_parent": "Male",
+      "seed": 2065497988,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 16431,
+      "do_parent": "No_Beard",
+      "seed": 506377461,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 16431,
+      "do_parent": "Bald",
+      "seed": 1594805319,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 16635,
+      "do_parent": "Young",
+      "seed": 2848487290,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 16635,
+      "do_parent": "Male",
+      "seed": 1084506028,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 16635,
+      "do_parent": "No_Beard",
+      "seed": 3721013910,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 16635,
+      "do_parent": "Bald",
+      "seed": 2761297007,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 16664,
+      "do_parent": "Young",
+      "seed": 852567263,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 16664,
+      "do_parent": "Male",
+      "seed": 1136730762,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 16664,
+      "do_parent": "No_Beard",
+      "seed": 1725093883,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 16664,
+      "do_parent": "Bald",
+      "seed": 765376980,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 16770,
+      "do_parent": "Young",
+      "seed": 2447086015,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 16770,
+      "do_parent": "Male",
+      "seed": 2830588401,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 16770,
+      "do_parent": "No_Beard",
+      "seed": 3418951522,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 16770,
+      "do_parent": "Bald",
+      "seed": 212412084,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 16998,
+      "do_parent": "Young",
+      "seed": 72685176,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 16998,
+      "do_parent": "Male",
+      "seed": 456187562,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 16998,
+      "do_parent": "No_Beard",
+      "seed": 1044550683,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 16998,
+      "do_parent": "Bald",
+      "seed": 4280462189,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 17055,
+      "do_parent": "Young",
+      "seed": 2006416784,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 17055,
+      "do_parent": "Male",
+      "seed": 242435522,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 17055,
+      "do_parent": "No_Beard",
+      "seed": 830798643,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 17055,
+      "do_parent": "Bald",
+      "seed": 1919226501,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 17399,
+      "do_parent": "Young",
+      "seed": 3680298862,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 17399,
+      "do_parent": "Male",
+      "seed": 1916317600,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 17399,
+      "do_parent": "No_Beard",
+      "seed": 2504680721,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 17399,
+      "do_parent": "Bald",
+      "seed": 3593108579,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 17582,
+      "do_parent": "Young",
+      "seed": 4180404049,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 17582,
+      "do_parent": "Male",
+      "seed": 268939139,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 17582,
+      "do_parent": "No_Beard",
+      "seed": 857302260,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 17582,
+      "do_parent": "Bald",
+      "seed": 4093213766,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 17846,
+      "do_parent": "Young",
+      "seed": 3272026091,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 17846,
+      "do_parent": "Male",
+      "seed": 3655528477,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 17846,
+      "do_parent": "No_Beard",
+      "seed": 1997069063,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 17846,
+      "do_parent": "Bald",
+      "seed": 3184835808,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 17909,
+      "do_parent": "Young",
+      "seed": 1431801613,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 17909,
+      "do_parent": "Male",
+      "seed": 3962787647,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 17909,
+      "do_parent": "No_Beard",
+      "seed": 256183472,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 17909,
+      "do_parent": "Bald",
+      "seed": 1344611330,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 17939,
+      "do_parent": "Young",
+      "seed": 1736529588,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 17939,
+      "do_parent": "Male",
+      "seed": 2120031974,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 17939,
+      "do_parent": "No_Beard",
+      "seed": 560911447,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 17939,
+      "do_parent": "Bald",
+      "seed": 1649339305,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 18034,
+      "do_parent": "Young",
+      "seed": 3875602093,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 18034,
+      "do_parent": "Male",
+      "seed": 4259104479,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 18034,
+      "do_parent": "No_Beard",
+      "seed": 552500304,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 18034,
+      "do_parent": "Bald",
+      "seed": 1640928162,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 18164,
+      "do_parent": "Young",
+      "seed": 4275389740,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 18164,
+      "do_parent": "Male",
+      "seed": 2412069591,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 18164,
+      "do_parent": "No_Beard",
+      "seed": 852949064,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 18164,
+      "do_parent": "Bald",
+      "seed": 1941376922,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 18231,
+      "do_parent": "Young",
+      "seed": 727212010,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 18231,
+      "do_parent": "Male",
+      "seed": 1110714396,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 18231,
+      "do_parent": "No_Beard",
+      "seed": 1699077517,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 18231,
+      "do_parent": "Bald",
+      "seed": 2787505375,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 18436,
+      "do_parent": "Young",
+      "seed": 4095012813,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 18436,
+      "do_parent": "Male",
+      "seed": 2331031551,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 18436,
+      "do_parent": "No_Beard",
+      "seed": 2919394672,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 18436,
+      "do_parent": "Bald",
+      "seed": 4007822530,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 18633,
+      "do_parent": "Young",
+      "seed": 3193445265,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 18633,
+      "do_parent": "Male",
+      "seed": 1429464003,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 18633,
+      "do_parent": "No_Beard",
+      "seed": 4065971885,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 18633,
+      "do_parent": "Bald",
+      "seed": 3106254982,
+      "intervention": {
+        "Bald": 0.0
+      }
+    },
+    {
+      "sample_idx": 18730,
+      "do_parent": "Young",
+      "seed": 755316360,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 18730,
+      "do_parent": "Male",
+      "seed": 1138818746,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 18730,
+      "do_parent": "No_Beard",
+      "seed": 1727181867,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 18730,
+      "do_parent": "Bald",
+      "seed": 2815609725,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 19047,
+      "do_parent": "Young",
+      "seed": 2094739590,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 19047,
+      "do_parent": "Male",
+      "seed": 2478241976,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 19047,
+      "do_parent": "No_Beard",
+      "seed": 3066605097,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 19047,
+      "do_parent": "Bald",
+      "seed": 4155032955,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 19069,
+      "do_parent": "Young",
+      "seed": 2325727623,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 19069,
+      "do_parent": "Male",
+      "seed": 2709230009,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 19069,
+      "do_parent": "No_Beard",
+      "seed": 3297593130,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 19069,
+      "do_parent": "Bald",
+      "seed": 91053692,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 19091,
+      "do_parent": "Young",
+      "seed": 2556715656,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 19091,
+      "do_parent": "Male",
+      "seed": 2940218042,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 19091,
+      "do_parent": "No_Beard",
+      "seed": 3528581163,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 19091,
+      "do_parent": "Bald",
+      "seed": 322041725,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 19113,
+      "do_parent": "Young",
+      "seed": 4129866487,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 19113,
+      "do_parent": "Male",
+      "seed": 2365885225,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 19113,
+      "do_parent": "No_Beard",
+      "seed": 2954248346,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 19113,
+      "do_parent": "Bald",
+      "seed": 4042676204,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 19118,
+      "do_parent": "Young",
+      "seed": 3380398439,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 19118,
+      "do_parent": "Male",
+      "seed": 3763900825,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 19118,
+      "do_parent": "No_Beard",
+      "seed": 57296650,
+      "intervention": {
+        "No_Beard": 1.0
+      }
+    },
+    {
+      "sample_idx": 19118,
+      "do_parent": "Bald",
+      "seed": 3293208156,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 19119,
+      "do_parent": "Young",
+      "seed": 3044338858,
+      "intervention": {
+        "Young": 1.0
+      }
+    },
+    {
+      "sample_idx": 19119,
+      "do_parent": "Male",
+      "seed": 1280357596,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 19119,
+      "do_parent": "No_Beard",
+      "seed": 1868720717,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 19119,
+      "do_parent": "Bald",
+      "seed": 2957148575,
+      "intervention": {
+        "Bald": 0.0
+      }
+    },
+    {
+      "sample_idx": 19249,
+      "do_parent": "Young",
+      "seed": 1296642857,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 19249,
+      "do_parent": "Male",
+      "seed": 1680145243,
+      "intervention": {
+        "Male": 1.0
+      }
+    },
+    {
+      "sample_idx": 19249,
+      "do_parent": "No_Beard",
+      "seed": 21685829,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 19249,
+      "do_parent": "Bald",
+      "seed": 3356936222,
+      "intervention": {
+        "Bald": 1.0
+      }
+    },
+    {
+      "sample_idx": 19722,
+      "do_parent": "Young",
+      "seed": 1459549628,
+      "intervention": {
+        "Young": 0.0
+      }
+    },
+    {
+      "sample_idx": 19722,
+      "do_parent": "Male",
+      "seed": 1843052014,
+      "intervention": {
+        "Male": 0.0
+      }
+    },
+    {
+      "sample_idx": 19722,
+      "do_parent": "No_Beard",
+      "seed": 283931487,
+      "intervention": {
+        "No_Beard": 0.0
+      }
+    },
+    {
+      "sample_idx": 19722,
+      "do_parent": "Bald",
+      "seed": 1372359345,
+      "intervention": {
+        "Bald": 1.0
+      }
+    }
+  ]
+}

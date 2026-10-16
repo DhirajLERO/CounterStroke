@@ -1,0 +1,60 @@
+# Paths under datasets.* are resolved relative to gracoimage_root (default: GracoImage/).
+# Use absolute paths on cluster if your tree differs from the repo layout.
+gracoimage_root: ".."
+
+datasets:
+  mnist:
+    num_classes: 10
+    graco_dir: MNIST/graco
+    dataset_dir: MNIST
+    weights: MNIST/models/mnist_cnn.pt
+    manifest: MNIST/data_subset/eval_manifest.json
+    graco_results: MNIST/graco/results/experiment_v8_mnist
+    turtle_delta_scale: 5.0
+    sample_idx_key: sample_idx
+
+  cifar10:
+    num_classes: 10
+    graco_dir: Cifar10/graco
+    dataset_dir: Cifar10
+    weights: Cifar10/models/cifar_resnet.pt
+    manifest: Cifar10/data_subset/eval_manifest.json
+    graco_results: Cifar10/graco/results/experiment_cifar_turtle
+    turtle_delta_scale: 5.0
+    sample_idx_key: sample_idx
+
+  imagenet100:
+    num_classes: 100
+    graco_dir: Imagenet/graco
+    dataset_dir: Imagenet
+    weights: Imagenet/models/imagenet100_inception.pt
+    manifest: Imagenet/data_subset/eval_manifest.json
+    graco_results: Imagenet/graco/results/experiment_inception_turtle
+    turtle_delta_scale: 5.0
+    sample_idx_key: dataset_index
+
+defaults:
+  prob_threshold: 0.5
+  cochange_tau: 0.5
+  spatial_sigma: 1.5
+  max_render: 2000
+  eps: 1.0e-6
+  srg_curve_points: 100
+  # Batched classifier forwards during SRG (reduce if CUDA OOM on ImageNet)
+  srg_infer_batch_size: 256
+  # PageRank backend for pagerank_cooccur: implicit | scipy | networkx
+  pagerank_backend: implicit
+  pagerank_damping: 0.85
+  # SRG occlusion when corrupting ranked pixels (one of):
+  #   mean_alibi      — replace with image mean (Alibi space)
+  #   invert_alibi    — negate pixel (black↔white flip in display space)
+  #   white           — set to white (Alibi 0.5)
+  #   black           — set to black (Alibi -0.5)
+  #   gaussian_noise  — random Gaussian noise, clip to Alibi [-0.5, 0.5]
+  srg_occlusion: black
+  srg_occlusion_noise_std: 0.15
+  # SRG probability class for all methods uses model argmax on the original image.
+  # Graco/phenotype methods can optionally track the explanation class instead:
+  #   base — track p(model prediction on original) [default; "true" is a legacy alias]
+  #   pred — track p(explanation_class), the dominant Graco flip class
+  srg_graco_prob_class: base

@@ -1,0 +1,3205 @@
+{
+  "seed": 42,
+  "entries": [
+    {
+      "sample_idx": 369,
+      "do_parent": "Smiling",
+      "seed": 991023070,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 369,
+      "do_parent": "Eyeglasses",
+      "seed": 1720823618,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 447,
+      "do_parent": "Smiling",
+      "seed": 49773859,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 447,
+      "do_parent": "Eyeglasses",
+      "seed": 779574407,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 787,
+      "do_parent": "Smiling",
+      "seed": 1284125541,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 787,
+      "do_parent": "Eyeglasses",
+      "seed": 4161409737,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 902,
+      "do_parent": "Smiling",
+      "seed": 3421645504,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 902,
+      "do_parent": "Eyeglasses",
+      "seed": 4151446052,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 1267,
+      "do_parent": "Smiling",
+      "seed": 1367607900,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 1267,
+      "do_parent": "Eyeglasses",
+      "seed": 2097408448,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 1300,
+      "do_parent": "Smiling",
+      "seed": 4106185565,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 1300,
+      "do_parent": "Eyeglasses",
+      "seed": 541018817,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 1386,
+      "do_parent": "Smiling",
+      "seed": 502629826,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 1386,
+      "do_parent": "Eyeglasses",
+      "seed": 3479252909,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 1527,
+      "do_parent": "Smiling",
+      "seed": 2067844307,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 1527,
+      "do_parent": "Eyeglasses",
+      "seed": 2797644855,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 1570,
+      "do_parent": "Smiling",
+      "seed": 4208042752,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 1570,
+      "do_parent": "Eyeglasses",
+      "seed": 642876004,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 1602,
+      "do_parent": "Smiling",
+      "seed": 2498488767,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 1602,
+      "do_parent": "Eyeglasses",
+      "seed": 3228289315,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 1638,
+      "do_parent": "Smiling",
+      "seed": 2570627976,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 1638,
+      "do_parent": "Eyeglasses",
+      "seed": 3300428524,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 1717,
+      "do_parent": "Smiling",
+      "seed": 2488525082,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 1717,
+      "do_parent": "Eyeglasses",
+      "seed": 3317664517,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 1777,
+      "do_parent": "Smiling",
+      "seed": 3414077947,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 1777,
+      "do_parent": "Eyeglasses",
+      "seed": 4143878495,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 1841,
+      "do_parent": "Smiling",
+      "seed": 1826356710,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 1841,
+      "do_parent": "Eyeglasses",
+      "seed": 2556157258,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 1861,
+      "do_parent": "Smiling",
+      "seed": 1387301107,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 1861,
+      "do_parent": "Eyeglasses",
+      "seed": 4264585303,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 1875,
+      "do_parent": "Smiling",
+      "seed": 3375935931,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 1875,
+      "do_parent": "Eyeglasses",
+      "seed": 4105736479,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 1896,
+      "do_parent": "Smiling",
+      "seed": 500955112,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 1896,
+      "do_parent": "Eyeglasses",
+      "seed": 1230755660,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 1948,
+      "do_parent": "Smiling",
+      "seed": 1841991970,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 1948,
+      "do_parent": "Eyeglasses",
+      "seed": 2571792518,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 2057,
+      "do_parent": "Smiling",
+      "seed": 1575393116,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 2057,
+      "do_parent": "Eyeglasses",
+      "seed": 2305193664,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 2505,
+      "do_parent": "Smiling",
+      "seed": 4221368323,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 2505,
+      "do_parent": "Eyeglasses",
+      "seed": 2903024110,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 2549,
+      "do_parent": "Smiling",
+      "seed": 3830405526,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 2549,
+      "do_parent": "Eyeglasses",
+      "seed": 2512061313,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 2561,
+      "do_parent": "Smiling",
+      "seed": 1706968281,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 2561,
+      "do_parent": "Eyeglasses",
+      "seed": 388624068,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 2783,
+      "do_parent": "Smiling",
+      "seed": 1811978743,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 2783,
+      "do_parent": "Eyeglasses",
+      "seed": 2541779291,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 2790,
+      "do_parent": "Smiling",
+      "seed": 3880037979,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 2790,
+      "do_parent": "Eyeglasses",
+      "seed": 314871231,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 2863,
+      "do_parent": "Smiling",
+      "seed": 3640638803,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 2863,
+      "do_parent": "Eyeglasses",
+      "seed": 75472055,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 3027,
+      "do_parent": "Smiling",
+      "seed": 1243317501,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 3027,
+      "do_parent": "Eyeglasses",
+      "seed": 1973118049,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 3048,
+      "do_parent": "Smiling",
+      "seed": 1810365115,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 3048,
+      "do_parent": "Eyeglasses",
+      "seed": 2540165663,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 3201,
+      "do_parent": "Smiling",
+      "seed": 4153225975,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 3201,
+      "do_parent": "Eyeglasses",
+      "seed": 2735542875,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 3215,
+      "do_parent": "Smiling",
+      "seed": 1846893503,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 3215,
+      "do_parent": "Eyeglasses",
+      "seed": 2576694051,
+      "intervention": {
+        "Eyeglasses": 0.0
+      }
+    },
+    {
+      "sample_idx": 3266,
+      "do_parent": "Smiling",
+      "seed": 1376506294,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 3266,
+      "do_parent": "Eyeglasses",
+      "seed": 2106306842,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 3418,
+      "do_parent": "Smiling",
+      "seed": 1907943087,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 3418,
+      "do_parent": "Eyeglasses",
+      "seed": 589598874,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 3508,
+      "do_parent": "Smiling",
+      "seed": 990740279,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 3508,
+      "do_parent": "Eyeglasses",
+      "seed": 1720540827,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 3537,
+      "do_parent": "Smiling",
+      "seed": 3289787548,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 3537,
+      "do_parent": "Eyeglasses",
+      "seed": 4019588096,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 3580,
+      "do_parent": "Smiling",
+      "seed": 4087823195,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 3580,
+      "do_parent": "Eyeglasses",
+      "seed": 522656447,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 3594,
+      "do_parent": "Smiling",
+      "seed": 439327925,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 3594,
+      "do_parent": "Eyeglasses",
+      "seed": 1169128473,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 3747,
+      "do_parent": "Smiling",
+      "seed": 1123929072,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 3747,
+      "do_parent": "Eyeglasses",
+      "seed": 1853729620,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 3759,
+      "do_parent": "Smiling",
+      "seed": 1147975475,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 3759,
+      "do_parent": "Eyeglasses",
+      "seed": 1877776023,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 3852,
+      "do_parent": "Smiling",
+      "seed": 2664622357,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 3852,
+      "do_parent": "Eyeglasses",
+      "seed": 3394422905,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 3983,
+      "do_parent": "Smiling",
+      "seed": 3118235471,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 3983,
+      "do_parent": "Eyeglasses",
+      "seed": 1799891258,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 4012,
+      "do_parent": "Smiling",
+      "seed": 1122315444,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 4012,
+      "do_parent": "Eyeglasses",
+      "seed": 1852115992,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 4488,
+      "do_parent": "Smiling",
+      "seed": 3013089942,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 4488,
+      "do_parent": "Eyeglasses",
+      "seed": 3742890490,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 4502,
+      "do_parent": "Smiling",
+      "seed": 3659561968,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 4502,
+      "do_parent": "Eyeglasses",
+      "seed": 94395220,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 4772,
+      "do_parent": "Smiling",
+      "seed": 3761419155,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 4772,
+      "do_parent": "Eyeglasses",
+      "seed": 2343736055,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 5202,
+      "do_parent": "Smiling",
+      "seed": 489582696,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 5202,
+      "do_parent": "Eyeglasses",
+      "seed": 1219383244,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 5248,
+      "do_parent": "Smiling",
+      "seed": 3405371118,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 5248,
+      "do_parent": "Eyeglasses",
+      "seed": 4135171666,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 5306,
+      "do_parent": "Smiling",
+      "seed": 218851914,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 5306,
+      "do_parent": "Eyeglasses",
+      "seed": 3096136110,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 5381,
+      "do_parent": "Smiling",
+      "seed": 4091524807,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 5381,
+      "do_parent": "Eyeglasses",
+      "seed": 526358059,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 5435,
+      "do_parent": "Smiling",
+      "seed": 855360255,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 5435,
+      "do_parent": "Eyeglasses",
+      "seed": 3831983338,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 5441,
+      "do_parent": "Smiling",
+      "seed": 4112417935,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 5441,
+      "do_parent": "Eyeglasses",
+      "seed": 547251187,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 5554,
+      "do_parent": "Smiling",
+      "seed": 2237204716,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 5554,
+      "do_parent": "Eyeglasses",
+      "seed": 2967005264,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 5682,
+      "do_parent": "Smiling",
+      "seed": 672403942,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 5682,
+      "do_parent": "Eyeglasses",
+      "seed": 3549688138,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 5745,
+      "do_parent": "Smiling",
+      "seed": 174342262,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 5745,
+      "do_parent": "Eyeglasses",
+      "seed": 904142810,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 5910,
+      "do_parent": "Smiling",
+      "seed": 1787649549,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 5910,
+      "do_parent": "Eyeglasses",
+      "seed": 369966449,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 6009,
+      "do_parent": "Smiling",
+      "seed": 1314109065,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 6009,
+      "do_parent": "Eyeglasses",
+      "seed": 2043909613,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 6109,
+      "do_parent": "Smiling",
+      "seed": 603847887,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 6109,
+      "do_parent": "Eyeglasses",
+      "seed": 1333648435,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 6164,
+      "do_parent": "Smiling",
+      "seed": 3573413585,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 6164,
+      "do_parent": "Eyeglasses",
+      "seed": 8246837,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 6194,
+      "do_parent": "Smiling",
+      "seed": 388495114,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 6194,
+      "do_parent": "Eyeglasses",
+      "seed": 1118295662,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 6457,
+      "do_parent": "Smiling",
+      "seed": 2717260361,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 6457,
+      "do_parent": "Eyeglasses",
+      "seed": 1299577261,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 6549,
+      "do_parent": "Smiling",
+      "seed": 2323144289,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 6549,
+      "do_parent": "Eyeglasses",
+      "seed": 3152283724,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 6579,
+      "do_parent": "Smiling",
+      "seed": 3433193114,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 6579,
+      "do_parent": "Eyeglasses",
+      "seed": 4262332549,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 6647,
+      "do_parent": "Smiling",
+      "seed": 990457488,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 6647,
+      "do_parent": "Eyeglasses",
+      "seed": 1720258036,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 6936,
+      "do_parent": "Smiling",
+      "seed": 3989741164,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 6936,
+      "do_parent": "Eyeglasses",
+      "seed": 424574416,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 7012,
+      "do_parent": "Smiling",
+      "seed": 3231387180,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 7012,
+      "do_parent": "Eyeglasses",
+      "seed": 3961187728,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 7208,
+      "do_parent": "Smiling",
+      "seed": 2566540326,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 7208,
+      "do_parent": "Eyeglasses",
+      "seed": 1148857226,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 7256,
+      "do_parent": "Smiling",
+      "seed": 3468046788,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 7256,
+      "do_parent": "Eyeglasses",
+      "seed": 2050363688,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 7283,
+      "do_parent": "Smiling",
+      "seed": 2144245923,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 7283,
+      "do_parent": "Eyeglasses",
+      "seed": 2874046471,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 7331,
+      "do_parent": "Smiling",
+      "seed": 3045752385,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 7331,
+      "do_parent": "Eyeglasses",
+      "seed": 3775552933,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 7353,
+      "do_parent": "Smiling",
+      "seed": 224597033,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 7353,
+      "do_parent": "Eyeglasses",
+      "seed": 3201220116,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 7713,
+      "do_parent": "Smiling",
+      "seed": 214572262,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 7713,
+      "do_parent": "Eyeglasses",
+      "seed": 944372810,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 7977,
+      "do_parent": "Smiling",
+      "seed": 1354339065,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 7977,
+      "do_parent": "Eyeglasses",
+      "seed": 35994852,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 8168,
+      "do_parent": "Smiling",
+      "seed": 1538299146,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 8168,
+      "do_parent": "Eyeglasses",
+      "seed": 2268099694,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 8256,
+      "do_parent": "Smiling",
+      "seed": 4146681111,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 8256,
+      "do_parent": "Eyeglasses",
+      "seed": 2828336898,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 8317,
+      "do_parent": "Smiling",
+      "seed": 2588690747,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 8317,
+      "do_parent": "Eyeglasses",
+      "seed": 3318491295,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 8559,
+      "do_parent": "Smiling",
+      "seed": 1449324756,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 8559,
+      "do_parent": "Eyeglasses",
+      "seed": 2179125304,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 8571,
+      "do_parent": "Smiling",
+      "seed": 3521515920,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 8571,
+      "do_parent": "Eyeglasses",
+      "seed": 2203171707,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 8682,
+      "do_parent": "Smiling",
+      "seed": 4024299589,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 8682,
+      "do_parent": "Eyeglasses",
+      "seed": 459132841,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 8687,
+      "do_parent": "Smiling",
+      "seed": 3274831541,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 8687,
+      "do_parent": "Eyeglasses",
+      "seed": 4004632089,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 8721,
+      "do_parent": "Smiling",
+      "seed": 1382382329,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 8721,
+      "do_parent": "Eyeglasses",
+      "seed": 2112182877,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 8745,
+      "do_parent": "Smiling",
+      "seed": 3577958783,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 8745,
+      "do_parent": "Eyeglasses",
+      "seed": 12792035,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 8779,
+      "do_parent": "Smiling",
+      "seed": 1685509571,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 8779,
+      "do_parent": "Eyeglasses",
+      "seed": 2415310119,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 8805,
+      "do_parent": "Smiling",
+      "seed": 109205465,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 8805,
+      "do_parent": "Eyeglasses",
+      "seed": 3085828548,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 8831,
+      "do_parent": "Smiling",
+      "seed": 4269370340,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 8831,
+      "do_parent": "Eyeglasses",
+      "seed": 704203592,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 8868,
+      "do_parent": "Smiling",
+      "seed": 3957831955,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 8868,
+      "do_parent": "Eyeglasses",
+      "seed": 2639487742,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 8871,
+      "do_parent": "Smiling",
+      "seed": 1291393499,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 8871,
+      "do_parent": "Eyeglasses",
+      "seed": 4168677695,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 8874,
+      "do_parent": "Smiling",
+      "seed": 2066983476,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 8874,
+      "do_parent": "Eyeglasses",
+      "seed": 2796784024,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 8931,
+      "do_parent": "Smiling",
+      "seed": 3511491149,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 8931,
+      "do_parent": "Eyeglasses",
+      "seed": 4241291697,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 8942,
+      "do_parent": "Smiling",
+      "seed": 429568700,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 8942,
+      "do_parent": "Eyeglasses",
+      "seed": 1159369248,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 9009,
+      "do_parent": "Smiling",
+      "seed": 422758290,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 9009,
+      "do_parent": "Eyeglasses",
+      "seed": 1152558838,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 9024,
+      "do_parent": "Smiling",
+      "seed": 4222817181,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 9024,
+      "do_parent": "Eyeglasses",
+      "seed": 2805134081,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 9147,
+      "do_parent": "Smiling",
+      "seed": 2455206705,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 9147,
+      "do_parent": "Eyeglasses",
+      "seed": 1136862492,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 9256,
+      "do_parent": "Smiling",
+      "seed": 140463090,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 9256,
+      "do_parent": "Eyeglasses",
+      "seed": 870263638,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 9262,
+      "do_parent": "Smiling",
+      "seed": 3397520770,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 9262,
+      "do_parent": "Eyeglasses",
+      "seed": 4127321318,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 9318,
+      "do_parent": "Smiling",
+      "seed": 883120728,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 9318,
+      "do_parent": "Eyeglasses",
+      "seed": 1612921276,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 9383,
+      "do_parent": "Smiling",
+      "seed": 1007484671,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 9383,
+      "do_parent": "Eyeglasses",
+      "seed": 1737285219,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 9398,
+      "do_parent": "Smiling",
+      "seed": 2711780788,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 9398,
+      "do_parent": "Eyeglasses",
+      "seed": 1294097688,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 9512,
+      "do_parent": "Smiling",
+      "seed": 1743331899,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 9512,
+      "do_parent": "Eyeglasses",
+      "seed": 2473132447,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 9565,
+      "do_parent": "Smiling",
+      "seed": 600825528,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 9565,
+      "do_parent": "Eyeglasses",
+      "seed": 1330626076,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 9666,
+      "do_parent": "Smiling",
+      "seed": 2996533202,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 9666,
+      "do_parent": "Eyeglasses",
+      "seed": 3726333750,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 9739,
+      "do_parent": "Smiling",
+      "seed": 3999957937,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 9739,
+      "do_parent": "Eyeglasses",
+      "seed": 434791189,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 9744,
+      "do_parent": "Smiling",
+      "seed": 4103428752,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 9744,
+      "do_parent": "Eyeglasses",
+      "seed": 2685745652,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 9752,
+      "do_parent": "Smiling",
+      "seed": 3687944759,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 9752,
+      "do_parent": "Eyeglasses",
+      "seed": 122778011,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 9784,
+      "do_parent": "Smiling",
+      "seed": 2467614709,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 9784,
+      "do_parent": "Eyeglasses",
+      "seed": 3197415257,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 9912,
+      "do_parent": "Smiling",
+      "seed": 902813935,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 9912,
+      "do_parent": "Eyeglasses",
+      "seed": 1632614483,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 9934,
+      "do_parent": "Smiling",
+      "seed": 2376625879,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 9934,
+      "do_parent": "Eyeglasses",
+      "seed": 1058281666,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 10162,
+      "do_parent": "Smiling",
+      "seed": 2249047575,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 10162,
+      "do_parent": "Eyeglasses",
+      "seed": 2978848123,
+      "intervention": {
+        "Eyeglasses": 0.0
+      }
+    },
+    {
+      "sample_idx": 10385,
+      "do_parent": "Smiling",
+      "seed": 3260822367,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 10385,
+      "do_parent": "Eyeglasses",
+      "seed": 3990622915,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 10425,
+      "do_parent": "Smiling",
+      "seed": 282845526,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 10425,
+      "do_parent": "Eyeglasses",
+      "seed": 3160129722,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 10792,
+      "do_parent": "Smiling",
+      "seed": 2241541104,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 10792,
+      "do_parent": "Eyeglasses",
+      "seed": 923196891,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 10819,
+      "do_parent": "Smiling",
+      "seed": 917740239,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 10819,
+      "do_parent": "Eyeglasses",
+      "seed": 3894363322,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 10851,
+      "do_parent": "Smiling",
+      "seed": 1355669902,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 10851,
+      "do_parent": "Eyeglasses",
+      "seed": 2085470450,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 10854,
+      "do_parent": "Smiling",
+      "seed": 2984198742,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 10854,
+      "do_parent": "Eyeglasses",
+      "seed": 1566515642,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 10879,
+      "do_parent": "Smiling",
+      "seed": 3990776752,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 10879,
+      "do_parent": "Eyeglasses",
+      "seed": 425610004,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 10997,
+      "do_parent": "Smiling",
+      "seed": 2219034348,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 10997,
+      "do_parent": "Eyeglasses",
+      "seed": 2948834896,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 11255,
+      "do_parent": "Smiling",
+      "seed": 149361484,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 11255,
+      "do_parent": "Eyeglasses",
+      "seed": 879162032,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 11391,
+      "do_parent": "Smiling",
+      "seed": 3706867924,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 11391,
+      "do_parent": "Eyeglasses",
+      "seed": 141701176,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 11481,
+      "do_parent": "Smiling",
+      "seed": 3594985966,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 11481,
+      "do_parent": "Eyeglasses",
+      "seed": 29819218,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 11561,
+      "do_parent": "Smiling",
+      "seed": 3276162378,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 11561,
+      "do_parent": "Eyeglasses",
+      "seed": 4005962926,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 11598,
+      "do_parent": "Smiling",
+      "seed": 2159303143,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 11598,
+      "do_parent": "Eyeglasses",
+      "seed": 2889103691,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 11701,
+      "do_parent": "Smiling",
+      "seed": 2978231918,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 11701,
+      "do_parent": "Eyeglasses",
+      "seed": 3708032466,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 11772,
+      "do_parent": "Smiling",
+      "seed": 4263890767,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 11772,
+      "do_parent": "Eyeglasses",
+      "seed": 698724019,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 12199,
+      "do_parent": "Smiling",
+      "seed": 2952510801,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 12199,
+      "do_parent": "Eyeglasses",
+      "seed": 3682311349,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 12477,
+      "do_parent": "Smiling",
+      "seed": 3933428780,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 12477,
+      "do_parent": "Eyeglasses",
+      "seed": 368262032,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 12501,
+      "do_parent": "Smiling",
+      "seed": 2639358788,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 12501,
+      "do_parent": "Eyeglasses",
+      "seed": 3369159336,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 12515,
+      "do_parent": "Smiling",
+      "seed": 2381171077,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 12515,
+      "do_parent": "Eyeglasses",
+      "seed": 1062826864,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 12521,
+      "do_parent": "Smiling",
+      "seed": 2148582311,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 12521,
+      "do_parent": "Eyeglasses",
+      "seed": 830238098,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 12688,
+      "do_parent": "Smiling",
+      "seed": 3578994371,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 12688,
+      "do_parent": "Eyeglasses",
+      "seed": 13827623,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 12735,
+      "do_parent": "Smiling",
+      "seed": 2669076766,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 12735,
+      "do_parent": "Eyeglasses",
+      "seed": 3398877314,
+      "intervention": {
+        "Eyeglasses": 0.0
+      }
+    },
+    {
+      "sample_idx": 12913,
+      "do_parent": "Smiling",
+      "seed": 3065711138,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 12913,
+      "do_parent": "Eyeglasses",
+      "seed": 3795511686,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 12934,
+      "do_parent": "Smiling",
+      "seed": 1485275104,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 12934,
+      "do_parent": "Eyeglasses",
+      "seed": 2215075652,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 13183,
+      "do_parent": "Smiling",
+      "seed": 3167568325,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 13183,
+      "do_parent": "Eyeglasses",
+      "seed": 3897368873,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 13209,
+      "do_parent": "Smiling",
+      "seed": 3838086754,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 13209,
+      "do_parent": "Eyeglasses",
+      "seed": 272920006,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 13289,
+      "do_parent": "Smiling",
+      "seed": 1371779518,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 13289,
+      "do_parent": "Eyeglasses",
+      "seed": 4249063714,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 13412,
+      "do_parent": "Smiling",
+      "seed": 457107905,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 13412,
+      "do_parent": "Eyeglasses",
+      "seed": 1286247340,
+      "intervention": {
+        "Eyeglasses": 0.0
+      }
+    },
+    {
+      "sample_idx": 13423,
+      "do_parent": "Smiling",
+      "seed": 2964697537,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 13423,
+      "do_parent": "Eyeglasses",
+      "seed": 1547014437,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 13507,
+      "do_parent": "Smiling",
+      "seed": 3085404345,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 13507,
+      "do_parent": "Eyeglasses",
+      "seed": 3815204893,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 13548,
+      "do_parent": "Smiling",
+      "seed": 1113530721,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 13548,
+      "do_parent": "Eyeglasses",
+      "seed": 1843331269,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 13591,
+      "do_parent": "Smiling",
+      "seed": 4059050016,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 13591,
+      "do_parent": "Eyeglasses",
+      "seed": 493883268,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 13631,
+      "do_parent": "Smiling",
+      "seed": 2423235973,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 13631,
+      "do_parent": "Eyeglasses",
+      "seed": 3153036521,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 13767,
+      "do_parent": "Smiling",
+      "seed": 2491095967,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 13767,
+      "do_parent": "Eyeglasses",
+      "seed": 3220896515,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 13863,
+      "do_parent": "Smiling",
+      "seed": 488365530,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 13863,
+      "do_parent": "Eyeglasses",
+      "seed": 1218166078,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 13872,
+      "do_parent": "Smiling",
+      "seed": 226045891,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 13872,
+      "do_parent": "Eyeglasses",
+      "seed": 955846439,
+      "intervention": {
+        "Eyeglasses": 0.0
+      }
+    },
+    {
+      "sample_idx": 13931,
+      "do_parent": "Smiling",
+      "seed": 3635141985,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 13931,
+      "do_parent": "Eyeglasses",
+      "seed": 69975237,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 13973,
+      "do_parent": "Smiling",
+      "seed": 3375353541,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 13973,
+      "do_parent": "Eyeglasses",
+      "seed": 4105154089,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 14168,
+      "do_parent": "Smiling",
+      "seed": 998421507,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 14168,
+      "do_parent": "Eyeglasses",
+      "seed": 1728222055,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 14221,
+      "do_parent": "Smiling",
+      "seed": 2003398784,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 14221,
+      "do_parent": "Eyeglasses",
+      "seed": 2733199332,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 14307,
+      "do_parent": "Smiling",
+      "seed": 2694810341,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 14307,
+      "do_parent": "Eyeglasses",
+      "seed": 3424610889,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 14329,
+      "do_parent": "Smiling",
+      "seed": 2072859511,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 14329,
+      "do_parent": "Eyeglasses",
+      "seed": 2802660059,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 14515,
+      "do_parent": "Smiling",
+      "seed": 2054009890,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 14515,
+      "do_parent": "Eyeglasses",
+      "seed": 2783810438,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 14639,
+      "do_parent": "Smiling",
+      "seed": 3491707153,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 14639,
+      "do_parent": "Eyeglasses",
+      "seed": 2074024053,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 14709,
+      "do_parent": "Smiling",
+      "seed": 3818880798,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 14709,
+      "do_parent": "Eyeglasses",
+      "seed": 253714050,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 14736,
+      "do_parent": "Smiling",
+      "seed": 1101196261,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 14736,
+      "do_parent": "Eyeglasses",
+      "seed": 4077819344,
+      "intervention": {
+        "Eyeglasses": 0.0
+      }
+    },
+    {
+      "sample_idx": 14968,
+      "do_parent": "Smiling",
+      "seed": 1413148353,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 14968,
+      "do_parent": "Eyeglasses",
+      "seed": 2142948901,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 14980,
+      "do_parent": "Smiling",
+      "seed": 1437194756,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 14980,
+      "do_parent": "Eyeglasses",
+      "seed": 2166995304,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 15009,
+      "do_parent": "Smiling",
+      "seed": 735819514,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 15009,
+      "do_parent": "Eyeglasses",
+      "seed": 1465620062,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 15140,
+      "do_parent": "Smiling",
+      "seed": 700208693,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 15140,
+      "do_parent": "Eyeglasses",
+      "seed": 1430009241,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 15141,
+      "do_parent": "Smiling",
+      "seed": 3853795558,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 15141,
+      "do_parent": "Eyeglasses",
+      "seed": 288628810,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 15204,
+      "do_parent": "Smiling",
+      "seed": 3407454752,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 15204,
+      "do_parent": "Eyeglasses",
+      "seed": 4137255300,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 15212,
+      "do_parent": "Smiling",
+      "seed": 2991970759,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 15212,
+      "do_parent": "Eyeglasses",
+      "seed": 3721771307,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 15213,
+      "do_parent": "Smiling",
+      "seed": 3950455963,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 15213,
+      "do_parent": "Eyeglasses",
+      "seed": 2532772863,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 15357,
+      "do_parent": "Smiling",
+      "seed": 2849231988,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 15357,
+      "do_parent": "Eyeglasses",
+      "seed": 1431548888,
+      "intervention": {
+        "Eyeglasses": 0.0
+      }
+    },
+    {
+      "sample_idx": 15395,
+      "do_parent": "Smiling",
+      "seed": 3543796820,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 15395,
+      "do_parent": "Eyeglasses",
+      "seed": 4273597368,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 15466,
+      "do_parent": "Smiling",
+      "seed": 2582633134,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 15466,
+      "do_parent": "Eyeglasses",
+      "seed": 3312433682,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 15491,
+      "do_parent": "Smiling",
+      "seed": 147182711,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 15491,
+      "do_parent": "Eyeglasses",
+      "seed": 3024466907,
+      "intervention": {
+        "Eyeglasses": 0.0
+      }
+    },
+    {
+      "sample_idx": 15671,
+      "do_parent": "Smiling",
+      "seed": 3313726354,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 15671,
+      "do_parent": "Eyeglasses",
+      "seed": 1995382141,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 15691,
+      "do_parent": "Smiling",
+      "seed": 2069349901,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 15691,
+      "do_parent": "Eyeglasses",
+      "seed": 751005688,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 15700,
+      "do_parent": "Smiling",
+      "seed": 1317806327,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 15700,
+      "do_parent": "Eyeglasses",
+      "seed": 2047606875,
+      "intervention": {
+        "Eyeglasses": 0.0
+      }
+    },
+    {
+      "sample_idx": 15765,
+      "do_parent": "Smiling",
+      "seed": 2836053942,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 15765,
+      "do_parent": "Eyeglasses",
+      "seed": 3565854490,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 15851,
+      "do_parent": "Smiling",
+      "seed": 1479320738,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 15851,
+      "do_parent": "Eyeglasses",
+      "seed": 2209121286,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 15973,
+      "do_parent": "Smiling",
+      "seed": 2195253491,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 15973,
+      "do_parent": "Eyeglasses",
+      "seed": 876909278,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 16110,
+      "do_parent": "Smiling",
+      "seed": 368133078,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 16110,
+      "do_parent": "Eyeglasses",
+      "seed": 3245417274,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 16178,
+      "do_parent": "Smiling",
+      "seed": 3025685598,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 16178,
+      "do_parent": "Eyeglasses",
+      "seed": 3755486146,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 16240,
+      "do_parent": "Smiling",
+      "seed": 1521520701,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 16240,
+      "do_parent": "Eyeglasses",
+      "seed": 103837601,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 16368,
+      "do_parent": "Smiling",
+      "seed": 2104203575,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 16368,
+      "do_parent": "Eyeglasses",
+      "seed": 2834004123,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 16532,
+      "do_parent": "Smiling",
+      "seed": 1001427058,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 16532,
+      "do_parent": "Eyeglasses",
+      "seed": 3978050141,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 16535,
+      "do_parent": "Smiling",
+      "seed": 1287793100,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 16535,
+      "do_parent": "Eyeglasses",
+      "seed": 4264416183,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 16562,
+      "do_parent": "Smiling",
+      "seed": 816931098,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 16562,
+      "do_parent": "Eyeglasses",
+      "seed": 1546731646,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 16757,
+      "do_parent": "Smiling",
+      "seed": 3540287210,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 16757,
+      "do_parent": "Eyeglasses",
+      "seed": 4270087758,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 16935,
+      "do_parent": "Smiling",
+      "seed": 1789437934,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 16935,
+      "do_parent": "Eyeglasses",
+      "seed": 371754834,
+      "intervention": {
+        "Eyeglasses": 0.0
+      }
+    },
+    {
+      "sample_idx": 16985,
+      "do_parent": "Smiling",
+      "seed": 360565521,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 16985,
+      "do_parent": "Eyeglasses",
+      "seed": 1090366069,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 16997,
+      "do_parent": "Smiling",
+      "seed": 384611924,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 16997,
+      "do_parent": "Eyeglasses",
+      "seed": 1114412472,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 17011,
+      "do_parent": "Smiling",
+      "seed": 1031083950,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 17011,
+      "do_parent": "Eyeglasses",
+      "seed": 1760884498,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 17626,
+      "do_parent": "Smiling",
+      "seed": 812503921,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 17626,
+      "do_parent": "Eyeglasses",
+      "seed": 1542304469,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 17760,
+      "do_parent": "Smiling",
+      "seed": 2405421940,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 17760,
+      "do_parent": "Eyeglasses",
+      "seed": 3135222488,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 17847,
+      "do_parent": "Smiling",
+      "seed": 665011142,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 17847,
+      "do_parent": "Eyeglasses",
+      "seed": 1394811690,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 17935,
+      "do_parent": "Smiling",
+      "seed": 3321011120,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 17935,
+      "do_parent": "Eyeglasses",
+      "seed": 2002666907,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 17939,
+      "do_parent": "Smiling",
+      "seed": 3760541516,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 17939,
+      "do_parent": "Eyeglasses",
+      "seed": 2442197303,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 18029,
+      "do_parent": "Smiling",
+      "seed": 3648659558,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 18029,
+      "do_parent": "Eyeglasses",
+      "seed": 83492810,
+      "intervention": {
+        "Eyeglasses": 0.0
+      }
+    },
+    {
+      "sample_idx": 18361,
+      "do_parent": "Smiling",
+      "seed": 2345690735,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 18361,
+      "do_parent": "Eyeglasses",
+      "seed": 3075491283,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 18379,
+      "do_parent": "Smiling",
+      "seed": 3431693157,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 18379,
+      "do_parent": "Eyeglasses",
+      "seed": 4161493705,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 18382,
+      "do_parent": "Smiling",
+      "seed": 765254701,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 18382,
+      "do_parent": "Eyeglasses",
+      "seed": 3642538897,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 18692,
+      "do_parent": "Smiling",
+      "seed": 36618695,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 18692,
+      "do_parent": "Eyeglasses",
+      "seed": 766419243,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 18736,
+      "do_parent": "Smiling",
+      "seed": 498594761,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 18736,
+      "do_parent": "Eyeglasses",
+      "seed": 1228395309,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 19027,
+      "do_parent": "Smiling",
+      "seed": 1167499562,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 19027,
+      "do_parent": "Eyeglasses",
+      "seed": 1897300110,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 19041,
+      "do_parent": "Smiling",
+      "seed": 3961455236,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 19041,
+      "do_parent": "Eyeglasses",
+      "seed": 396288488,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 19093,
+      "do_parent": "Smiling",
+      "seed": 102865061,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 19093,
+      "do_parent": "Eyeglasses",
+      "seed": 932004496,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 19169,
+      "do_parent": "Smiling",
+      "seed": 3639478373,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 19169,
+      "do_parent": "Eyeglasses",
+      "seed": 74311625,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 19241,
+      "do_parent": "Smiling",
+      "seed": 2441593993,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 19241,
+      "do_parent": "Eyeglasses",
+      "seed": 3171394541,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 19266,
+      "do_parent": "Smiling",
+      "seed": 3448172003,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 19266,
+      "do_parent": "Eyeglasses",
+      "seed": 4177972551,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 19290,
+      "do_parent": "Smiling",
+      "seed": 3496264809,
+      "intervention": {
+        "Smiling": 1.0
+      }
+    },
+    {
+      "sample_idx": 19290,
+      "do_parent": "Eyeglasses",
+      "seed": 2078581709,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    },
+    {
+      "sample_idx": 19702,
+      "do_parent": "Smiling",
+      "seed": 3922617159,
+      "intervention": {
+        "Smiling": 0.0
+      }
+    },
+    {
+      "sample_idx": 19702,
+      "do_parent": "Eyeglasses",
+      "seed": 357450411,
+      "intervention": {
+        "Eyeglasses": 1.0
+      }
+    }
+  ]
+}

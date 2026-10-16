@@ -1,0 +1,7405 @@
+{
+  "seed": 42,
+  "entries": [
+    {
+      "sample_idx": 160,
+      "do_parent": "thickness",
+      "seed": 2781170847,
+      "intervention": {
+        "thickness": -0.588807225227356
+      }
+    },
+    {
+      "sample_idx": 160,
+      "do_parent": "intensity",
+      "seed": 160407611,
+      "intervention": {
+        "intensity": 0.6472830772399902
+      }
+    },
+    {
+      "sample_idx": 160,
+      "do_parent": "digit",
+      "seed": 2808197655,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 209,
+      "do_parent": "thickness",
+      "seed": 3736502776,
+      "intervention": {
+        "thickness": -0.07985734939575195
+      }
+    },
+    {
+      "sample_idx": 209,
+      "do_parent": "intensity",
+      "seed": 3263223188,
+      "intervention": {
+        "intensity": -0.15198075771331787
+      }
+    },
+    {
+      "sample_idx": 209,
+      "do_parent": "digit",
+      "seed": 3862868471,
+      "intervention": {
+        "digit": [
+          [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 350,
+      "do_parent": "thickness",
+      "seed": 2348912759,
+      "intervention": {
+        "thickness": -0.46423590183258057
+      }
+    },
+    {
+      "sample_idx": 350,
+      "do_parent": "intensity",
+      "seed": 4023116819,
+      "intervention": {
+        "intensity": 0.4544719457626343
+      }
+    },
+    {
+      "sample_idx": 350,
+      "do_parent": "digit",
+      "seed": 2375939567,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 426,
+      "do_parent": "thickness",
+      "seed": 1590558775,
+      "intervention": {
+        "thickness": -0.5515044927597046
+      }
+    },
+    {
+      "sample_idx": 426,
+      "do_parent": "intensity",
+      "seed": 1117279187,
+      "intervention": {
+        "intensity": -0.8696697950363159
+      }
+    },
+    {
+      "sample_idx": 426,
+      "do_parent": "digit",
+      "seed": 1617585583,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 462,
+      "do_parent": "thickness",
+      "seed": 320535186,
+      "intervention": {
+        "thickness": -0.5022557973861694
+      }
+    },
+    {
+      "sample_idx": 462,
+      "do_parent": "intensity",
+      "seed": 4142222894,
+      "intervention": {
+        "intensity": -0.15913176536560059
+      }
+    },
+    {
+      "sample_idx": 462,
+      "do_parent": "digit",
+      "seed": 2495045642,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 470,
+      "do_parent": "thickness",
+      "seed": 2052534841,
+      "intervention": {
+        "thickness": -0.5833114385604858
+      }
+    },
+    {
+      "sample_idx": 470,
+      "do_parent": "intensity",
+      "seed": 1579255253,
+      "intervention": {
+        "intensity": -0.48190343379974365
+      }
+    },
+    {
+      "sample_idx": 470,
+      "do_parent": "digit",
+      "seed": 2079561649,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 647,
+      "do_parent": "thickness",
+      "seed": 637745146,
+      "intervention": {
+        "thickness": -0.4964612126350403
+      }
+    },
+    {
+      "sample_idx": 647,
+      "do_parent": "intensity",
+      "seed": 164465558,
+      "intervention": {
+        "intensity": 0.40879786014556885
+      }
+    },
+    {
+      "sample_idx": 647,
+      "do_parent": "digit",
+      "seed": 2812255602,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 667,
+      "do_parent": "thickness",
+      "seed": 2393791204,
+      "intervention": {
+        "thickness": -0.6871165037155151
+      }
+    },
+    {
+      "sample_idx": 667,
+      "do_parent": "intensity",
+      "seed": 1920511616,
+      "intervention": {
+        "intensity": 0.42112112045288086
+      }
+    },
+    {
+      "sample_idx": 667,
+      "do_parent": "digit",
+      "seed": 273334364,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 774,
+      "do_parent": "thickness",
+      "seed": 3703971249,
+      "intervention": {
+        "thickness": -0.602272629737854
+      }
+    },
+    {
+      "sample_idx": 774,
+      "do_parent": "intensity",
+      "seed": 1083208013,
+      "intervention": {
+        "intensity": 0.6063289642333984
+      }
+    },
+    {
+      "sample_idx": 774,
+      "do_parent": "digit",
+      "seed": 3730998057,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 792,
+      "do_parent": "thickness",
+      "seed": 1248606351,
+      "intervention": {
+        "thickness": -0.24153220653533936
+      }
+    },
+    {
+      "sample_idx": 792,
+      "do_parent": "intensity",
+      "seed": 2922810411,
+      "intervention": {
+        "intensity": -0.7828209400177002
+      }
+    },
+    {
+      "sample_idx": 792,
+      "do_parent": "digit",
+      "seed": 3522455694,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 842,
+      "do_parent": "thickness",
+      "seed": 4114701234,
+      "intervention": {
+        "thickness": -0.5297088623046875
+      }
+    },
+    {
+      "sample_idx": 842,
+      "do_parent": "intensity",
+      "seed": 3641421646,
+      "intervention": {
+        "intensity": -0.1318265199661255
+      }
+    },
+    {
+      "sample_idx": 842,
+      "do_parent": "digit",
+      "seed": 2093583281,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 856,
+      "do_parent": "thickness",
+      "seed": 3955852410,
+      "intervention": {
+        "thickness": 0.07539403438568115
+      }
+    },
+    {
+      "sample_idx": 856,
+      "do_parent": "intensity",
+      "seed": 1335089174,
+      "intervention": {
+        "intensity": -0.5073076486587524
+      }
+    },
+    {
+      "sample_idx": 856,
+      "do_parent": "digit",
+      "seed": 1934734457,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 883,
+      "do_parent": "thickness",
+      "seed": 3437372395,
+      "intervention": {
+        "thickness": 0.1691892147064209
+      }
+    },
+    {
+      "sample_idx": 883,
+      "do_parent": "intensity",
+      "seed": 2964092807,
+      "intervention": {
+        "intensity": 0.8254295587539673
+      }
+    },
+    {
+      "sample_idx": 883,
+      "do_parent": "digit",
+      "seed": 1416254442,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 891,
+      "do_parent": "thickness",
+      "seed": 874404754,
+      "intervention": {
+        "thickness": -0.48315751552581787
+      }
+    },
+    {
+      "sample_idx": 891,
+      "do_parent": "intensity",
+      "seed": 2548608814,
+      "intervention": {
+        "intensity": -0.48990464210510254
+      }
+    },
+    {
+      "sample_idx": 891,
+      "do_parent": "digit",
+      "seed": 3148254097,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 916,
+      "do_parent": "thickness",
+      "seed": 1880982764,
+      "intervention": {
+        "thickness": -0.5051045417785645
+      }
+    },
+    {
+      "sample_idx": 916,
+      "do_parent": "intensity",
+      "seed": 1407703176,
+      "intervention": {
+        "intensity": -0.4693673253059387
+      }
+    },
+    {
+      "sample_idx": 916,
+      "do_parent": "digit",
+      "seed": 4154832107,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 942,
+      "do_parent": "thickness",
+      "seed": 2551501193,
+      "intervention": {
+        "thickness": -0.7300528287887573
+      }
+    },
+    {
+      "sample_idx": 942,
+      "do_parent": "intensity",
+      "seed": 2078221605,
+      "intervention": {
+        "intensity": -0.8218274116516113
+      }
+    },
+    {
+      "sample_idx": 942,
+      "do_parent": "digit",
+      "seed": 530383240,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 962,
+      "do_parent": "thickness",
+      "seed": 12579955,
+      "intervention": {
+        "thickness": -0.5340456962585449
+      }
+    },
+    {
+      "sample_idx": 962,
+      "do_parent": "intensity",
+      "seed": 3834267663,
+      "intervention": {
+        "intensity": -0.4579082131385803
+      }
+    },
+    {
+      "sample_idx": 962,
+      "do_parent": "digit",
+      "seed": 2187090411,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 993,
+      "do_parent": "thickness",
+      "seed": 4276215645,
+      "intervention": {
+        "thickness": -0.44421321153640747
+      }
+    },
+    {
+      "sample_idx": 993,
+      "do_parent": "intensity",
+      "seed": 3802936057,
+      "intervention": {
+        "intensity": -0.46757107973098755
+      }
+    },
+    {
+      "sample_idx": 993,
+      "do_parent": "digit",
+      "seed": 2155758805,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1001,
+      "do_parent": "thickness",
+      "seed": 3761392765,
+      "intervention": {
+        "thickness": -0.436113178730011
+      }
+    },
+    {
+      "sample_idx": 1001,
+      "do_parent": "intensity",
+      "seed": 1140629529,
+      "intervention": {
+        "intensity": -0.18458706140518188
+      }
+    },
+    {
+      "sample_idx": 1001,
+      "do_parent": "digit",
+      "seed": 1740274812,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1035,
+      "do_parent": "thickness",
+      "seed": 3262827225,
+      "intervention": {
+        "thickness": -0.1699448823928833
+      }
+    },
+    {
+      "sample_idx": 1035,
+      "do_parent": "intensity",
+      "seed": 642063989,
+      "intervention": {
+        "intensity": -0.36412739753723145
+      }
+    },
+    {
+      "sample_idx": 1035,
+      "do_parent": "digit",
+      "seed": 3289854033,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1069,
+      "do_parent": "thickness",
+      "seed": 1271039126,
+      "intervention": {
+        "thickness": -0.7754744291305542
+      }
+    },
+    {
+      "sample_idx": 1069,
+      "do_parent": "intensity",
+      "seed": 797759538,
+      "intervention": {
+        "intensity": -0.5427013039588928
+      }
+    },
+    {
+      "sample_idx": 1069,
+      "do_parent": "digit",
+      "seed": 1397404821,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1080,
+      "do_parent": "thickness",
+      "seed": 2535804847,
+      "intervention": {
+        "thickness": -0.39685940742492676
+      }
+    },
+    {
+      "sample_idx": 1080,
+      "do_parent": "intensity",
+      "seed": 2062525259,
+      "intervention": {
+        "intensity": -0.7979083061218262
+      }
+    },
+    {
+      "sample_idx": 1080,
+      "do_parent": "digit",
+      "seed": 2562831655,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1094,
+      "do_parent": "thickness",
+      "seed": 130133488,
+      "intervention": {
+        "thickness": -0.300129771232605
+      }
+    },
+    {
+      "sample_idx": 1094,
+      "do_parent": "intensity",
+      "seed": 1804337548,
+      "intervention": {
+        "intensity": 0.40374112129211426
+      }
+    },
+    {
+      "sample_idx": 1094,
+      "do_parent": "digit",
+      "seed": 2403982831,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1146,
+      "do_parent": "thickness",
+      "seed": 1471170346,
+      "intervention": {
+        "thickness": -0.6932307481765747
+      }
+    },
+    {
+      "sample_idx": 1146,
+      "do_parent": "intensity",
+      "seed": 3145374406,
+      "intervention": {
+        "intensity": -0.12212324142456055
+      }
+    },
+    {
+      "sample_idx": 1146,
+      "do_parent": "digit",
+      "seed": 3745019689,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1149,
+      "do_parent": "thickness",
+      "seed": 3099699186,
+      "intervention": {
+        "thickness": -0.5139898061752319
+      }
+    },
+    {
+      "sample_idx": 1149,
+      "do_parent": "intensity",
+      "seed": 478935950,
+      "intervention": {
+        "intensity": -0.6652349829673767
+      }
+    },
+    {
+      "sample_idx": 1149,
+      "do_parent": "digit",
+      "seed": 1078581233,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1247,
+      "do_parent": "thickness",
+      "seed": 2572333235,
+      "intervention": {
+        "thickness": -0.023187994956970215
+      }
+    },
+    {
+      "sample_idx": 1247,
+      "do_parent": "intensity",
+      "seed": 4246537295,
+      "intervention": {
+        "intensity": 0.8023849725723267
+      }
+    },
+    {
+      "sample_idx": 1247,
+      "do_parent": "digit",
+      "seed": 2599360043,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1248,
+      "do_parent": "thickness",
+      "seed": 578013941,
+      "intervention": {
+        "thickness": -0.4131166338920593
+      }
+    },
+    {
+      "sample_idx": 1248,
+      "do_parent": "intensity",
+      "seed": 104734353,
+      "intervention": {
+        "intensity": -0.32865315675735474
+      }
+    },
+    {
+      "sample_idx": 1248,
+      "do_parent": "digit",
+      "seed": 2752524397,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1315,
+      "do_parent": "thickness",
+      "seed": 3472287155,
+      "intervention": {
+        "thickness": 0.1541062593460083
+      }
+    },
+    {
+      "sample_idx": 1315,
+      "do_parent": "intensity",
+      "seed": 3098346454,
+      "intervention": {
+        "intensity": 0.2572166919708252
+      }
+    },
+    {
+      "sample_idx": 1315,
+      "do_parent": "digit",
+      "seed": 1451169202,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1410,
+      "do_parent": "thickness",
+      "seed": 1316392364,
+      "intervention": {
+        "thickness": -0.491085410118103
+      }
+    },
+    {
+      "sample_idx": 1410,
+      "do_parent": "intensity",
+      "seed": 843112776,
+      "intervention": {
+        "intensity": 0.838263750076294
+      }
+    },
+    {
+      "sample_idx": 1410,
+      "do_parent": "digit",
+      "seed": 1442758059,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1430,
+      "do_parent": "thickness",
+      "seed": 72015911,
+      "intervention": {
+        "thickness": -0.47795337438583374
+      }
+    },
+    {
+      "sample_idx": 1430,
+      "do_parent": "intensity",
+      "seed": 3893703619,
+      "intervention": {
+        "intensity": 0.9370955228805542
+      }
+    },
+    {
+      "sample_idx": 1430,
+      "do_parent": "digit",
+      "seed": 2345865254,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1440,
+      "do_parent": "thickness",
+      "seed": 3768603987,
+      "intervention": {
+        "thickness": -0.19187283515930176
+      }
+    },
+    {
+      "sample_idx": 1440,
+      "do_parent": "intensity",
+      "seed": 1147840751,
+      "intervention": {
+        "intensity": 0.44316422939300537
+      }
+    },
+    {
+      "sample_idx": 1440,
+      "do_parent": "digit",
+      "seed": 1747486034,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1470,
+      "do_parent": "thickness",
+      "seed": 583685516,
+      "intervention": {
+        "thickness": -0.5323054790496826
+      }
+    },
+    {
+      "sample_idx": 1470,
+      "do_parent": "intensity",
+      "seed": 2257889576,
+      "intervention": {
+        "intensity": -0.20940518379211426
+      }
+    },
+    {
+      "sample_idx": 1470,
+      "do_parent": "digit",
+      "seed": 2857534859,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1487,
+      "do_parent": "thickness",
+      "seed": 711202734,
+      "intervention": {
+        "thickness": -0.4412531852722168
+      }
+    },
+    {
+      "sample_idx": 1487,
+      "do_parent": "intensity",
+      "seed": 237923146,
+      "intervention": {
+        "intensity": 0.04470419883728027
+      }
+    },
+    {
+      "sample_idx": 1487,
+      "do_parent": "digit",
+      "seed": 837568429,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1537,
+      "do_parent": "thickness",
+      "seed": 3577297617,
+      "intervention": {
+        "thickness": -0.24769830703735352
+      }
+    },
+    {
+      "sample_idx": 1537,
+      "do_parent": "intensity",
+      "seed": 3104018029,
+      "intervention": {
+        "intensity": 0.5444111824035645
+      }
+    },
+    {
+      "sample_idx": 1537,
+      "do_parent": "digit",
+      "seed": 1456840777,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1554,
+      "do_parent": "thickness",
+      "seed": 1557331187,
+      "intervention": {
+        "thickness": -0.4125738739967346
+      }
+    },
+    {
+      "sample_idx": 1554,
+      "do_parent": "intensity",
+      "seed": 3231535247,
+      "intervention": {
+        "intensity": -0.24670320749282837
+      }
+    },
+    {
+      "sample_idx": 1554,
+      "do_parent": "digit",
+      "seed": 1584357995,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1582,
+      "do_parent": "thickness",
+      "seed": 4192438037,
+      "intervention": {
+        "thickness": -0.33967453241348267
+      }
+    },
+    {
+      "sample_idx": 1582,
+      "do_parent": "intensity",
+      "seed": 1571674801,
+      "intervention": {
+        "intensity": -0.5771734714508057
+      }
+    },
+    {
+      "sample_idx": 1582,
+      "do_parent": "digit",
+      "seed": 4219464845,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1595,
+      "do_parent": "thickness",
+      "seed": 1633602324,
+      "intervention": {
+        "thickness": -0.6682472229003906
+      }
+    },
+    {
+      "sample_idx": 1595,
+      "do_parent": "intensity",
+      "seed": 1160322736,
+      "intervention": {
+        "intensity": 0.15292584896087646
+      }
+    },
+    {
+      "sample_idx": 1595,
+      "do_parent": "digit",
+      "seed": 3907451667,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1868,
+      "do_parent": "thickness",
+      "seed": 1268225577,
+      "intervention": {
+        "thickness": -0.31872713565826416
+      }
+    },
+    {
+      "sample_idx": 1868,
+      "do_parent": "intensity",
+      "seed": 2942429637,
+      "intervention": {
+        "intensity": -0.060043394565582275
+      }
+    },
+    {
+      "sample_idx": 1868,
+      "do_parent": "digit",
+      "seed": 1295252385,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 1971,
+      "do_parent": "thickness",
+      "seed": 2087154352,
+      "intervention": {
+        "thickness": -0.2649957537651062
+      }
+    },
+    {
+      "sample_idx": 1971,
+      "do_parent": "intensity",
+      "seed": 1613874764,
+      "intervention": {
+        "intensity": -0.4502643346786499
+      }
+    },
+    {
+      "sample_idx": 1971,
+      "do_parent": "digit",
+      "seed": 2213520047,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 2006,
+      "do_parent": "thickness",
+      "seed": 3300673992,
+      "intervention": {
+        "thickness": -0.26497888565063477
+      }
+    },
+    {
+      "sample_idx": 2006,
+      "do_parent": "intensity",
+      "seed": 2827394404,
+      "intervention": {
+        "intensity": -0.8262047171592712
+      }
+    },
+    {
+      "sample_idx": 2006,
+      "do_parent": "digit",
+      "seed": 1279556039,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 2236,
+      "do_parent": "thickness",
+      "seed": 2890861574,
+      "intervention": {
+        "thickness": -0.6978603601455688
+      }
+    },
+    {
+      "sample_idx": 2236,
+      "do_parent": "intensity",
+      "seed": 270098338,
+      "intervention": {
+        "intensity": 0.17706310749053955
+      }
+    },
+    {
+      "sample_idx": 2236,
+      "do_parent": "digit",
+      "seed": 869743621,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 2260,
+      "do_parent": "thickness",
+      "seed": 791470732,
+      "intervention": {
+        "thickness": -0.86269211769104
+      }
+    },
+    {
+      "sample_idx": 2260,
+      "do_parent": "intensity",
+      "seed": 318191144,
+      "intervention": {
+        "intensity": -0.3886447548866272
+      }
+    },
+    {
+      "sample_idx": 2260,
+      "do_parent": "digit",
+      "seed": 3065320075,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 2271,
+      "do_parent": "thickness",
+      "seed": 3299060364,
+      "intervention": {
+        "thickness": -0.1467761993408203
+      }
+    },
+    {
+      "sample_idx": 2271,
+      "do_parent": "intensity",
+      "seed": 678297128,
+      "intervention": {
+        "intensity": -0.41909879446029663
+      }
+    },
+    {
+      "sample_idx": 2271,
+      "do_parent": "digit",
+      "seed": 1277942411,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 2323,
+      "do_parent": "thickness",
+      "seed": 345129926,
+      "intervention": {
+        "thickness": -0.44792330265045166
+      }
+    },
+    {
+      "sample_idx": 2323,
+      "do_parent": "intensity",
+      "seed": 4166817634,
+      "intervention": {
+        "intensity": -0.32390296459198
+      }
+    },
+    {
+      "sample_idx": 2323,
+      "do_parent": "digit",
+      "seed": 2618979269,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 2351,
+      "do_parent": "thickness",
+      "seed": 3833175639,
+      "intervention": {
+        "thickness": -0.30559736490249634
+      }
+    },
+    {
+      "sample_idx": 2351,
+      "do_parent": "intensity",
+      "seed": 1212412403,
+      "intervention": {
+        "intensity": 0.4391148090362549
+      }
+    },
+    {
+      "sample_idx": 2351,
+      "do_parent": "digit",
+      "seed": 3860202447,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 2362,
+      "do_parent": "thickness",
+      "seed": 703635177,
+      "intervention": {
+        "thickness": -0.4779488444328308
+      }
+    },
+    {
+      "sample_idx": 2362,
+      "do_parent": "intensity",
+      "seed": 230355589,
+      "intervention": {
+        "intensity": -0.3754996061325073
+      }
+    },
+    {
+      "sample_idx": 2362,
+      "do_parent": "digit",
+      "seed": 2878145633,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 2393,
+      "do_parent": "thickness",
+      "seed": 672303571,
+      "intervention": {
+        "thickness": -0.4981094002723694
+      }
+    },
+    {
+      "sample_idx": 2393,
+      "do_parent": "intensity",
+      "seed": 199023983,
+      "intervention": {
+        "intensity": -0.7160247564315796
+      }
+    },
+    {
+      "sample_idx": 2393,
+      "do_parent": "digit",
+      "seed": 2846814027,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 2559,
+      "do_parent": "thickness",
+      "seed": 3192375188,
+      "intervention": {
+        "thickness": -0.1599442958831787
+      }
+    },
+    {
+      "sample_idx": 2559,
+      "do_parent": "intensity",
+      "seed": 571611952,
+      "intervention": {
+        "intensity": 0.2903590202331543
+      }
+    },
+    {
+      "sample_idx": 2559,
+      "do_parent": "digit",
+      "seed": 1171257235,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 2573,
+      "do_parent": "thickness",
+      "seed": 1691363566,
+      "intervention": {
+        "thickness": -0.1802229881286621
+      }
+    },
+    {
+      "sample_idx": 2573,
+      "do_parent": "intensity",
+      "seed": 1218083978,
+      "intervention": {
+        "intensity": -0.5874595642089844
+      }
+    },
+    {
+      "sample_idx": 2573,
+      "do_parent": "digit",
+      "seed": 3965212909,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 2574,
+      "do_parent": "thickness",
+      "seed": 502365122,
+      "intervention": {
+        "thickness": -0.19358354806900024
+      }
+    },
+    {
+      "sample_idx": 2574,
+      "do_parent": "intensity",
+      "seed": 29085534,
+      "intervention": {
+        "intensity": 0.17957282066345215
+      }
+    },
+    {
+      "sample_idx": 2574,
+      "do_parent": "digit",
+      "seed": 628730817,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 2607,
+      "do_parent": "thickness",
+      "seed": 3240942787,
+      "intervention": {
+        "thickness": -0.22761529684066772
+      }
+    },
+    {
+      "sample_idx": 2607,
+      "do_parent": "intensity",
+      "seed": 2767663199,
+      "intervention": {
+        "intensity": 0.5635429620742798
+      }
+    },
+    {
+      "sample_idx": 2607,
+      "do_parent": "digit",
+      "seed": 3367308482,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 2666,
+      "do_parent": "thickness",
+      "seed": 3208010448,
+      "intervention": {
+        "thickness": -0.4112369418144226
+      }
+    },
+    {
+      "sample_idx": 2666,
+      "do_parent": "intensity",
+      "seed": 587247212,
+      "intervention": {
+        "intensity": 0.633764386177063
+      }
+    },
+    {
+      "sample_idx": 2666,
+      "do_parent": "digit",
+      "seed": 3235037256,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 2780,
+      "do_parent": "thickness",
+      "seed": 1386622696,
+      "intervention": {
+        "thickness": 0.17799139022827148
+      }
+    },
+    {
+      "sample_idx": 2780,
+      "do_parent": "intensity",
+      "seed": 913343108,
+      "intervention": {
+        "intensity": -0.44441646337509155
+      }
+    },
+    {
+      "sample_idx": 2780,
+      "do_parent": "digit",
+      "seed": 1512988391,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 2809,
+      "do_parent": "thickness",
+      "seed": 196023519,
+      "intervention": {
+        "thickness": -0.3853433132171631
+      }
+    },
+    {
+      "sample_idx": 2809,
+      "do_parent": "intensity",
+      "seed": 1969566466,
+      "intervention": {
+        "intensity": -0.1532984972000122
+      }
+    },
+    {
+      "sample_idx": 2809,
+      "do_parent": "digit",
+      "seed": 2469872862,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 2907,
+      "do_parent": "thickness",
+      "seed": 3158304014,
+      "intervention": {
+        "thickness": -0.6559113264083862
+      }
+    },
+    {
+      "sample_idx": 2907,
+      "do_parent": "intensity",
+      "seed": 2685024426,
+      "intervention": {
+        "intensity": -0.05235862731933594
+      }
+    },
+    {
+      "sample_idx": 2907,
+      "do_parent": "digit",
+      "seed": 1037847174,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 2931,
+      "do_parent": "thickness",
+      "seed": 3206396820,
+      "intervention": {
+        "thickness": 0.07485437393188477
+      }
+    },
+    {
+      "sample_idx": 2931,
+      "do_parent": "intensity",
+      "seed": 585633584,
+      "intervention": {
+        "intensity": 0.20926165580749512
+      }
+    },
+    {
+      "sample_idx": 2931,
+      "do_parent": "digit",
+      "seed": 3233423628,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 3005,
+      "do_parent": "thickness",
+      "seed": 3925482848,
+      "intervention": {
+        "thickness": -0.3778538107872009
+      }
+    },
+    {
+      "sample_idx": 3005,
+      "do_parent": "intensity",
+      "seed": 3452203260,
+      "intervention": {
+        "intensity": -0.42236965894699097
+      }
+    },
+    {
+      "sample_idx": 3005,
+      "do_parent": "digit",
+      "seed": 1805026008,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 3057,
+      "do_parent": "thickness",
+      "seed": 2313715208,
+      "intervention": {
+        "thickness": -0.6978732943534851
+      }
+    },
+    {
+      "sample_idx": 3057,
+      "do_parent": "intensity",
+      "seed": 3987919268,
+      "intervention": {
+        "intensity": -0.4605144262313843
+      }
+    },
+    {
+      "sample_idx": 3057,
+      "do_parent": "digit",
+      "seed": 2340742016,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 3076,
+      "do_parent": "thickness",
+      "seed": 916174401,
+      "intervention": {
+        "thickness": -0.6917391419410706
+      }
+    },
+    {
+      "sample_idx": 3076,
+      "do_parent": "intensity",
+      "seed": 2590378461,
+      "intervention": {
+        "intensity": -0.7153613567352295
+      }
+    },
+    {
+      "sample_idx": 3076,
+      "do_parent": "digit",
+      "seed": 943201209,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 3145,
+      "do_parent": "thickness",
+      "seed": 1480068740,
+      "intervention": {
+        "thickness": 0.16814744472503662
+      }
+    },
+    {
+      "sample_idx": 3145,
+      "do_parent": "intensity",
+      "seed": 3154272800,
+      "intervention": {
+        "intensity": 0.13325858116149902
+      }
+    },
+    {
+      "sample_idx": 3145,
+      "do_parent": "digit",
+      "seed": 3753918083,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 3164,
+      "do_parent": "thickness",
+      "seed": 82527933,
+      "intervention": {
+        "thickness": -0.6773878931999207
+      }
+    },
+    {
+      "sample_idx": 3164,
+      "do_parent": "intensity",
+      "seed": 1756731993,
+      "intervention": {
+        "intensity": 0.29157817363739014
+      }
+    },
+    {
+      "sample_idx": 3164,
+      "do_parent": "digit",
+      "seed": 2356377276,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 3183,
+      "do_parent": "thickness",
+      "seed": 2174633572,
+      "intervention": {
+        "thickness": -0.08589190244674683
+      }
+    },
+    {
+      "sample_idx": 3183,
+      "do_parent": "intensity",
+      "seed": 1701353984,
+      "intervention": {
+        "intensity": 0.9171087741851807
+      }
+    },
+    {
+      "sample_idx": 3183,
+      "do_parent": "digit",
+      "seed": 2300999267,
+      "intervention": {
+        "digit": [
+          [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 3224,
+      "do_parent": "thickness",
+      "seed": 2350243596,
+      "intervention": {
+        "thickness": -0.492901086807251
+      }
+    },
+    {
+      "sample_idx": 3224,
+      "do_parent": "intensity",
+      "seed": 4024447656,
+      "intervention": {
+        "intensity": 0.6345118284225464
+      }
+    },
+    {
+      "sample_idx": 3224,
+      "do_parent": "digit",
+      "seed": 2377270404,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 3385,
+      "do_parent": "thickness",
+      "seed": 3424681600,
+      "intervention": {
+        "thickness": 0.019988179206848145
+      }
+    },
+    {
+      "sample_idx": 3385,
+      "do_parent": "intensity",
+      "seed": 803918364,
+      "intervention": {
+        "intensity": 0.624807596206665
+      }
+    },
+    {
+      "sample_idx": 3385,
+      "do_parent": "digit",
+      "seed": 1403563647,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 3391,
+      "do_parent": "thickness",
+      "seed": 1533833121,
+      "intervention": {
+        "thickness": -0.6328598260879517
+      }
+    },
+    {
+      "sample_idx": 3391,
+      "do_parent": "intensity",
+      "seed": 1060553533,
+      "intervention": {
+        "intensity": 0.22383952140808105
+      }
+    },
+    {
+      "sample_idx": 3391,
+      "do_parent": "digit",
+      "seed": 3807682464,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 3480,
+      "do_parent": "thickness",
+      "seed": 2610949607,
+      "intervention": {
+        "thickness": -0.642317533493042
+      }
+    },
+    {
+      "sample_idx": 3480,
+      "do_parent": "intensity",
+      "seed": 4285153667,
+      "intervention": {
+        "intensity": -0.6821997165679932
+      }
+    },
+    {
+      "sample_idx": 3480,
+      "do_parent": "digit",
+      "seed": 2637976415,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 3529,
+      "do_parent": "thickness",
+      "seed": 1518136775,
+      "intervention": {
+        "thickness": -0.7000359296798706
+      }
+    },
+    {
+      "sample_idx": 3529,
+      "do_parent": "intensity",
+      "seed": 1044857187,
+      "intervention": {
+        "intensity": -0.486306369304657
+      }
+    },
+    {
+      "sample_idx": 3529,
+      "do_parent": "digit",
+      "seed": 3692647231,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 3552,
+      "do_parent": "thickness",
+      "seed": 560126364,
+      "intervention": {
+        "thickness": -0.6749299168586731
+      }
+    },
+    {
+      "sample_idx": 3552,
+      "do_parent": "intensity",
+      "seed": 86846776,
+      "intervention": {
+        "intensity": -0.6843571662902832
+      }
+    },
+    {
+      "sample_idx": 3552,
+      "do_parent": "digit",
+      "seed": 2734636820,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 3639,
+      "do_parent": "thickness",
+      "seed": 915478340,
+      "intervention": {
+        "thickness": -0.760811448097229
+      }
+    },
+    {
+      "sample_idx": 3639,
+      "do_parent": "intensity",
+      "seed": 2589682400,
+      "intervention": {
+        "intensity": 0.5288193225860596
+      }
+    },
+    {
+      "sample_idx": 3639,
+      "do_parent": "digit",
+      "seed": 3189327683,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 3685,
+      "do_parent": "thickness",
+      "seed": 341620316,
+      "intervention": {
+        "thickness": -0.6162175536155701
+      }
+    },
+    {
+      "sample_idx": 3685,
+      "do_parent": "intensity",
+      "seed": 2015824376,
+      "intervention": {
+        "intensity": -0.46560174226760864
+      }
+    },
+    {
+      "sample_idx": 3685,
+      "do_parent": "digit",
+      "seed": 2615469659,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 3718,
+      "do_parent": "thickness",
+      "seed": 3080197981,
+      "intervention": {
+        "thickness": -0.5863969326019287
+      }
+    },
+    {
+      "sample_idx": 3718,
+      "do_parent": "intensity",
+      "seed": 459434745,
+      "intervention": {
+        "intensity": 0.6269928216934204
+      }
+    },
+    {
+      "sample_idx": 3718,
+      "do_parent": "digit",
+      "seed": 1059080028,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 3782,
+      "do_parent": "thickness",
+      "seed": 150313946,
+      "intervention": {
+        "thickness": -0.3309565782546997
+      }
+    },
+    {
+      "sample_idx": 3782,
+      "do_parent": "intensity",
+      "seed": 3972001654,
+      "intervention": {
+        "intensity": -0.4147759675979614
+      }
+    },
+    {
+      "sample_idx": 3782,
+      "do_parent": "digit",
+      "seed": 276679641,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 3793,
+      "do_parent": "thickness",
+      "seed": 3510842441,
+      "intervention": {
+        "thickness": -0.7968297600746155
+      }
+    },
+    {
+      "sample_idx": 3793,
+      "do_parent": "intensity",
+      "seed": 890079205,
+      "intervention": {
+        "intensity": -0.4221903085708618
+      }
+    },
+    {
+      "sample_idx": 3793,
+      "do_parent": "digit",
+      "seed": 3537869249,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 3817,
+      "do_parent": "thickness",
+      "seed": 1411451599,
+      "intervention": {
+        "thickness": -0.6915061473846436
+      }
+    },
+    {
+      "sample_idx": 3817,
+      "do_parent": "intensity",
+      "seed": 3085655659,
+      "intervention": {
+        "intensity": 0.20555996894836426
+      }
+    },
+    {
+      "sample_idx": 3817,
+      "do_parent": "digit",
+      "seed": 1438478407,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4102,
+      "do_parent": "thickness",
+      "seed": 3118266016,
+      "intervention": {
+        "thickness": -0.08684247732162476
+      }
+    },
+    {
+      "sample_idx": 4102,
+      "do_parent": "intensity",
+      "seed": 2644986428,
+      "intervention": {
+        "intensity": -0.3387972116470337
+      }
+    },
+    {
+      "sample_idx": 4102,
+      "do_parent": "digit",
+      "seed": 997809176,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4239,
+      "do_parent": "thickness",
+      "seed": 3339290364,
+      "intervention": {
+        "thickness": -0.691730260848999
+      }
+    },
+    {
+      "sample_idx": 4239,
+      "do_parent": "intensity",
+      "seed": 718527128,
+      "intervention": {
+        "intensity": 0.7601914405822754
+      }
+    },
+    {
+      "sample_idx": 4239,
+      "do_parent": "digit",
+      "seed": 1318172411,
+      "intervention": {
+        "digit": [
+          [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4250,
+      "do_parent": "thickness",
+      "seed": 257367915,
+      "intervention": {
+        "thickness": -0.12283265590667725
+      }
+    },
+    {
+      "sample_idx": 4250,
+      "do_parent": "intensity",
+      "seed": 1931571975,
+      "intervention": {
+        "intensity": -0.2514546513557434
+      }
+    },
+    {
+      "sample_idx": 4250,
+      "do_parent": "digit",
+      "seed": 2531217258,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4274,
+      "do_parent": "thickness",
+      "seed": 3258265219,
+      "intervention": {
+        "thickness": -0.5399805307388306
+      }
+    },
+    {
+      "sample_idx": 4274,
+      "do_parent": "intensity",
+      "seed": 637501983,
+      "intervention": {
+        "intensity": 0.12694990634918213
+      }
+    },
+    {
+      "sample_idx": 4274,
+      "do_parent": "digit",
+      "seed": 1237147266,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4294,
+      "do_parent": "thickness",
+      "seed": 2013888766,
+      "intervention": {
+        "thickness": -0.3788633346557617
+      }
+    },
+    {
+      "sample_idx": 4294,
+      "do_parent": "intensity",
+      "seed": 3688092826,
+      "intervention": {
+        "intensity": 0.592025637626648
+      }
+    },
+    {
+      "sample_idx": 4294,
+      "do_parent": "digit",
+      "seed": 4287738109,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4310,
+      "do_parent": "thickness",
+      "seed": 2477465565,
+      "intervention": {
+        "thickness": -0.6844335794448853
+      }
+    },
+    {
+      "sample_idx": 4310,
+      "do_parent": "intensity",
+      "seed": 2004185977,
+      "intervention": {
+        "intensity": 0.07877612113952637
+      }
+    },
+    {
+      "sample_idx": 4310,
+      "do_parent": "digit",
+      "seed": 2603831260,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4323,
+      "do_parent": "thickness",
+      "seed": 2165452387,
+      "intervention": {
+        "thickness": -0.019183635711669922
+      }
+    },
+    {
+      "sample_idx": 4323,
+      "do_parent": "intensity",
+      "seed": 1692172799,
+      "intervention": {
+        "intensity": 0.921320915222168
+      }
+    },
+    {
+      "sample_idx": 4323,
+      "do_parent": "digit",
+      "seed": 2291818082,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4331,
+      "do_parent": "thickness",
+      "seed": 3897452042,
+      "intervention": {
+        "thickness": -0.36284303665161133
+      }
+    },
+    {
+      "sample_idx": 4331,
+      "do_parent": "intensity",
+      "seed": 1276688806,
+      "intervention": {
+        "intensity": -0.6966739892959595
+      }
+    },
+    {
+      "sample_idx": 4331,
+      "do_parent": "digit",
+      "seed": 3924478850,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4335,
+      "do_parent": "thickness",
+      "seed": 42015142,
+      "intervention": {
+        "thickness": -0.3702344298362732
+      }
+    },
+    {
+      "sample_idx": 4335,
+      "do_parent": "intensity",
+      "seed": 1716219202,
+      "intervention": {
+        "intensity": 0.8648991584777832
+      }
+    },
+    {
+      "sample_idx": 4335,
+      "do_parent": "digit",
+      "seed": 69041950,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4416,
+      "do_parent": "thickness",
+      "seed": 3682099269,
+      "intervention": {
+        "thickness": -0.44320642948150635
+      }
+    },
+    {
+      "sample_idx": 4416,
+      "do_parent": "intensity",
+      "seed": 1061336033,
+      "intervention": {
+        "intensity": 0.029373645782470703
+      }
+    },
+    {
+      "sample_idx": 4416,
+      "do_parent": "digit",
+      "seed": 3709126077,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4458,
+      "do_parent": "thickness",
+      "seed": 2668710849,
+      "intervention": {
+        "thickness": -0.6802096366882324
+      }
+    },
+    {
+      "sample_idx": 4458,
+      "do_parent": "intensity",
+      "seed": 47947613,
+      "intervention": {
+        "intensity": 0.7112714052200317
+      }
+    },
+    {
+      "sample_idx": 4458,
+      "do_parent": "digit",
+      "seed": 2695737657,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4471,
+      "do_parent": "thickness",
+      "seed": 1503758808,
+      "intervention": {
+        "thickness": -0.45633530616760254
+      }
+    },
+    {
+      "sample_idx": 4471,
+      "do_parent": "intensity",
+      "seed": 1030479220,
+      "intervention": {
+        "intensity": -0.5411339998245239
+      }
+    },
+    {
+      "sample_idx": 4471,
+      "do_parent": "digit",
+      "seed": 3678269264,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4477,
+      "do_parent": "thickness",
+      "seed": 2513993953,
+      "intervention": {
+        "thickness": -0.2510160803794861
+      }
+    },
+    {
+      "sample_idx": 4477,
+      "do_parent": "intensity",
+      "seed": 2040714365,
+      "intervention": {
+        "intensity": -0.18395596742630005
+      }
+    },
+    {
+      "sample_idx": 4477,
+      "do_parent": "digit",
+      "seed": 492876000,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4554,
+      "do_parent": "thickness",
+      "seed": 2714125173,
+      "intervention": {
+        "thickness": -0.7634794116020203
+      }
+    },
+    {
+      "sample_idx": 4554,
+      "do_parent": "intensity",
+      "seed": 93361937,
+      "intervention": {
+        "intensity": -0.12210136651992798
+      }
+    },
+    {
+      "sample_idx": 4554,
+      "do_parent": "digit",
+      "seed": 693007220,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4570,
+      "do_parent": "thickness",
+      "seed": 4030640835,
+      "intervention": {
+        "thickness": -0.20981961488723755
+      }
+    },
+    {
+      "sample_idx": 4570,
+      "do_parent": "intensity",
+      "seed": 1409877599,
+      "intervention": {
+        "intensity": 0.2614140510559082
+      }
+    },
+    {
+      "sample_idx": 4570,
+      "do_parent": "digit",
+      "seed": 2009522882,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4651,
+      "do_parent": "thickness",
+      "seed": 1717497953,
+      "intervention": {
+        "thickness": -0.18289613723754883
+      }
+    },
+    {
+      "sample_idx": 4651,
+      "do_parent": "intensity",
+      "seed": 1244218365,
+      "intervention": {
+        "intensity": -0.38176125288009644
+      }
+    },
+    {
+      "sample_idx": 4651,
+      "do_parent": "digit",
+      "seed": 3892008409,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4664,
+      "do_parent": "thickness",
+      "seed": 3552968423,
+      "intervention": {
+        "thickness": -0.5696555376052856
+      }
+    },
+    {
+      "sample_idx": 4664,
+      "do_parent": "intensity",
+      "seed": 932205187,
+      "intervention": {
+        "intensity": 0.708853006362915
+      }
+    },
+    {
+      "sample_idx": 4664,
+      "do_parent": "digit",
+      "seed": 3579995231,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4677,
+      "do_parent": "thickness",
+      "seed": 2388016382,
+      "intervention": {
+        "thickness": -0.29893261194229126
+      }
+    },
+    {
+      "sample_idx": 4677,
+      "do_parent": "intensity",
+      "seed": 1914736794,
+      "intervention": {
+        "intensity": 0.49441802501678467
+      }
+    },
+    {
+      "sample_idx": 4677,
+      "do_parent": "digit",
+      "seed": 267559542,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4722,
+      "do_parent": "thickness",
+      "seed": 3003156802,
+      "intervention": {
+        "thickness": -0.4039768576622009
+      }
+    },
+    {
+      "sample_idx": 4722,
+      "do_parent": "intensity",
+      "seed": 382393566,
+      "intervention": {
+        "intensity": 0.057612061500549316
+      }
+    },
+    {
+      "sample_idx": 4722,
+      "do_parent": "digit",
+      "seed": 3030183610,
+      "intervention": {
+        "digit": [
+          [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4773,
+      "do_parent": "thickness",
+      "seed": 3286369569,
+      "intervention": {
+        "thickness": -0.7046327590942383
+      }
+    },
+    {
+      "sample_idx": 4773,
+      "do_parent": "intensity",
+      "seed": 665606333,
+      "intervention": {
+        "intensity": 0.512897253036499
+      }
+    },
+    {
+      "sample_idx": 4773,
+      "do_parent": "digit",
+      "seed": 1265251616,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4780,
+      "do_parent": "thickness",
+      "seed": 1964121246,
+      "intervention": {
+        "thickness": -0.4974914789199829
+      }
+    },
+    {
+      "sample_idx": 4780,
+      "do_parent": "intensity",
+      "seed": 1490841658,
+      "intervention": {
+        "intensity": 0.9226861000061035
+      }
+    },
+    {
+      "sample_idx": 4780,
+      "do_parent": "digit",
+      "seed": 4138631702,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4784,
+      "do_parent": "thickness",
+      "seed": 2403651642,
+      "intervention": {
+        "thickness": -0.7115021347999573
+      }
+    },
+    {
+      "sample_idx": 4784,
+      "do_parent": "intensity",
+      "seed": 1930372054,
+      "intervention": {
+        "intensity": -0.2416478395462036
+      }
+    },
+    {
+      "sample_idx": 4784,
+      "do_parent": "digit",
+      "seed": 283194802,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4837,
+      "do_parent": "thickness",
+      "seed": 356485534,
+      "intervention": {
+        "thickness": -0.36994409561157227
+      }
+    },
+    {
+      "sample_idx": 4837,
+      "do_parent": "intensity",
+      "seed": 4178173242,
+      "intervention": {
+        "intensity": -0.03404718637466431
+      }
+    },
+    {
+      "sample_idx": 4837,
+      "do_parent": "digit",
+      "seed": 482851229,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4866,
+      "do_parent": "thickness",
+      "seed": 2655532803,
+      "intervention": {
+        "thickness": -0.1758413314819336
+      }
+    },
+    {
+      "sample_idx": 4866,
+      "do_parent": "intensity",
+      "seed": 2182253215,
+      "intervention": {
+        "intensity": -0.16531789302825928
+      }
+    },
+    {
+      "sample_idx": 4866,
+      "do_parent": "digit",
+      "seed": 2781898498,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4886,
+      "do_parent": "thickness",
+      "seed": 1411156350,
+      "intervention": {
+        "thickness": -0.3925975561141968
+      }
+    },
+    {
+      "sample_idx": 4886,
+      "do_parent": "intensity",
+      "seed": 937876762,
+      "intervention": {
+        "intensity": -0.8495514392852783
+      }
+    },
+    {
+      "sample_idx": 4886,
+      "do_parent": "digit",
+      "seed": 3685005693,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 4931,
+      "do_parent": "thickness",
+      "seed": 2026296770,
+      "intervention": {
+        "thickness": 0.0046765804290771484
+      }
+    },
+    {
+      "sample_idx": 4931,
+      "do_parent": "intensity",
+      "seed": 3700500830,
+      "intervention": {
+        "intensity": -0.5418801307678223
+      }
+    },
+    {
+      "sample_idx": 4931,
+      "do_parent": "digit",
+      "seed": 2053323578,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 5001,
+      "do_parent": "thickness",
+      "seed": 3158791265,
+      "intervention": {
+        "thickness": -0.6055371761322021
+      }
+    },
+    {
+      "sample_idx": 5001,
+      "do_parent": "intensity",
+      "seed": 538028029,
+      "intervention": {
+        "intensity": -0.38739877939224243
+      }
+    },
+    {
+      "sample_idx": 5001,
+      "do_parent": "digit",
+      "seed": 3185818073,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 5007,
+      "do_parent": "thickness",
+      "seed": 1267942786,
+      "intervention": {
+        "thickness": -0.3083241581916809
+      }
+    },
+    {
+      "sample_idx": 5007,
+      "do_parent": "intensity",
+      "seed": 2942146846,
+      "intervention": {
+        "intensity": -0.25670140981674194
+      }
+    },
+    {
+      "sample_idx": 5007,
+      "do_parent": "digit",
+      "seed": 1294969594,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 5116,
+      "do_parent": "thickness",
+      "seed": 1001343932,
+      "intervention": {
+        "thickness": 0.06874072551727295
+      }
+    },
+    {
+      "sample_idx": 5116,
+      "do_parent": "intensity",
+      "seed": 2675547992,
+      "intervention": {
+        "intensity": 0.6069743633270264
+      }
+    },
+    {
+      "sample_idx": 5116,
+      "do_parent": "digit",
+      "seed": 3275193275,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 5335,
+      "do_parent": "thickness",
+      "seed": 2378909178,
+      "intervention": {
+        "thickness": -0.3054763674736023
+      }
+    },
+    {
+      "sample_idx": 5335,
+      "do_parent": "intensity",
+      "seed": 2004968477,
+      "intervention": {
+        "intensity": 0.8818448781967163
+      }
+    },
+    {
+      "sample_idx": 5335,
+      "do_parent": "digit",
+      "seed": 357791225,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 5398,
+      "do_parent": "thickness",
+      "seed": 1932568372,
+      "intervention": {
+        "thickness": -0.34546685218811035
+      }
+    },
+    {
+      "sample_idx": 5398,
+      "do_parent": "intensity",
+      "seed": 1459288784,
+      "intervention": {
+        "intensity": 0.6569716930389404
+      }
+    },
+    {
+      "sample_idx": 5398,
+      "do_parent": "digit",
+      "seed": 4206417715,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 5434,
+      "do_parent": "thickness",
+      "seed": 2004707581,
+      "intervention": {
+        "thickness": -0.25553596019744873
+      }
+    },
+    {
+      "sample_idx": 5434,
+      "do_parent": "intensity",
+      "seed": 3678911641,
+      "intervention": {
+        "intensity": -0.308268666267395
+      }
+    },
+    {
+      "sample_idx": 5434,
+      "do_parent": "digit",
+      "seed": 4278556924,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 5437,
+      "do_parent": "thickness",
+      "seed": 3633236421,
+      "intervention": {
+        "thickness": -0.7455737590789795
+      }
+    },
+    {
+      "sample_idx": 5437,
+      "do_parent": "intensity",
+      "seed": 1012473185,
+      "intervention": {
+        "intensity": -0.3864660859107971
+      }
+    },
+    {
+      "sample_idx": 5437,
+      "do_parent": "digit",
+      "seed": 3660263229,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 5449,
+      "do_parent": "thickness",
+      "seed": 3657282824,
+      "intervention": {
+        "thickness": -0.04053223133087158
+      }
+    },
+    {
+      "sample_idx": 5449,
+      "do_parent": "intensity",
+      "seed": 3184003236,
+      "intervention": {
+        "intensity": 0.6058194637298584
+      }
+    },
+    {
+      "sample_idx": 5449,
+      "do_parent": "digit",
+      "seed": 3684309632,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 5453,
+      "do_parent": "thickness",
+      "seed": 4096813220,
+      "intervention": {
+        "thickness": -0.3378867506980896
+      }
+    },
+    {
+      "sample_idx": 5453,
+      "do_parent": "intensity",
+      "seed": 3623533632,
+      "intervention": {
+        "intensity": 0.10394680500030518
+      }
+    },
+    {
+      "sample_idx": 5453,
+      "do_parent": "digit",
+      "seed": 1976356380,
+      "intervention": {
+        "digit": [
+          [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 5463,
+      "do_parent": "thickness",
+      "seed": 8787554,
+      "intervention": {
+        "thickness": -0.7823281288146973
+      }
+    },
+    {
+      "sample_idx": 5463,
+      "do_parent": "intensity",
+      "seed": 1682991614,
+      "intervention": {
+        "intensity": -0.5012905597686768
+      }
+    },
+    {
+      "sample_idx": 5463,
+      "do_parent": "digit",
+      "seed": 35814362,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 5522,
+      "do_parent": "thickness",
+      "seed": 3417883648,
+      "intervention": {
+        "thickness": 0.08910667896270752
+      }
+    },
+    {
+      "sample_idx": 5522,
+      "do_parent": "intensity",
+      "seed": 797120412,
+      "intervention": {
+        "intensity": 0.33292603492736816
+      }
+    },
+    {
+      "sample_idx": 5522,
+      "do_parent": "digit",
+      "seed": 3444910456,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 5596,
+      "do_parent": "thickness",
+      "seed": 3331648826,
+      "intervention": {
+        "thickness": -0.25695115327835083
+      }
+    },
+    {
+      "sample_idx": 5596,
+      "do_parent": "intensity",
+      "seed": 2858369238,
+      "intervention": {
+        "intensity": 0.03809237480163574
+      }
+    },
+    {
+      "sample_idx": 5596,
+      "do_parent": "digit",
+      "seed": 1211191986,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 5638,
+      "do_parent": "thickness",
+      "seed": 924376734,
+      "intervention": {
+        "thickness": -0.286069393157959
+      }
+    },
+    {
+      "sample_idx": 5638,
+      "do_parent": "intensity",
+      "seed": 2598580794,
+      "intervention": {
+        "intensity": -0.053764402866363525
+      }
+    },
+    {
+      "sample_idx": 5638,
+      "do_parent": "digit",
+      "seed": 3198226077,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 5674,
+      "do_parent": "thickness",
+      "seed": 3143999591,
+      "intervention": {
+        "thickness": -0.12282431125640869
+      }
+    },
+    {
+      "sample_idx": 5674,
+      "do_parent": "intensity",
+      "seed": 2670720003,
+      "intervention": {
+        "intensity": 0.5194586515426636
+      }
+    },
+    {
+      "sample_idx": 5674,
+      "do_parent": "digit",
+      "seed": 3270365286,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 5703,
+      "do_parent": "thickness",
+      "seed": 3247945199,
+      "intervention": {
+        "thickness": -0.606145977973938
+      }
+    },
+    {
+      "sample_idx": 5703,
+      "do_parent": "intensity",
+      "seed": 627181963,
+      "intervention": {
+        "intensity": 0.5134187936782837
+      }
+    },
+    {
+      "sample_idx": 5703,
+      "do_parent": "digit",
+      "seed": 1226827246,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 5714,
+      "do_parent": "thickness",
+      "seed": 166022750,
+      "intervention": {
+        "thickness": -0.6739041805267334
+      }
+    },
+    {
+      "sample_idx": 5714,
+      "do_parent": "intensity",
+      "seed": 1840226810,
+      "intervention": {
+        "intensity": 0.3304312229156494
+      }
+    },
+    {
+      "sample_idx": 5714,
+      "do_parent": "digit",
+      "seed": 2439872093,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 5766,
+      "do_parent": "thickness",
+      "seed": 701738758,
+      "intervention": {
+        "thickness": -0.45308631658554077
+      }
+    },
+    {
+      "sample_idx": 5766,
+      "do_parent": "intensity",
+      "seed": 228459170,
+      "intervention": {
+        "intensity": -0.11781066656112671
+      }
+    },
+    {
+      "sample_idx": 5766,
+      "do_parent": "digit",
+      "seed": 2876249214,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 5916,
+      "do_parent": "thickness",
+      "seed": 2809954450,
+      "intervention": {
+        "thickness": -0.6162175536155701
+      }
+    },
+    {
+      "sample_idx": 5916,
+      "do_parent": "intensity",
+      "seed": 2336674862,
+      "intervention": {
+        "intensity": -0.7801595330238342
+      }
+    },
+    {
+      "sample_idx": 5916,
+      "do_parent": "digit",
+      "seed": 689497610,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6070,
+      "do_parent": "thickness",
+      "seed": 3158496016,
+      "intervention": {
+        "thickness": -0.21590429544448853
+      }
+    },
+    {
+      "sample_idx": 6070,
+      "do_parent": "intensity",
+      "seed": 537732780,
+      "intervention": {
+        "intensity": 0.32835471630096436
+      }
+    },
+    {
+      "sample_idx": 6070,
+      "do_parent": "digit",
+      "seed": 1137378063,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6103,
+      "do_parent": "thickness",
+      "seed": 1602106385,
+      "intervention": {
+        "thickness": -0.624639630317688
+      }
+    },
+    {
+      "sample_idx": 6103,
+      "do_parent": "intensity",
+      "seed": 3276310445,
+      "intervention": {
+        "intensity": 0.32682156562805176
+      }
+    },
+    {
+      "sample_idx": 6103,
+      "do_parent": "digit",
+      "seed": 1629133193,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6118,
+      "do_parent": "thickness",
+      "seed": 3254681628,
+      "intervention": {
+        "thickness": -0.3466574549674988
+      }
+    },
+    {
+      "sample_idx": 6118,
+      "do_parent": "intensity",
+      "seed": 2781402040,
+      "intervention": {
+        "intensity": -0.7669512033462524
+      }
+    },
+    {
+      "sample_idx": 6118,
+      "do_parent": "digit",
+      "seed": 1134224788,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6162,
+      "do_parent": "thickness",
+      "seed": 3716657694,
+      "intervention": {
+        "thickness": -0.40997374057769775
+      }
+    },
+    {
+      "sample_idx": 6162,
+      "do_parent": "intensity",
+      "seed": 3243378106,
+      "intervention": {
+        "intensity": 0.45125555992126465
+      }
+    },
+    {
+      "sample_idx": 6162,
+      "do_parent": "digit",
+      "seed": 1596200854,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6301,
+      "do_parent": "thickness",
+      "seed": 1607303167,
+      "intervention": {
+        "thickness": -0.7172240018844604
+      }
+    },
+    {
+      "sample_idx": 6301,
+      "do_parent": "intensity",
+      "seed": 3281507227,
+      "intervention": {
+        "intensity": 0.21476221084594727
+      }
+    },
+    {
+      "sample_idx": 6301,
+      "do_parent": "digit",
+      "seed": 1634329975,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6350,
+      "do_parent": "thickness",
+      "seed": 1319811185,
+      "intervention": {
+        "thickness": -0.5154436826705933
+      }
+    },
+    {
+      "sample_idx": 6350,
+      "do_parent": "intensity",
+      "seed": 2994015245,
+      "intervention": {
+        "intensity": -0.3364903926849365
+      }
+    },
+    {
+      "sample_idx": 6350,
+      "do_parent": "digit",
+      "seed": 3593660528,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6381,
+      "do_parent": "thickness",
+      "seed": 1288479579,
+      "intervention": {
+        "thickness": -0.07367104291915894
+      }
+    },
+    {
+      "sample_idx": 6381,
+      "do_parent": "intensity",
+      "seed": 2962683639,
+      "intervention": {
+        "intensity": -0.16596615314483643
+      }
+    },
+    {
+      "sample_idx": 6381,
+      "do_parent": "digit",
+      "seed": 1315506387,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6450,
+      "do_parent": "thickness",
+      "seed": 2757033655,
+      "intervention": {
+        "thickness": -0.3133079409599304
+      }
+    },
+    {
+      "sample_idx": 6450,
+      "do_parent": "intensity",
+      "seed": 2283754067,
+      "intervention": {
+        "intensity": -0.0012358427047729492
+      }
+    },
+    {
+      "sample_idx": 6450,
+      "do_parent": "digit",
+      "seed": 636576815,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6474,
+      "do_parent": "thickness",
+      "seed": 2705787574,
+      "intervention": {
+        "thickness": -0.5978206396102905
+      }
+    },
+    {
+      "sample_idx": 6474,
+      "do_parent": "intensity",
+      "seed": 2232507986,
+      "intervention": {
+        "intensity": -0.6550933122634888
+      }
+    },
+    {
+      "sample_idx": 6474,
+      "do_parent": "digit",
+      "seed": 2832153269,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6497,
+      "do_parent": "thickness",
+      "seed": 3089939961,
+      "intervention": {
+        "thickness": 0.3655439615249634
+      }
+    },
+    {
+      "sample_idx": 6497,
+      "do_parent": "intensity",
+      "seed": 2616660373,
+      "intervention": {
+        "intensity": -0.06167721748352051
+      }
+    },
+    {
+      "sample_idx": 6497,
+      "do_parent": "digit",
+      "seed": 1068822008,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6511,
+      "do_parent": "thickness",
+      "seed": 1588928339,
+      "intervention": {
+        "thickness": -0.23761415481567383
+      }
+    },
+    {
+      "sample_idx": 6511,
+      "do_parent": "intensity",
+      "seed": 1115648751,
+      "intervention": {
+        "intensity": 0.8452844619750977
+      }
+    },
+    {
+      "sample_idx": 6511,
+      "do_parent": "digit",
+      "seed": 1715294034,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6596,
+      "do_parent": "thickness",
+      "seed": 3521059214,
+      "intervention": {
+        "thickness": -0.34927457571029663
+      }
+    },
+    {
+      "sample_idx": 6596,
+      "do_parent": "intensity",
+      "seed": 900295978,
+      "intervention": {
+        "intensity": 0.537419319152832
+      }
+    },
+    {
+      "sample_idx": 6596,
+      "do_parent": "digit",
+      "seed": 1499941261,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6602,
+      "do_parent": "thickness",
+      "seed": 335665950,
+      "intervention": {
+        "thickness": -0.6822372674942017
+      }
+    },
+    {
+      "sample_idx": 6602,
+      "do_parent": "intensity",
+      "seed": 4157353658,
+      "intervention": {
+        "intensity": 0.5584595203399658
+      }
+    },
+    {
+      "sample_idx": 6602,
+      "do_parent": "digit",
+      "seed": 2510176406,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6664,
+      "do_parent": "thickness",
+      "seed": 1078323588,
+      "intervention": {
+        "thickness": -0.09968876838684082
+      }
+    },
+    {
+      "sample_idx": 6664,
+      "do_parent": "intensity",
+      "seed": 2752527648,
+      "intervention": {
+        "intensity": -0.137698233127594
+      }
+    },
+    {
+      "sample_idx": 6664,
+      "do_parent": "digit",
+      "seed": 1105350396,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6669,
+      "do_parent": "thickness",
+      "seed": 328855540,
+      "intervention": {
+        "thickness": -0.5652824640274048
+      }
+    },
+    {
+      "sample_idx": 6669,
+      "do_parent": "intensity",
+      "seed": 4150543248,
+      "intervention": {
+        "intensity": -0.30192065238952637
+      }
+    },
+    {
+      "sample_idx": 6669,
+      "do_parent": "digit",
+      "seed": 2503365996,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6694,
+      "do_parent": "thickness",
+      "seed": 2188372413,
+      "intervention": {
+        "thickness": -0.12274420261383057
+      }
+    },
+    {
+      "sample_idx": 6694,
+      "do_parent": "intensity",
+      "seed": 1715092825,
+      "intervention": {
+        "intensity": 0.11649692058563232
+      }
+    },
+    {
+      "sample_idx": 6694,
+      "do_parent": "digit",
+      "seed": 2215399221,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6708,
+      "do_parent": "thickness",
+      "seed": 687360791,
+      "intervention": {
+        "thickness": -0.06754463911056519
+      }
+    },
+    {
+      "sample_idx": 6708,
+      "do_parent": "intensity",
+      "seed": 214081203,
+      "intervention": {
+        "intensity": 0.47645604610443115
+      }
+    },
+    {
+      "sample_idx": 6708,
+      "do_parent": "digit",
+      "seed": 2861871247,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6732,
+      "do_parent": "thickness",
+      "seed": 735453597,
+      "intervention": {
+        "thickness": -0.015331923961639404
+      }
+    },
+    {
+      "sample_idx": 6732,
+      "do_parent": "intensity",
+      "seed": 2409657657,
+      "intervention": {
+        "intensity": -0.49462974071502686
+      }
+    },
+    {
+      "sample_idx": 6732,
+      "do_parent": "digit",
+      "seed": 762480405,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6828,
+      "do_parent": "thickness",
+      "seed": 780867921,
+      "intervention": {
+        "thickness": -0.7721458673477173
+      }
+    },
+    {
+      "sample_idx": 6828,
+      "do_parent": "intensity",
+      "seed": 2455071981,
+      "intervention": {
+        "intensity": -0.7112629413604736
+      }
+    },
+    {
+      "sample_idx": 6828,
+      "do_parent": "digit",
+      "seed": 3054717264,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6860,
+      "do_parent": "thickness",
+      "seed": 2560960382,
+      "intervention": {
+        "thickness": 0.0046765804290771484
+      }
+    },
+    {
+      "sample_idx": 6860,
+      "do_parent": "intensity",
+      "seed": 2087680794,
+      "intervention": {
+        "intensity": 0.17483079433441162
+      }
+    },
+    {
+      "sample_idx": 6860,
+      "do_parent": "digit",
+      "seed": 440503542,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6861,
+      "do_parent": "thickness",
+      "seed": 3519445586,
+      "intervention": {
+        "thickness": -0.44063085317611694
+      }
+    },
+    {
+      "sample_idx": 6861,
+      "do_parent": "intensity",
+      "seed": 898682350,
+      "intervention": {
+        "intensity": 0.3192741870880127
+      }
+    },
+    {
+      "sample_idx": 6861,
+      "do_parent": "digit",
+      "seed": 1498327633,
+      "intervention": {
+        "digit": [
+          [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 6883,
+      "do_parent": "thickness",
+      "seed": 1602949971,
+      "intervention": {
+        "thickness": -0.7185946702957153
+      }
+    },
+    {
+      "sample_idx": 6883,
+      "do_parent": "intensity",
+      "seed": 1129670383,
+      "intervention": {
+        "intensity": 0.2390502691268921
+      }
+    },
+    {
+      "sample_idx": 6883,
+      "do_parent": "digit",
+      "seed": 1729315666,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7052,
+      "do_parent": "thickness",
+      "seed": 1456583132,
+      "intervention": {
+        "thickness": -0.254599928855896
+      }
+    },
+    {
+      "sample_idx": 7052,
+      "do_parent": "intensity",
+      "seed": 3130787192,
+      "intervention": {
+        "intensity": -0.7897037267684937
+      }
+    },
+    {
+      "sample_idx": 7052,
+      "do_parent": "digit",
+      "seed": 3730432475,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7057,
+      "do_parent": "thickness",
+      "seed": 3707537595,
+      "intervention": {
+        "thickness": 0.2854121923446655
+      }
+    },
+    {
+      "sample_idx": 7057,
+      "do_parent": "intensity",
+      "seed": 3234258007,
+      "intervention": {
+        "intensity": -0.12398427724838257
+      }
+    },
+    {
+      "sample_idx": 7057,
+      "do_parent": "digit",
+      "seed": 3833903290,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7083,
+      "do_parent": "thickness",
+      "seed": 83088728,
+      "intervention": {
+        "thickness": -0.5370386242866516
+      }
+    },
+    {
+      "sample_idx": 7083,
+      "do_parent": "intensity",
+      "seed": 3904776436,
+      "intervention": {
+        "intensity": -0.4784107804298401
+      }
+    },
+    {
+      "sample_idx": 7083,
+      "do_parent": "digit",
+      "seed": 209454423,
+      "intervention": {
+        "digit": [
+          [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7126,
+      "do_parent": "thickness",
+      "seed": 3028608023,
+      "intervention": {
+        "thickness": -0.08211851119995117
+      }
+    },
+    {
+      "sample_idx": 7126,
+      "do_parent": "intensity",
+      "seed": 407844787,
+      "intervention": {
+        "intensity": 0.6557296514511108
+      }
+    },
+    {
+      "sample_idx": 7126,
+      "do_parent": "digit",
+      "seed": 1007490070,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7146,
+      "do_parent": "thickness",
+      "seed": 3931715218,
+      "intervention": {
+        "thickness": -0.5439772605895996
+      }
+    },
+    {
+      "sample_idx": 7146,
+      "do_parent": "intensity",
+      "seed": 3458435630,
+      "intervention": {
+        "intensity": 0.949657678604126
+      }
+    },
+    {
+      "sample_idx": 7146,
+      "do_parent": "digit",
+      "seed": 4058080913,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7179,
+      "do_parent": "thickness",
+      "seed": 2375325587,
+      "intervention": {
+        "thickness": -0.4019230008125305
+      }
+    },
+    {
+      "sample_idx": 7179,
+      "do_parent": "intensity",
+      "seed": 1902045999,
+      "intervention": {
+        "intensity": -0.8440470099449158
+      }
+    },
+    {
+      "sample_idx": 7179,
+      "do_parent": "digit",
+      "seed": 2501691282,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7279,
+      "do_parent": "thickness",
+      "seed": 1665064409,
+      "intervention": {
+        "thickness": -0.6675816774368286
+      }
+    },
+    {
+      "sample_idx": 7279,
+      "do_parent": "intensity",
+      "seed": 3339268469,
+      "intervention": {
+        "intensity": 0.4603058099746704
+      }
+    },
+    {
+      "sample_idx": 7279,
+      "do_parent": "digit",
+      "seed": 1692091217,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7288,
+      "do_parent": "thickness",
+      "seed": 60581972,
+      "intervention": {
+        "thickness": -0.316495418548584
+      }
+    },
+    {
+      "sample_idx": 7288,
+      "do_parent": "intensity",
+      "seed": 3882269680,
+      "intervention": {
+        "intensity": 0.4347778558731079
+      }
+    },
+    {
+      "sample_idx": 7288,
+      "do_parent": "digit",
+      "seed": 2235092428,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7315,
+      "do_parent": "thickness",
+      "seed": 395040820,
+      "intervention": {
+        "thickness": -0.6787427663803101
+      }
+    },
+    {
+      "sample_idx": 7315,
+      "do_parent": "intensity",
+      "seed": 4216728528,
+      "intervention": {
+        "intensity": 0.12954139709472656
+      }
+    },
+    {
+      "sample_idx": 7315,
+      "do_parent": "digit",
+      "seed": 2569551276,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7442,
+      "do_parent": "thickness",
+      "seed": 409123538,
+      "intervention": {
+        "thickness": -0.6338547468185425
+      }
+    },
+    {
+      "sample_idx": 7442,
+      "do_parent": "intensity",
+      "seed": 4230811246,
+      "intervention": {
+        "intensity": -0.2277502417564392
+      }
+    },
+    {
+      "sample_idx": 7442,
+      "do_parent": "digit",
+      "seed": 535489233,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7452,
+      "do_parent": "thickness",
+      "seed": 616065168,
+      "intervention": {
+        "thickness": -0.7312533855438232
+      }
+    },
+    {
+      "sample_idx": 7452,
+      "do_parent": "intensity",
+      "seed": 2290269228,
+      "intervention": {
+        "intensity": -0.07383853197097778
+      }
+    },
+    {
+      "sample_idx": 7452,
+      "do_parent": "digit",
+      "seed": 2889914511,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7468,
+      "do_parent": "thickness",
+      "seed": 1079641967,
+      "intervention": {
+        "thickness": -0.3319399952888489
+      }
+    },
+    {
+      "sample_idx": 7468,
+      "do_parent": "intensity",
+      "seed": 606362379,
+      "intervention": {
+        "intensity": -0.557682991027832
+      }
+    },
+    {
+      "sample_idx": 7468,
+      "do_parent": "digit",
+      "seed": 1206007662,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7498,
+      "do_parent": "thickness",
+      "seed": 2189690792,
+      "intervention": {
+        "thickness": -0.31053322553634644
+      }
+    },
+    {
+      "sample_idx": 7498,
+      "do_parent": "intensity",
+      "seed": 1716411204,
+      "intervention": {
+        "intensity": -0.012552320957183838
+      }
+    },
+    {
+      "sample_idx": 7498,
+      "do_parent": "digit",
+      "seed": 2316056487,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7518,
+      "do_parent": "thickness",
+      "seed": 3945736850,
+      "intervention": {
+        "thickness": -0.18323224782943726
+      }
+    },
+    {
+      "sample_idx": 7518,
+      "do_parent": "intensity",
+      "seed": 3472457262,
+      "intervention": {
+        "intensity": -0.6003029346466064
+      }
+    },
+    {
+      "sample_idx": 7518,
+      "do_parent": "digit",
+      "seed": 1825280010,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7569,
+      "do_parent": "thickness",
+      "seed": 3475349641,
+      "intervention": {
+        "thickness": 0.30039656162261963
+      }
+    },
+    {
+      "sample_idx": 7569,
+      "do_parent": "intensity",
+      "seed": 854586405,
+      "intervention": {
+        "intensity": -0.49652189016342163
+      }
+    },
+    {
+      "sample_idx": 7569,
+      "do_parent": "digit",
+      "seed": 3502376449,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7581,
+      "do_parent": "thickness",
+      "seed": 3499396044,
+      "intervention": {
+        "thickness": 0.07853925228118896
+      }
+    },
+    {
+      "sample_idx": 7581,
+      "do_parent": "intensity",
+      "seed": 3026116456,
+      "intervention": {
+        "intensity": -0.07637590169906616
+      }
+    },
+    {
+      "sample_idx": 7581,
+      "do_parent": "digit",
+      "seed": 1378939204,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7589,
+      "do_parent": "thickness",
+      "seed": 936428403,
+      "intervention": {
+        "thickness": -0.1348886489868164
+      }
+    },
+    {
+      "sample_idx": 7589,
+      "do_parent": "intensity",
+      "seed": 2610632463,
+      "intervention": {
+        "intensity": -0.5190792083740234
+      }
+    },
+    {
+      "sample_idx": 7589,
+      "do_parent": "digit",
+      "seed": 963455211,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7592,
+      "do_parent": "thickness",
+      "seed": 318134708,
+      "intervention": {
+        "thickness": -0.3575267195701599
+      }
+    },
+    {
+      "sample_idx": 7592,
+      "do_parent": "intensity",
+      "seed": 1992338768,
+      "intervention": {
+        "intensity": -0.5083487033843994
+      }
+    },
+    {
+      "sample_idx": 7592,
+      "do_parent": "digit",
+      "seed": 2591984051,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7610,
+      "do_parent": "thickness",
+      "seed": 1503476017,
+      "intervention": {
+        "thickness": -0.2900943160057068
+      }
+    },
+    {
+      "sample_idx": 7610,
+      "do_parent": "intensity",
+      "seed": 1030196429,
+      "intervention": {
+        "intensity": 0.4270411729812622
+      }
+    },
+    {
+      "sample_idx": 7610,
+      "do_parent": "digit",
+      "seed": 3677986473,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7621,
+      "do_parent": "thickness",
+      "seed": 2617181977,
+      "intervention": {
+        "thickness": -0.09258061647415161
+      }
+    },
+    {
+      "sample_idx": 7621,
+      "do_parent": "intensity",
+      "seed": 4291386037,
+      "intervention": {
+        "intensity": 0.1784200668334961
+      }
+    },
+    {
+      "sample_idx": 7621,
+      "do_parent": "digit",
+      "seed": 596064024,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7649,
+      "do_parent": "thickness",
+      "seed": 1762642381,
+      "intervention": {
+        "thickness": -0.1402679681777954
+      }
+    },
+    {
+      "sample_idx": 7649,
+      "do_parent": "intensity",
+      "seed": 3436846441,
+      "intervention": {
+        "intensity": 0.49738645553588867
+      }
+    },
+    {
+      "sample_idx": 7649,
+      "do_parent": "digit",
+      "seed": 4036491724,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7667,
+      "do_parent": "thickness",
+      "seed": 4190807601,
+      "intervention": {
+        "thickness": -0.6782082319259644
+      }
+    },
+    {
+      "sample_idx": 7667,
+      "do_parent": "intensity",
+      "seed": 3717528013,
+      "intervention": {
+        "intensity": 0.3597135543823242
+      }
+    },
+    {
+      "sample_idx": 7667,
+      "do_parent": "digit",
+      "seed": 22206000,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7703,
+      "do_parent": "thickness",
+      "seed": 773300364,
+      "intervention": {
+        "thickness": -0.3184552788734436
+      }
+    },
+    {
+      "sample_idx": 7703,
+      "do_parent": "intensity",
+      "seed": 2447504424,
+      "intervention": {
+        "intensity": 0.7736384868621826
+      }
+    },
+    {
+      "sample_idx": 7703,
+      "do_parent": "digit",
+      "seed": 3047149707,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7727,
+      "do_parent": "thickness",
+      "seed": 2968876818,
+      "intervention": {
+        "thickness": -0.7779209613800049
+      }
+    },
+    {
+      "sample_idx": 7727,
+      "do_parent": "intensity",
+      "seed": 348113582,
+      "intervention": {
+        "intensity": 0.8040772676467896
+      }
+    },
+    {
+      "sample_idx": 7727,
+      "do_parent": "digit",
+      "seed": 947758865,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7779,
+      "do_parent": "thickness",
+      "seed": 3504592826,
+      "intervention": {
+        "thickness": -0.343797504901886
+      }
+    },
+    {
+      "sample_idx": 7779,
+      "do_parent": "intensity",
+      "seed": 3031313238,
+      "intervention": {
+        "intensity": -0.8278442621231079
+      }
+    },
+    {
+      "sample_idx": 7779,
+      "do_parent": "digit",
+      "seed": 1384135986,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7783,
+      "do_parent": "thickness",
+      "seed": 3944123222,
+      "intervention": {
+        "thickness": -0.31900858879089355
+      }
+    },
+    {
+      "sample_idx": 7783,
+      "do_parent": "intensity",
+      "seed": 3470843634,
+      "intervention": {
+        "intensity": 0.5979290008544922
+      }
+    },
+    {
+      "sample_idx": 7783,
+      "do_parent": "digit",
+      "seed": 1823666382,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7801,
+      "do_parent": "thickness",
+      "seed": 3735580859,
+      "intervention": {
+        "thickness": -0.6741416454315186
+      }
+    },
+    {
+      "sample_idx": 7801,
+      "do_parent": "intensity",
+      "seed": 3262301271,
+      "intervention": {
+        "intensity": -0.0838998556137085
+      }
+    },
+    {
+      "sample_idx": 7801,
+      "do_parent": "digit",
+      "seed": 1615124019,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7922,
+      "do_parent": "thickness",
+      "seed": 2640089545,
+      "intervention": {
+        "thickness": -0.47074049711227417
+      }
+    },
+    {
+      "sample_idx": 7922,
+      "do_parent": "intensity",
+      "seed": 2266148844,
+      "intervention": {
+        "intensity": -0.8782680630683899
+      }
+    },
+    {
+      "sample_idx": 7922,
+      "do_parent": "digit",
+      "seed": 618971592,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7925,
+      "do_parent": "thickness",
+      "seed": 2121134737,
+      "intervention": {
+        "thickness": -0.5905798077583313
+      }
+    },
+    {
+      "sample_idx": 7925,
+      "do_parent": "intensity",
+      "seed": 1647855149,
+      "intervention": {
+        "intensity": 0.8645691871643066
+      }
+    },
+    {
+      "sample_idx": 7925,
+      "do_parent": "digit",
+      "seed": 2247500432,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7933,
+      "do_parent": "thickness",
+      "seed": 363487946,
+      "intervention": {
+        "thickness": -0.5715843439102173
+      }
+    },
+    {
+      "sample_idx": 7933,
+      "do_parent": "intensity",
+      "seed": 2037692006,
+      "intervention": {
+        "intensity": -0.6707262992858887
+      }
+    },
+    {
+      "sample_idx": 7933,
+      "do_parent": "digit",
+      "seed": 2637337289,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 7993,
+      "do_parent": "thickness",
+      "seed": 1778264746,
+      "intervention": {
+        "thickness": -0.6282905340194702
+      }
+    },
+    {
+      "sample_idx": 7993,
+      "do_parent": "intensity",
+      "seed": 1304985158,
+      "intervention": {
+        "intensity": 0.42179763317108154
+      }
+    },
+    {
+      "sample_idx": 7993,
+      "do_parent": "digit",
+      "seed": 1904630441,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 8039,
+      "do_parent": "thickness",
+      "seed": 4204829233,
+      "intervention": {
+        "thickness": -0.6811656355857849
+      }
+    },
+    {
+      "sample_idx": 8039,
+      "do_parent": "intensity",
+      "seed": 3731549645,
+      "intervention": {
+        "intensity": -0.40174704790115356
+      }
+    },
+    {
+      "sample_idx": 8039,
+      "do_parent": "digit",
+      "seed": 2084372393,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 8119,
+      "do_parent": "thickness",
+      "seed": 1738521997,
+      "intervention": {
+        "thickness": -0.6461665034294128
+      }
+    },
+    {
+      "sample_idx": 8119,
+      "do_parent": "intensity",
+      "seed": 3412726057,
+      "intervention": {
+        "intensity": 0.020677924156188965
+      }
+    },
+    {
+      "sample_idx": 8119,
+      "do_parent": "digit",
+      "seed": 1765548805,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 8165,
+      "do_parent": "thickness",
+      "seed": 4165086484,
+      "intervention": {
+        "thickness": -0.6508429050445557
+      }
+    },
+    {
+      "sample_idx": 8165,
+      "do_parent": "intensity",
+      "seed": 1544323248,
+      "intervention": {
+        "intensity": -0.11042118072509766
+      }
+    },
+    {
+      "sample_idx": 8165,
+      "do_parent": "digit",
+      "seed": 4192113292,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 8188,
+      "do_parent": "thickness",
+      "seed": 154932688,
+      "intervention": {
+        "thickness": -0.016914308071136475
+      }
+    },
+    {
+      "sample_idx": 8188,
+      "do_parent": "intensity",
+      "seed": 3976620396,
+      "intervention": {
+        "intensity": -0.7860852479934692
+      }
+    },
+    {
+      "sample_idx": 8188,
+      "do_parent": "digit",
+      "seed": 281298383,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 8259,
+      "do_parent": "thickness",
+      "seed": 1440591537,
+      "intervention": {
+        "thickness": -0.3281768560409546
+      }
+    },
+    {
+      "sample_idx": 8259,
+      "do_parent": "intensity",
+      "seed": 3114795597,
+      "intervention": {
+        "intensity": -0.3347715139389038
+      }
+    },
+    {
+      "sample_idx": 8259,
+      "do_parent": "digit",
+      "seed": 3714440880,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 8310,
+      "do_parent": "thickness",
+      "seed": 3970626839,
+      "intervention": {
+        "thickness": -0.79498291015625
+      }
+    },
+    {
+      "sample_idx": 8310,
+      "do_parent": "intensity",
+      "seed": 1349863603,
+      "intervention": {
+        "intensity": 0.22381138801574707
+      }
+    },
+    {
+      "sample_idx": 8310,
+      "do_parent": "digit",
+      "seed": 3997653647,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 8468,
+      "do_parent": "thickness",
+      "seed": 2611215153,
+      "intervention": {
+        "thickness": -0.1938055157661438
+      }
+    },
+    {
+      "sample_idx": 8468,
+      "do_parent": "intensity",
+      "seed": 2137935565,
+      "intervention": {
+        "intensity": 0.6841951608657837
+      }
+    },
+    {
+      "sample_idx": 8468,
+      "do_parent": "digit",
+      "seed": 2737580848,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 8471,
+      "do_parent": "thickness",
+      "seed": 750097547,
+      "intervention": {
+        "thickness": -0.22236555814743042
+      }
+    },
+    {
+      "sample_idx": 8471,
+      "do_parent": "intensity",
+      "seed": 376156846,
+      "intervention": {
+        "intensity": 0.7981845140457153
+      }
+    },
+    {
+      "sample_idx": 8471,
+      "do_parent": "digit",
+      "seed": 3023946890,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 8528,
+      "do_parent": "thickness",
+      "seed": 1389284370,
+      "intervention": {
+        "thickness": -0.5854914784431458
+      }
+    },
+    {
+      "sample_idx": 8528,
+      "do_parent": "intensity",
+      "seed": 916004782,
+      "intervention": {
+        "intensity": -0.15924131870269775
+      }
+    },
+    {
+      "sample_idx": 8528,
+      "do_parent": "digit",
+      "seed": 3663133713,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 8723,
+      "do_parent": "thickness",
+      "seed": 3307319632,
+      "intervention": {
+        "thickness": -0.5167068243026733
+      }
+    },
+    {
+      "sample_idx": 8723,
+      "do_parent": "intensity",
+      "seed": 686556396,
+      "intervention": {
+        "intensity": 0.1452469825744629
+      }
+    },
+    {
+      "sample_idx": 8723,
+      "do_parent": "digit",
+      "seed": 3334346440,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 8751,
+      "do_parent": "thickness",
+      "seed": 2452780036,
+      "intervention": {
+        "thickness": -0.061769306659698486
+      }
+    },
+    {
+      "sample_idx": 8751,
+      "do_parent": "intensity",
+      "seed": 4126984096,
+      "intervention": {
+        "intensity": 0.12490677833557129
+      }
+    },
+    {
+      "sample_idx": 8751,
+      "do_parent": "digit",
+      "seed": 2479806844,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 8796,
+      "do_parent": "thickness",
+      "seed": 2968581569,
+      "intervention": {
+        "thickness": -0.7135721445083618
+      }
+    },
+    {
+      "sample_idx": 8796,
+      "do_parent": "intensity",
+      "seed": 447157220,
+      "intervention": {
+        "intensity": -0.2138746976852417
+      }
+    },
+    {
+      "sample_idx": 8796,
+      "do_parent": "digit",
+      "seed": 3094947264,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 8855,
+      "do_parent": "thickness",
+      "seed": 2935649230,
+      "intervention": {
+        "thickness": -0.6351650953292847
+      }
+    },
+    {
+      "sample_idx": 8855,
+      "do_parent": "intensity",
+      "seed": 314885994,
+      "intervention": {
+        "intensity": 0.7232109308242798
+      }
+    },
+    {
+      "sample_idx": 8855,
+      "do_parent": "digit",
+      "seed": 914531277,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 8892,
+      "do_parent": "thickness",
+      "seed": 1818789995,
+      "intervention": {
+        "thickness": -0.4331836700439453
+      }
+    },
+    {
+      "sample_idx": 8892,
+      "do_parent": "intensity",
+      "seed": 3492994055,
+      "intervention": {
+        "intensity": 0.18864166736602783
+      }
+    },
+    {
+      "sample_idx": 8892,
+      "do_parent": "digit",
+      "seed": 4092639338,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 8908,
+      "do_parent": "thickness",
+      "seed": 2282366794,
+      "intervention": {
+        "thickness": -0.12371069192886353
+      }
+    },
+    {
+      "sample_idx": 8908,
+      "do_parent": "intensity",
+      "seed": 1809087206,
+      "intervention": {
+        "intensity": -0.12071633338928223
+      }
+    },
+    {
+      "sample_idx": 8908,
+      "do_parent": "digit",
+      "seed": 161909954,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 9078,
+      "do_parent": "thickness",
+      "seed": 3094485159,
+      "intervention": {
+        "thickness": -0.575877845287323
+      }
+    },
+    {
+      "sample_idx": 9078,
+      "do_parent": "intensity",
+      "seed": 2621205571,
+      "intervention": {
+        "intensity": 0.3183164596557617
+      }
+    },
+    {
+      "sample_idx": 9078,
+      "do_parent": "digit",
+      "seed": 3220850854,
+      "intervention": {
+        "digit": [
+          [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 9191,
+      "do_parent": "thickness",
+      "seed": 2072210803,
+      "intervention": {
+        "thickness": -0.21807295083999634
+      }
+    },
+    {
+      "sample_idx": 9191,
+      "do_parent": "intensity",
+      "seed": 1598931215,
+      "intervention": {
+        "intensity": 0.49765896797180176
+      }
+    },
+    {
+      "sample_idx": 9191,
+      "do_parent": "digit",
+      "seed": 4246721259,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 9263,
+      "do_parent": "thickness",
+      "seed": 2168871208,
+      "intervention": {
+        "thickness": -0.2871599793434143
+      }
+    },
+    {
+      "sample_idx": 9263,
+      "do_parent": "intensity",
+      "seed": 3843075268,
+      "intervention": {
+        "intensity": 0.201515793800354
+      }
+    },
+    {
+      "sample_idx": 9263,
+      "do_parent": "digit",
+      "seed": 2195898016,
+      "intervention": {
+        "digit": [
+          [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 9393,
+      "do_parent": "thickness",
+      "seed": 2469319968,
+      "intervention": {
+        "thickness": -0.37620460987091064
+      }
+    },
+    {
+      "sample_idx": 9393,
+      "do_parent": "intensity",
+      "seed": 1996040380,
+      "intervention": {
+        "intensity": -0.6137194633483887
+      }
+    },
+    {
+      "sample_idx": 9393,
+      "do_parent": "digit",
+      "seed": 2595685663,
+      "intervention": {
+        "digit": [
+          [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 9422,
+      "do_parent": "thickness",
+      "seed": 473399941,
+      "intervention": {
+        "thickness": -0.526391863822937
+      }
+    },
+    {
+      "sample_idx": 9422,
+      "do_parent": "intensity",
+      "seed": 120353,
+      "intervention": {
+        "intensity": -0.3347715139389038
+      }
+    },
+    {
+      "sample_idx": 9422,
+      "do_parent": "digit",
+      "seed": 599765636,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 9467,
+      "do_parent": "thickness",
+      "seed": 1088540361,
+      "intervention": {
+        "thickness": -0.6104464530944824
+      }
+    },
+    {
+      "sample_idx": 9467,
+      "do_parent": "intensity",
+      "seed": 2762744421,
+      "intervention": {
+        "intensity": 0.8589023351669312
+      }
+    },
+    {
+      "sample_idx": 9467,
+      "do_parent": "digit",
+      "seed": 1115567169,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 9486,
+      "do_parent": "thickness",
+      "seed": 3985966850,
+      "intervention": {
+        "thickness": -0.5138979554176331
+      }
+    },
+    {
+      "sample_idx": 9486,
+      "do_parent": "intensity",
+      "seed": 1365203614,
+      "intervention": {
+        "intensity": -0.7455990314483643
+      }
+    },
+    {
+      "sample_idx": 9486,
+      "do_parent": "digit",
+      "seed": 1964848897,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 9584,
+      "do_parent": "thickness",
+      "seed": 406457514,
+      "intervention": {
+        "thickness": -0.1983647346496582
+      }
+    },
+    {
+      "sample_idx": 9584,
+      "do_parent": "intensity",
+      "seed": 2180000461,
+      "intervention": {
+        "intensity": -0.5649429559707642
+      }
+    },
+    {
+      "sample_idx": 9584,
+      "do_parent": "digit",
+      "seed": 532823209,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 9586,
+      "do_parent": "thickness",
+      "seed": 1128222024,
+      "intervention": {
+        "thickness": -0.3660055994987488
+      }
+    },
+    {
+      "sample_idx": 9586,
+      "do_parent": "intensity",
+      "seed": 654942436,
+      "intervention": {
+        "intensity": 0.08579397201538086
+      }
+    },
+    {
+      "sample_idx": 9586,
+      "do_parent": "digit",
+      "seed": 3302732480,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 9641,
+      "do_parent": "thickness",
+      "seed": 1850965187,
+      "intervention": {
+        "thickness": -0.5028800964355469
+      }
+    },
+    {
+      "sample_idx": 9641,
+      "do_parent": "intensity",
+      "seed": 1377685599,
+      "intervention": {
+        "intensity": 0.709662675857544
+      }
+    },
+    {
+      "sample_idx": 9641,
+      "do_parent": "digit",
+      "seed": 1977330882,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 9687,
+      "do_parent": "thickness",
+      "seed": 1277107163,
+      "intervention": {
+        "thickness": -0.46688902378082275
+      }
+    },
+    {
+      "sample_idx": 9687,
+      "do_parent": "intensity",
+      "seed": 803827575,
+      "intervention": {
+        "intensity": 0.3206533193588257
+      }
+    },
+    {
+      "sample_idx": 9687,
+      "do_parent": "digit",
+      "seed": 3550956506,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 9691,
+      "do_parent": "thickness",
+      "seed": 422092774,
+      "intervention": {
+        "thickness": -0.7823281288146973
+      }
+    },
+    {
+      "sample_idx": 9691,
+      "do_parent": "intensity",
+      "seed": 4243780482,
+      "intervention": {
+        "intensity": 0.09450292587280273
+      }
+    },
+    {
+      "sample_idx": 9691,
+      "do_parent": "digit",
+      "seed": 548458469,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 9713,
+      "do_parent": "thickness",
+      "seed": 1142304742,
+      "intervention": {
+        "thickness": -0.16640323400497437
+      }
+    },
+    {
+      "sample_idx": 9713,
+      "do_parent": "intensity",
+      "seed": 669025154,
+      "intervention": {
+        "intensity": -0.4704892039299011
+      }
+    },
+    {
+      "sample_idx": 9713,
+      "do_parent": "digit",
+      "seed": 1268670437,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "sample_idx": 9813,
+      "do_parent": "thickness",
+      "seed": 432043564,
+      "intervention": {
+        "thickness": -0.27930372953414917
+      }
+    },
+    {
+      "sample_idx": 9813,
+      "do_parent": "intensity",
+      "seed": 2106247624,
+      "intervention": {
+        "intensity": -0.5344034433364868
+      }
+    },
+    {
+      "sample_idx": 9813,
+      "do_parent": "digit",
+      "seed": 459070372,
+      "intervention": {
+        "digit": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    }
+  ]
+}

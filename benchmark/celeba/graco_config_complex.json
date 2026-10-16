@@ -1,0 +1,9 @@
+{
+  "population_size": 2000,
+  "max_generations": 500,
+  "p_crossover": 0.9,
+  "p_mutation": 0.01,
+  "elite_size": 1,
+  "turtle_delta_scale": 5.0,
+  "batch_size_eval": 512
+}

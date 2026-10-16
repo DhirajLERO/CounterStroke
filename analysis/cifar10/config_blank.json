@@ -1,0 +1,12 @@
+{
+  "population_size": 1000,
+  "max_generations": 500,
+  "p_crossover": 0.9,
+  "p_mutation": 0.01,
+  "elite_size": 1,
+  "halloffame_size": 3,
+  "model_ckpt": "../../Cifar10/models/cifar_resnet.pt",
+  "batch_size_eval": 1024,
+  "turtle_delta_scale": 5.0,
+  "amp": false
+}

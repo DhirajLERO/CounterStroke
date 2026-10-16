@@ -1,0 +1,41 @@
+{
+  "budget": {
+    "population_size": 300,
+    "max_generations": 300,
+    "run_ids": [0, 1, 2],
+    "snapshot_gens": [100, 200, 300],
+    "main_population": 1000,
+    "main_logged_generations": 501
+  },
+  "runtime": {
+    "device": "auto",
+    "amp": false,
+    "batch_size_eval": 256,
+    "turtle_delta_scale": 5.0
+  },
+  "paths": {
+    "data_dir": "data",
+    "model_ckpt": "models/cifar_resnet.pt",
+    "eval_manifest": "data_subset/eval_manifest.json"
+  },
+  "evolution": {
+    "p_crossover": 0.9,
+    "p_mutation": 0.01,
+    "elite_size": 1,
+    "halloffame_size": 4,
+    "tournsize": 10,
+    "min_init_genome_length": 30,
+    "max_init_genome_length": 50,
+    "random_initilisation": false,
+    "max_init_tree_depth": 30,
+    "min_init_tree_depth": 7,
+    "max_tree_depth": 35,
+    "max_wraps": 5,
+    "codon_size": 1024,
+    "codon_consumption": "lazy",
+    "genome_representation": "list",
+    "max_genome_length": null,
+    "n_runs": 1,
+    "report_items": ["gen", "invalid", "avg", "std", "min", "max"]
+  }
+}

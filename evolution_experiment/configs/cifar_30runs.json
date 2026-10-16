@@ -1,0 +1,52 @@
+{
+  "__parallel_jobs_v8__": {
+    "max_indices": 1,
+    "runs_per_sample": 1,
+    "num_workers": 10,
+    "experiment_name": "evolution_30runs",
+    "test_run": false
+  },
+  "runtime": {
+    "device": "auto",
+    "amp": false,
+    "seed": 0,
+    "num_workers": 0,
+    "batch_size_eval": 512,
+    "turtle_delta_scale": 5.0,
+    "render_workers": null,
+    "render_parallel_threshold": 8,
+    "render_parallel_enabled": true
+  },
+  "paths": {
+    "data_dir": "../data",
+    "download": true,
+    "results_root": "../results/cifar",
+    "model_ckpt": "../models/cifar_resnet.pt"
+  },
+  "evolution": {
+    "population_size": 1000,
+    "max_generations": 500,
+    "p_crossover": 0.9,
+    "p_mutation": 0.01,
+    "elite_size": 1,
+    "halloffame_size": 4,
+    "tournsize": 10,
+    "min_init_genome_length": 30,
+    "max_init_genome_length": 50,
+    "random_initilisation": false,
+    "max_init_tree_depth": 30,
+    "min_init_tree_depth": 7,
+    "max_tree_depth": 35,
+    "max_wraps": 5,
+    "codon_size": 1024,
+    "codon_consumption": "lazy",
+    "genome_representation": "list",
+    "max_genome_length": null,
+    "n_runs": 1,
+    "report_items": ["gen", "invalid", "avg", "std", "min", "max"]
+  },
+  "training": {
+    "max_train_images": 0,
+    "cfrl_train_steps": 50000
+  }
+}

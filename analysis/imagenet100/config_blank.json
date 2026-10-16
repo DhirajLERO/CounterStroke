@@ -1,0 +1,12 @@
+{
+  "population_size": 5000,
+  "max_generations": 800,
+  "p_crossover": 0.9,
+  "p_mutation": 0.01,
+  "elite_size": 1,
+  "halloffame_size": 3,
+  "model_ckpt": "../../Imagenet/models/imagenet100_inception.pt",
+  "batch_size_eval": 1000,
+  "turtle_delta_scale": 5.0,
+  "amp": true
+}
