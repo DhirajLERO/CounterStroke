@@ -78,9 +78,8 @@ Counterfactual tensors for one image land in `tensors.npz` under that dataset's 
 
 ## Deep-SCM interventions
 
-On MorphoMNIST and CelebA the question is not "did the class flip?" but "does the image express a requested intervention?" The first objective becomes an intervention loss from the benchmark's own attribute models. CounterStroke does not train those attribute models, and it does not use the VAE, HVAE, or GAN to draw the image. Sparsity and proximity stay as the other two objectives. If no candidate meets the intervention, the pick falls back to the smallest intervention loss.
-
-MorphoMNIST covers digit identity, thickness, and intensity (200 test indices, 600 interventions). CelebA is run on the benchmark's simple graph (eyeglasses, smiling; 400 interventions) and complex graph (bald, male, no-beard, young; 800 interventions). Images and the SCM checkpoints are downloaded or trained separately.
+On MorphoMNIST and CelebA the question is not "did the class flip?" but "does the image express a requested intervention?" 
+MorphoMNIST covers digit identity, thickness, and intensity (200 test indices, 600 interventions). CelebA is run on the benchmark's simple graph (eyeglasses, smiling; 400 interventions) and complex graph (bald, male, no-beard, young; 800 interventions). 
 
 ```bash
 python benchmark/morphomnist/run_pipeline.py
